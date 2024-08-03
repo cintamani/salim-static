@@ -1,0 +1,3 @@
+// vanilla JS
+
+// document.get

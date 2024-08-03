@@ -1,0 +1,85 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+// https://getbootstrap.com/docs/5.3/customize/color/#colors
+// $primary: #9c0630;
+// $white: #ffffff;
+// $light: #cdf6ff;
+// $dark: #f0a621;
+// $body: #f0a621;
+// $secondary: #c04b55;
+// $info: #fa696a;
+// $accent1: #1b8851;
+// $accent2: #3d9674;
+// $accent3: #becead;
+// $success: #65ad09;
+// $warning: #ffc277;
+// $danger: #f60369;
+
+// colour first logo
+// $light:      #767f25;
+//     $dark:       #714017;
+//     $primary:    #f9a805;
+//     $secondary:  #b0772d;
+//     $info:       #bf8b49;
+//     $accent1:    #45558a;
+//     $accent2:    #00324e;
+//     $accent3:    #465f83;
+//     $success:    #4da300;
+//     $warning:    #ffbf4a;
+//     $danger:     #f1005e;
+
+// // # Colour second logo (favourite)
+    $light:      #c5d187;
+    $dark:       #714017;
+    $primary:    #f9a805;
+    $secondary:  #b0772d;
+    $info:       #bf8b49;
+    $accent1:    #45558a;
+    $accent2:    #00324e;
+    $accent3:    #465f83;
+    $success:    #4da300;
+    $warning:    #ffbf4a;
+    $danger:     #f1005e;
+
+@import "bootstrap";
+//  @import "font-awesome";
+
+$sfs: #767f25;
+$dsds: #714017;
+
+// VERDE SCHIARITO DA CARTA
+$ff: #a3c439;
+$ff: #644822;
+$ff: #c5d187;
+// Beige
+// Marrone piu' scuro
+
+
+// FONTS (come carta intestata): Avenir Next Condensed, ma si può usare myriad che è identico e forse più reperibile
+// NOW:
+
+$light: #c5d187;
+$dark: #714017;
+
+
+// LOGO 1:
+$verde: #767f25;
+$marrone: #874c1b;
+
+// LOGO 2:
+$verde: #5a8f30;
+$marrone: #874c1b
