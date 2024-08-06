@@ -181,8 +181,13 @@ body {
   min-height: 480px;
 }
 
+.custom-bg-colour {
+  background-color: #1C2416;
+}
 
-
+.footer-bg-colour {
+  background-color: #382213;
+}
 .navbar {
   --bs-navbar-active-color: var(--bs-white);
 }

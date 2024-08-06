@@ -4,13 +4,21 @@
 let hasBackground = false;
 
 function transitionToNoBackground(navbar) {
-  navbar.classList.remove('bg-primary');
+  navbar.classList.remove('custom-bg-colour');
+
+  navbar.querySelectorAll('.text-dark').forEach(function (element) {
+    element.classList.replace('text-dark', 'text-white');
+  });
 
   hasBackground = false;
 }
 
 function transitionToWhiteBackground(navbar) {
-  navbar.classList.add('bg-primary');
+  navbar.classList.add('custom-bg-colour');
+
+  navbar.querySelectorAll('.text-white').forEach(function (element) {
+    element.classList.replace('text-white', 'text-dark');
+  });
 
   hasBackground = true;
 }
