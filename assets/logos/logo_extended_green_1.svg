@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="Livello_2"
-   viewBox="0 0 230.769 95.610002"
+   viewBox="0 0 230.769 93.699998"
    version="1.1"
    sodipodi:docname="logo_extended_green_1.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    width="230.769"
-   height="95.610001"
+   height="93.699997"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="4.3673662"
-     inkscape:cx="130.97138"
-     inkscape:cy="58.616563"
+     inkscape:cx="70.980995"
+     inkscape:cy="35.261526"
      inkscape:window-width="1512"
      inkscape:window-height="837"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Livello_1-2"
+     inkscape:window-x="1758"
+     inkscape:window-y="316"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Livello_2"
      showguides="false" />
   <defs
      id="defs1">
@@ -60,12 +60,12 @@
          class="cls-1"
          d="m 146.76,45.39 c 0.73,-1.54 -0.65,-3.66 -1.14,-4.39 -0.57,-0.73 -1.46,-0.57 -1.63,0.08 -0.16,0.57 0,0.57 -0.57,1.38 -1.55,2.28 -1.79,2.77 -0.57,4.31 1.22,1.55 2.68,0.9 3.9,-1.38 z"
          id="path1"
-         style="fill:#637b20;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1" />
       <path
          class="cls-1"
          d="m 201.75,60.76 c -0.89,0.73 -0.41,1.3 -1.3,2.12 -1.14,1.06 -3.9,3.09 -7.65,4.88 -3.82,1.79 -7.81,2.85 -9.19,1.95 -1.79,-1.14 0.16,-3.5 4.31,-9.52 2.52,-3.66 6.26,-8.7 2.03,-9.92 -3.33,-0.98 -9.52,3.5 -13.18,6.75 -3.91,3.5 -5.86,5.12 -7,6.26 -0.24,0.24 -0.41,0 -0.16,-0.41 1.63,-2.77 7.08,-11.31 2.77,-12.61 -3.34,-0.98 -8.54,3.25 -13.26,7 -3.82,3.09 -6.34,5.29 -7.48,6.18 -0.16,0.16 -0.33,0 -0.16,-0.24 0.49,-0.73 4.96,-8.05 5.53,-9.03 0.24,-0.41 0.65,-1.38 0.24,-2.2 -1.06,-2.11 -2.03,-2.85 -3.42,-1.06 -1.38,1.79 -3.01,3.82 -2.77,5.69 0.24,1.87 -0.08,2.44 -0.81,3.66 -0.33,0.55 -1.35,2.18 -2.38,3.87 -1.44,1.06 -3.52,2.39 -6.08,3.61 -3.82,1.79 -7.65,3.01 -8.95,2.03 -1.95,-1.46 2.77,-8.13 3.82,-9.76 0.98,-1.46 3.34,-4.8 3.74,-5.61 0.24,-0.41 0.33,-1.38 -0.08,-2.2 -1.38,-3.01 -2.03,-2.52 -3.01,-1.3 -1.63,2.03 -3.01,3.33 -2.52,5.12 0.33,1.14 -0.24,1.87 -1.06,3.09 -1.14,1.84 -2.03,3.4 -2.68,4.75 -1.44,1.1 -3.66,2.55 -6.43,3.87 -3.82,1.79 -7.81,2.85 -9.19,1.95 -2.28,-1.46 0.89,-7.24 3.58,-11.96 2.12,-3.74 9.52,-15.46 16.68,-27.25 1.87,-3.09 4.72,-7.48 5.29,-8.46 0.24,-0.41 0.65,-1.38 0.24,-2.2 -1.06,-2.12 -2.03,-2.85 -3.42,-1.06 -1.38,1.79 -3.01,3.82 -2.77,5.69 0.24,1.87 -0.24,2.6 -1.22,4.39 -0.73,1.3 -14.64,23.75 -17.16,27.82 -1.3,2.09 -2.54,4.49 -3.34,6.74 -1.38,1.11 -3.83,2.73 -6.99,4.24 -3.82,1.79 -7.81,2.93 -9.19,2.03 -1.38,-0.81 1.71,-7.81 3.25,-7.89 1.14,-0.08 1.95,-2.36 2.28,-3.42 0.49,-1.55 -0.16,-3.17 -1.06,-4.39 -0.89,-1.22 -1.87,0.57 -1.87,0.57 0,0 -0.73,2.03 -4.39,5.94 -4.15,4.47 -13.5,11.23 -16.19,9.03 -2.12,-1.71 2.12,-8.38 8.22,-13.1 8.7,-6.75 14.8,-5.94 16.43,-1.95 0.49,1.14 0.89,1.95 1.71,1.63 0.81,-0.33 0.98,-1.38 0.65,-1.95 -2.77,-5.69 -12.85,-5.69 -21.64,0.57 -5.78,4.07 -11.39,12.77 -7,15.86 4.39,3.09 14.48,-5.21 18.55,-9.35 0.33,-0.33 0.57,-0.08 0.41,0.24 -2.85,5.61 -3.25,7.89 -0.81,9.27 1.79,0.98 6.75,-0.24 10.82,-2.2 3.05,-1.47 5.04,-2.72 6.37,-3.7 -0.72,2.66 -0.61,4.92 1.11,5.9 1.79,0.98 6.83,-0.16 10.9,-2.12 2.49,-1.2 4.23,-2.3 5.5,-3.21 -1.09,2.83 -0.75,4.43 1,5.41 1.79,0.98 6.59,-0.24 10.66,-2.2 2,-0.96 3.51,-1.84 4.69,-2.62 -0.77,1.31 -1.38,2.39 -1.44,2.7 -0.16,0.89 1.38,3.33 2.36,1.71 2.52,-4.23 8.13,-9.27 11.96,-12.36 5.04,-4.07 8.38,-5.45 9.35,-4.64 0.73,0.65 0.57,2.28 -1.14,6.1 -1.55,3.42 -3.9,7.65 -4.56,9.19 -0.33,0.81 1.14,3.66 2.28,1.71 2.36,-3.9 7.56,-8.87 11.79,-12.61 4.23,-3.74 7.89,-5.45 9.19,-4.39 0.73,0.65 0.57,2.03 -1.14,4.8 -4.15,6.83 -6.67,10.58 -3.25,12.53 1.79,0.98 6.83,-0.16 10.9,-2.12 4.23,-2.03 6.34,-3.74 7.57,-4.72 2.03,-1.63 3.25,-2.85 3.17,-3.66 -0.08,-0.81 -0.73,-0.57 -2.03,0.49 z"
          id="path2"
-         style="fill:#637b20;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        id="g32"
@@ -87,7 +87,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:16px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed,  Medium Condensed';fill:#637b20;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:16px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed,  Medium Condensed';fill:#ffffff;fill-opacity:1"
        x="71.805275"
        y="90.313667"
        id="text1"
@@ -96,14 +96,6 @@
          id="tspan1"
          x="71.805275"
          y="90.313667"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:16px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed,  Medium Condensed';fill:#637b20;fill-opacity:1">piccoli gesti per grandi frutti</tspan></text>
-    <rect
-       style="display:inline;fill:#7b4920;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="rect6"
-       width="158.90584"
-       height="1.6027967"
-       x="72.35482"
-       y="93.87809"
-       transform="translate(-0.17835555,-0.07580893)" />
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:condensed;font-size:16px;font-family:'Saira Condensed';-inkscape-font-specification:'Saira Condensed,  Medium Condensed';fill:#ffffff;fill-opacity:1">piccoli gesti per grandi frutti</tspan></text>
   </g>
 </svg>

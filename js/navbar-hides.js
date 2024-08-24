@@ -4,7 +4,7 @@
 let hasBackground = false;
 
 function transitionToNoBackground(navbar) {
-  navbar.classList.remove('bg-white');
+  navbar.classList.remove('custom-bg-colour');
 
   navbar.querySelectorAll('.text-dark').forEach(function (element) {
     element.classList.replace('text-dark', 'text-white');
@@ -14,7 +14,7 @@ function transitionToNoBackground(navbar) {
 }
 
 function transitionToWhiteBackground(navbar) {
-  navbar.classList.add('bg-white');
+  navbar.classList.add('custom-bg-colour');
 
   navbar.querySelectorAll('.text-white').forEach(function (element) {
     element.classList.replace('text-white', 'text-dark');
@@ -37,8 +37,8 @@ function toggleNavbar(navbar) {
 
 const navbar = document.querySelector('.navbar');
 
-// if (navbar) {
-//   window.addEventListener('scroll', function () {
-//     toggleNavbar(navbar);
-//   });
-// }
+if (navbar) {
+  window.addEventListener('scroll', function () {
+    toggleNavbar(navbar);
+  });
+}
