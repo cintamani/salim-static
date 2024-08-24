@@ -1,6 +1,3 @@
-// vanilla JS
-
-
 let hasBackground = false;
 
 function transitionToNoBackground(navbar) {

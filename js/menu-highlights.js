@@ -3,6 +3,23 @@ document.addEventListener('DOMContentLoaded', function () {
   const sections = document.querySelectorAll('[data-target-section]');
   const menuItems = document.querySelectorAll('[data-target]');
 
+  menuItems.forEach(item => {
+    item.addEventListener('click', function (event) {
+      event.preventDefault();
+      event.stopPropagation();
+
+      const target = item.getAttribute('data-target');
+      const section = document.querySelector(`[id="${target}"]`);
+
+      if (section) {
+        window.scrollTo({
+          top: section.offsetTop - document.getElementById("menu-bar").clientHeight,
+          behavior: 'smooth'
+        });
+      }
+    });
+  });
+
   function setActiveMenuItem() {
     let currentSection = '';
 
@@ -24,5 +41,5 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   window.addEventListener('scroll', setActiveMenuItem);
-  setActiveMenuItem(); // Call once to set initial state
+  setActiveMenuItem();
 });
