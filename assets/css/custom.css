@@ -255,3 +255,7 @@ body {
   margin-top: 1rem;
   margin-bottom: unset;
 }
+
+.bg-verdino {
+  background-color: var(--bs-verdino);
+}
