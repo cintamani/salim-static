@@ -22,8 +22,10 @@ title: Salim ODV
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Organizazzione di volontariato Salim ODV
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# the subpath of your site, e.g. /blog
+# baseurl: ""
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://salimodv.org"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
