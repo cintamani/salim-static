@@ -10,7 +10,7 @@
   </div>
   <div class="carousel-inner">
     {% for item in site.data.testimonianze %}
-      <div class="carousel-item active bg-white bg-opacity-75 px-5 pt-5 pb-3">
+      <div class="carousel-item {% if forloop.first == true %}active{% endif %} bg-white bg-opacity-75 px-5 pt-5 pb-3">
         <div class="row">
           <figure class="col-xs-12 d-sm-none">
             <img class="rounded-circle img-fluid" src="{{ item.foto.src }}"
