@@ -1,0 +1,19 @@
+- name: home
+  url: /
+  label: Home
+
+- name: progetti
+  url: /progetti
+  label: Progetti
+
+- name: la-storia
+  url: /#la-storia
+  label: La Storia
+
+- name: volontari
+  url: /soci-e-volontari
+  label: Soci e Volontari
+
+- name: footer
+  url: /#footer
+  label: Contatti

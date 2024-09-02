@@ -1,0 +1,64 @@
+  <footer class="bd-footer row text-white footer-bg-colour px-3" data-target-section id="footer">
+    <div class="col col-12 col-sm-6 col-md-4 py-3 ps-4">
+      <div>
+        <p class="h4 text-warning">Salim ODV</p>
+        <p class="h6">Via delle mole 16/C, </p>
+        <p class="h6">00041 Albano Laziale (RM)</p>
+        <p class="h6">
+          <i class="bi bi-telephone"></i>
+          06 20199236
+        </p>
+
+      </div>
+    </div>
+
+    <div class="col-12 ps-4 col-sm-6 ps-sm-0 col-md-4 p-3 py-3">
+      <div>
+        <p class="h5 text-light">IBAN</p>
+        <p class="h6">
+          <img class="bi" src="assets/images/icons/Heart-hand-shake.svg" width="25" height="25"></img>
+          IT 95Q0 6230 5106 1000 0469 459 56
+        </p>
+        <p class="h5 text-light">Carta</p>
+        <p class="h6">
+          <a href="{{page.data.links.dona_ora}}" class="icon-link link-light">
+            <i class="bi bi-credit-card"></i>
+            Dona online
+          </a>
+        </p>
+      </div>
+    </div>
+
+    <div class="col-12 col-sm-6 ps-4 col-md-4 py-3 ps-md-0">
+      <div>
+        <p class="h5 text-light">Informazioni</p>
+        <p class="h6">
+          <a href="/cookie_policy.html">Politica dei Cookie</a>
+        </p>
+        <p class="h6">
+          <a href="/privacy_policy.html">Dichiarazione sulla privacy</a>
+        </p>
+        <p class="h6">
+          <a data-open-cookie-consent="true" href="#">Le tue impostazioni sulla privacy</a>
+        </p>
+      </div>
+    </div>
+
+    <hr class="text-white mb-2"/>
+    <div class="col-12 px-4 pb-2 d-flex">
+      <div class="cursor-pointer me-2 mb-0 align-self-center flex-grow-1">
+        <a href="mailto:info@salimodv.org" class="icon-link">
+          <i class="bi-envelope-heart"></i>
+          info@salimodv.org
+        </a>
+
+        <a href="https://www.facebook.com/people/Salim-ODV/61565249391287/" target="_blank" class="ms-2 icon-link">
+          <i class="bi-facebook"></i>
+          Segui le news su Facebook
+        </a>
+      </div>
+      <div class="me-2">
+        {% include buttons/donate.html %}
+      </div>
+    </div>
+  </footer>

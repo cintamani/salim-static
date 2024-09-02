@@ -19,8 +19,8 @@
   {% endif %}
 </head>
 
-<body>
-  {% include nav.html %}
+<body {% if page.url == "/" %} data-bs-spy="scroll" data-bs-target="#menu-bar" data-bs-offset="0" tabindex="0" {% endif %}>
+  {% include layout/nav.html %}
 
   <main class="container-full">
     <div class="{% if page.url != "/" %}skip-nav{% endif %}">
@@ -28,9 +28,8 @@
     </div>
   </main>
 
-  {% include footer.html %}
-
-  {% include consent_modal.html %}
+  {% include layout/footer.html %}
+  {% include layout/consent_modal.html %}
 
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
     integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
@@ -39,11 +38,11 @@
     integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
     crossorigin="anonymous"></script>
 
-  <script src="assets/js/menu-highlights.js"></script>
   <script src="assets/js/cookies.js"></script>
 
   {% if page.url == "/" %}
     <script src="assets/js/navbar-hides.js"></script>
+    <script src="assets/js/menu-highlights.js"></script>
   {% endif %}
 </body>
 

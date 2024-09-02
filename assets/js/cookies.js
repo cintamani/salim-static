@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const cookieConsentModal = new bootstrap.Modal(document.getElementById('cookieConsentModal'));
+  const openCookieConsentButtons = document.querySelectorAll('[data-open-cookie-consent]');
   const cookieConsentMinimized = document.getElementById('cookieConsentMinimized');
   const savePreferencesButton = document.getElementById('savePreferences');
   const marketingCookiesToggle = document.getElementById('marketingCookies');
@@ -54,6 +55,16 @@ document.addEventListener('DOMContentLoaded', function() {
   cookieConsentMinimized.addEventListener('click', function() {
     cookieConsentModal.show();
     cookieConsentMinimized.style.display = 'none';
+  });
+
+  openCookieConsentButtons.forEach(button => {
+    button.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+
+      cookieConsentModal.show();
+      cookieConsentMinimized.style.display = 'none';
+    });
   });
 
   cookieConsentMinimized.addEventListener('mouseenter', function() {
