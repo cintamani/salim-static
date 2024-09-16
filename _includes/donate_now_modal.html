@@ -1,0 +1,67 @@
+<div class="modal fade" id="{{ include.handle }}" tabindex="-1" aria-labelledby="{{ include.handle }}Label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-3 mx-auto" id="{{ include.handle }}Label"><img class="bi me-2" src="assets/images/icons/Heart-hand-shake.svg" width="30" height="30"></img>Dona ora</h1>
+      </div>
+      <div class="modal-body">
+        <h2 class="fs-4 mb-0">Bonifico bancario</h2>
+        <h3 class="fs-5 mb-3 text-dark text-decoration-underline">Aiutaci a risparmiare i costi di commissione. Fai un bonifico diretto.</h3>
+        <div class="fs-5">
+          IBAN: <em>IT 95Q0 6230 5106 1000 0469 459 56</em>
+          <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy" data-clipboard-text="IT95Q0623051061000046945956">
+            <i data-bs-toggle="tooltip" data-bs-title="Copia" class="bi bi-clipboard"></i>
+          </a>
+        </div>
+        <div class="fs-5">
+          B.I.C./SWIFT: <em>CRPPIT2P319</em>
+          <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy" data-clipboard-text="CRPPIT2P319">
+            <i data-bs-toggle="tooltip" data-bs-title="Copia" class="bi bi-clipboard"></i>
+          </a>
+        </div>
+        <div class="fs-5 mt-1 d-flex flex-row">
+          <div class="me-3">Intestato a:</div>
+          <div>
+            <p class="mb-0">Salim ODV </p>
+            <p class="h6 mb-0">Via delle mole 16/C, </p>
+            <p class="h6">00041 Albano Laziale (RM)</p>
+          </div>
+        </div>
+        <hr/>
+        <h4 class="fs-5 mb-4">Oppure, usa la tua carta premendo il bottone qui' sotto</h4>
+        <div class="d-flex">
+          {% include buttons/donate.html style="btn-warning btn-md mx-auto w-auto" additional='<i class="bi bi-credit-card"></i>' %}
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Chiudi</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.getElementById('{{ include.handle }}');
+    const clipboard = new ClipboardJS('.btn-copy-to-clipboard', {
+      container: modal
+    });
+    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    const options = { boundary: modal }
+    const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl, options))
+
+    if (ClipboardJS.isSupported()) {
+      clipboard.on('success', function(e) {
+        const tooltipElement = e.trigger.querySelector('[data-bs-toggle="tooltip"]');
+        const tooltip = bootstrap.Tooltip.getInstance(tooltipElement);
+
+        tooltip.setContent({ '.tooltip-inner': 'Copiato!' });
+        tooltip.show();
+      });
+    } else {
+      document.getElementsByClassName('btn-copy-to-clipboard').forEach(function(button) {
+        button.style.display = 'none';
+      });
+    }
+  });
+</script>
