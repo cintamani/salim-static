@@ -1,15 +1,90 @@
-- nome_bambino: "fssoofsof"
-  descrizione: "fsdasdksadksa"
+- nome: "Umi Abdulrahman"
+  eta: 13
+  descrizione: |
+    Umi è una signorina di 15 anni.
   foto:
     src: "nome_foto"
     alt: "Testo Alternativo per screenreader"
-  blah: djaodjwaodjsao
-  dadsadsaj: asddsa
+  fratelli: 3
+  sorelle: 3
+  occupazione_madre: "La madre non lavora. Si occupa dei figli e nipoti"
+  occupazione_padre: "Il papà aiuta nella scuola del villaggio con quello che serve"
+  educazione:
+  note_particolari:
+  casa:
 
-- nome_bambino: "fssoofsof"
-  descrizione: "fsdasdksadksa"
+- nome: "Sauda Chizi Dziwe"
+  eta: 5
+  descrizione: |
+    Sauda è una bimba del 2019 che vive in una piccola casa di terra con il tetto in
+    foglie di cocco, insieme alla sua numerosa famiglia: in casa sono 11, 9 figli e i
+    loro genitori. L’unica fonte di reddito per loro è la mamma che ogni giorno si inoltra
+    nel bosco da sola (è una zona molto rischiosa con anche animali velenosi e predatori),
+    taglia la legna che trova,se la carica e va a venderla in giro. Il Papà è allettato da
+    mesi con una brutta infezione ad entrambe le gambe e non può provvedere alle necessità di casa.
   foto:
     src: "nome_foto"
     alt: "Testo Alternativo per screenreader"
-  blah: djaodjwaodjsao
-  dadsadsaj:
+  fratelli: 6
+  sorelle: 2
+  occupazione_madre: "Mamma va nella foresta e fa il taglialegna e rivende alle persone"
+  occupazione_padre: "Padre con gambe piene di pus e allettato da mesi"
+  educazione: "1 anno di asilo"
+  note_particolari:
+  casa: Cassa di terra e foglie di cocco
+
+- nome: "Nyawa Mwavuo"
+  eta: 11
+  descrizione:
+  foto:
+    src: "nome_foto"
+    alt: "Testo Alternativo per screenreader"
+  fratelli: 1
+  sorelle: 1
+  occupazione_madre: "Vende le verdure."
+  occupazione_padre:
+  educazione:
+  note_particolari: Affetto da aids
+  casa:
+
+- nome: "Shaban Ali Mwakibero"
+  eta: 12
+  descrizione:
+  foto:
+    src: "nome_foto"
+    alt: "Testo Alternativo per screenreader"
+  fratelli: 3
+  sorelle: 1
+  occupazione_madre: "La mamma lavora saltuariamente al negozio da noi."
+  occupazione_padre: Il padre guida la moto taxi
+  educazione:
+  note_particolari: Affetto da aids
+  casa:
+
+- nome: "Twalibu Mgumbau"
+  eta: 7
+  descrizione:
+  foto:
+    src: "nome_foto"
+    alt: "Testo Alternativo per screenreader"
+  fratelli: 2
+  sorelle: 1
+  occupazione_madre: La mamma lavora a kwale, cucina cibo di strada
+  occupazione_padre:
+  educazione:
+  note_particolari: Vive con la mamma e la nonna.
+  casa:
+
+- nome: "Smayia Rashid"
+  eta: 12
+  descrizione:
+  foto:
+    src: "nome_foto"
+    alt: "Testo Alternativo per screenreader"
+  fratelli: 2
+  sorelle: 1
+  occupazione_madre: La mamma lavora a kwale, cucina cibo di strada
+  occupazione_padre:
+  educazione:
+  note_particolari: Sorella di twalibu.
+  casa: casa di terra e lamiera

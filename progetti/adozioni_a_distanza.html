@@ -1,0 +1,132 @@
+---
+layout: default
+title: Associazione Salim ODV - Progetti - Adozioni a distanza
+---
+
+<div class="container pb-5">
+  <div class="bd-main order-1">
+    <div class="pt-3">
+      <h1 class="display-1">Adozioni a distanza</h1>
+      <p class="fs-3">
+        Con quote di 40 o 50 euro mensili puoi cambiare sostanzialmente la vita di un
+            bambino.
+      </p>
+    </div>
+    <div class="p-5 mb-4 mark rounded-3">
+      <div class="container-fluid py-5">
+        <h2 class="display-6 fw-bold">Vorresti fare la differenza nella vita di un bambino o di una famiglia? Diventa un
+          <span class="text-body-emphasis">sostenitore</span>!</h2>
+        <p class="col-md-8 fs-4">
+
+        </p>
+        <!-- <button class="btn btn-primary btn-lg" type="button">Example button</button> -->
+      </div>
+    </div>
+
+    <p class="fs-2">
+      Scorri la pagina progetti per vedere i bambini in cerca di un sostenitore e leggere le loro storie.
+      Se trovi qualcuno che ti tocca il cuore, <a href="#footer">contattaci</a> per iniziare un sostegno
+      a distanza. Puoi anche settare pagamenti automatici usando la tua carta.
+    </p>
+
+    <div class="row row-cols-2 row-cols-xs-1">
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm border-primary">
+          <div class="card-header text-bg-primary text-white border-primary py-3">
+            <h4 class="my-0 fw-normal">Basica</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">40€<small class="text-body-secondary fw-light"> al mese garantiscono</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Cibo</li>
+              <li>Igiene</li>
+              <li>Vestiti</li>
+              <li>Medicine</li>
+            </ul>
+            <!-- <button type="button" class="w-100 btn btn-lg btn-primary"> ? ? eh, poi? ?</button> -->
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Pro</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">50€<small class="text-body-secondary fw-light"> al mese garantiscono</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Cibo</li>
+              <li>Igiene</li>
+              <li>Vestiti</li>
+              <li>Medicine</li>
+              <li>Tasse scuola pubblica primaria</li>
+            </ul>
+            <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <hr/>
+
+    <div class="album py-5 bg-body-tertiary">
+      <div class="container">
+        <div class="row row-cols-1 row-cols-md-2 g-3">
+          {% for item in site.data.adozioni %}
+            <div class="col">
+              <div class="card shadow-sm">
+                <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+                <div class="card-header">
+                  <span class="fs-3">
+                    {{ item.nome }} - {{ item.eta }} anni
+                  </span>
+                </div>
+                <div class="card-body">
+                  <div class="row row-cols-2 row-cols-sm-1 g-1">
+                    <div class="col">
+                      {% if item.occupazione_madre %}
+                        <div>
+                          <i class="bi bi-person-standing text-body-emphasis"></i> {{ item.occupazione_madre }}
+                        </div>
+                      {% endif %}
+
+                      {% if item.occupazione_padre %}
+                        <div>
+                          <i class="bi bi-person-standing text-body-emphasis"></i> {{ item.occupazione_padre }}
+                        </div>
+                      {% endif %}
+                      <i class="bi bi-gender-female"></i> {{ item.sorelle }} sorelle e <i class="bi bi-gender-male"></i> {{ item.fratelli }} fratelli
+                    </div>
+                    <div class="col">
+                      {% if item.educazione %}
+                        <div>
+                          <i class="bi bi-backpack3"></i> {{ item.educazione }}
+                        </div>
+                      {% endif %}
+
+                      {% if item.note_particolari %}
+                        <div>
+                          <i class="bi bi-info-square"></i> {{ item.note_particolari }}
+                        </div>
+                      {% endif %}
+                      {% if item.casa %}
+                        <div>
+                          <i class="bi bi-house"></i> {{ item.casa }}
+                        </div>
+                      {% endif %}
+                    </div>
+                  </div>
+                  {% if item.descrizione %}
+                    <hr/>
+                    <p class="card-text">{{ item.descrizione }}</p>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

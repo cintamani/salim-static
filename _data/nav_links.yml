@@ -3,7 +3,7 @@
   label: Home
 
 - name: progetti
-  url: /progetti
+  url: /#progetti
   label: Progetti
 
 - name: la-storia
