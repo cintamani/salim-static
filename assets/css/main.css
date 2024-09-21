@@ -24,6 +24,9 @@ html, body{
   --bs-verdone: #1c2416;
 }
 
+.text-verdone {
+  color: var(--bs-verdone);
+}
 
 .custom-bg-colour {
   background-color: var(--bs-verdone);

@@ -1,0 +1,89 @@
+---
+layout: default
+title: Associazione Salim ODV - Progetti - Adozioni a distanza
+---
+
+<div class="container pb-5">
+  <div class="bd-main order-1">
+    <div class="mt-3 p-4 mb-4 mark rounded-3">
+      <div class="container-fluid py-5">
+        <div class="row row-cols-md-2 row-cols-1">
+          <div class="col pb-md-0 pb-3">
+            <h1 class="display-1 ">Progetto animali</h1>
+            <h2 class="display-6 fw-bold">
+              Fornisci un animale da cortile ad una famiglia consentendo loro di
+              avere latte fresco, uova e carne in maniera semplice e diretta.
+              Li aiuterai ad autosostentarsi e ad imparare a gestire le proprie
+              risorse in maniera più consapevole.
+            </h2>
+          </div>
+          <div class="col">
+            <img src="/assets/images/foto/progetto_animali.jpg" alt="Progetto animali" class="card-img-top img-fluid">
+          </div>
+        </div>
+      </div>
+    </div>
+    <p class="fs-2">
+      I prezzi di una Capra variano dai 40 agli 80 euro a seconda del sesso,
+      eta´ e generalmente utilitá dell'animale.
+    </p>
+    <p class="fs-2">
+      I prezzi di un pollo o una gallina variano dai 10 ai 20 euro a seconda del sesso,
+      eta´ e generalmente utilitá dell'animale.
+    </p>
+    <p class="fs-2">
+      Puoi donare seguendo le istruzioni che appariranno dopo aver cliccato
+      il bottone quí sotto.
+    </p>
+    <p class="fs-2 text-decoration-underline text-secondary">
+      Se decidi di utilizzare il bonifico bancario, ti preghiamo di indicare
+      nella causale il nome del progetto e dell'animale scelto, e ti invitiamo a <a href="#footer">contattarci</a>
+      per poter ricevere le foto dell'animale che verra´ acquistato e la sua consegna
+      alla famiglia.
+    </p>
+    <p class="fs-2">
+      Nel caso in cui non sia possibile acquistare l'animale per il quale si e' fatta la
+      donazione, il denaro sara´ utilizzato per l'acquisto di un animale simile o per
+      l'acquisto di cibo per gli animali gia´ presenti.
+    </p>
+
+    <div class="row row-cols-2 row-cols-xs-1">
+      <div class="col">
+        <div class="card mb-4 rounded-3 border-secondary shadow-sm">
+          <div class="card-header text-bg-secondary text-white border-secondary py-3">
+            <h4 class="my-0 fw-normal">Dona una gallina</h4>
+          </div>
+          <div class="card-body d-flex align-items-center">
+            <h1 class="card-title pricing-card-title">10€ - 20€</h1>
+            <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNowChicken" class="ms-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">Dona ora</button>
+          </div>
+
+          {%
+            include donate_now_modal.html
+            handle="DonateNowChicken"
+            stripe_payment_link="https://donate.stripe.com/eVacOpdl0fGE37ieV0"
+            disclaimer="Dona un pollo. Donazione tra i 10€ e i 20€"
+            causale="Gallina Progetto Animali"
+          %}
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 border-secondary shadow-sm">
+          <div class="card-header text-bg-secondary text-white border-secondary py-3">
+            <h4 class="my-0 fw-normal">Dona una pecora</h4>
+          </div>
+          <div class="card-body d-flex align-items-center">
+            <h1 class="card-title pricing-card-title">40€ - 80€</h1>
+            <button type="button" class="ms-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">Dona ora</button>
+          </div>
+
+          {%
+            include donate_now_modal.html
+            handle="DonateNowSheep"
+            stripe_payment_link="https://donate.stripe.com/cN229Ldl07a8gY88wB"
+            disclaimer="Dona una pecora. Donazione tra i 40€ e gli 80€"
+            causale="Pecora Progetto Animali"
+          %}
+        </div>
+      </div>
+    </div>

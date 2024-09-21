@@ -2,11 +2,26 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-3 mx-auto" id="{{ include.handle }}Label"><img class="bi me-2" src="/assets/images/icons/Heart-hand-shake.svg" width="30" height="30"></img>Dona ora</h1>
+        <h1 class="modal-title fs-3 mx-auto text-white" id="{{ include.handle }}Label"><img class="bi me-2" src="/assets/images/icons/Heart-hand-shake.svg" width="30" height="30"></img>Dona ora</h1>
       </div>
       <div class="modal-body">
+        {% if include.disclaimer %}
+          <div class="p-3 mark rounded-3 mb-3">
+            <h2 class="fs-3 text-center mx-auto my-0">
+              {{include.disclaimer}}
+            </h2>
+          </div>
+        {% endif %}
         <h2 class="fs-4 mb-0">Bonifico bancario</h2>
         <h3 class="fs-5 mb-3 text-dark text-decoration-underline">Aiutaci a risparmiare i costi di commissione. Fai un bonifico diretto.</h3>
+        {% if include.causale %}
+          <div class="fs-5">
+            Causale: <em>{{ include.causale }}</em>
+            <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy" data-clipboard-text="{{ include.causale }}">
+              <i data-bs-toggle="tooltip" data-bs-title="Copia" class="bi bi-clipboard"></i>
+            </a>
+          </div>
+        {% endif %}
         <div class="fs-5">
           IBAN: <em>IT 95Q0 6230 5106 1000 0469 459 56</em>
           <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy" data-clipboard-text="IT95Q0623051061000046945956">
