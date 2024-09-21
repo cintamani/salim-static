@@ -74,7 +74,6 @@ document.addEventListener('DOMContentLoaded', function() {
   cookieConsentMinimized.addEventListener('mouseleave', function() {
     this.style.marginRight = '-110px';
   });
+
   showCookieConsent();
-
-
 });

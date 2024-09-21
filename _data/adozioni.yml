@@ -1,4 +1,4 @@
-- nome: "Umi Abdulrahman"
+- nome: "Umi A."
   eta: 13
   descrizione: |
     Umi è una signorina di 15 anni.
@@ -13,7 +13,7 @@
   note_particolari:
   casa:
 
-- nome: "Sauda Chizi Dziwe"
+- nome: "Sauda C. D."
   eta: 5
   descrizione: |
     Sauda è una bimba del 2019 che vive in una piccola casa di terra con il tetto in
@@ -33,7 +33,7 @@
   note_particolari:
   casa: Cassa di terra e foglie di cocco
 
-- nome: "Nyawa Mwavuo"
+- nome: "Nyawa M."
   eta: 11
   descrizione:
   foto:
@@ -44,10 +44,10 @@
   occupazione_madre: "Vende le verdure."
   occupazione_padre:
   educazione:
-  note_particolari: Affetto da aids
+  note_particolari: Esigenze mediche
   casa:
 
-- nome: "Shaban Ali Mwakibero"
+- nome: "Shaban A. M."
   eta: 12
   descrizione:
   foto:
@@ -55,13 +55,13 @@
     alt: "Testo Alternativo per screenreader"
   fratelli: 3
   sorelle: 1
-  occupazione_madre: "La mamma lavora saltuariamente al negozio da noi."
+  occupazione_madre: Lavora saltuariamente al negozio
   occupazione_padre: Il padre guida la moto taxi
   educazione:
-  note_particolari: Affetto da aids
+  note_particolari:
   casa:
 
-- nome: "Twalibu Mgumbau"
+- nome: "Twalibu M."
   eta: 7
   descrizione:
   foto:
@@ -75,7 +75,7 @@
   note_particolari: Vive con la mamma e la nonna.
   casa:
 
-- nome: "Smayia Rashid"
+- nome: "Smayia R."
   eta: 12
   descrizione:
   foto:
