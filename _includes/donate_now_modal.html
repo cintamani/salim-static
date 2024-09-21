@@ -45,7 +45,13 @@
         <hr/>
         <h4 class="fs-5 mb-4">Oppure, usa la tua carta premendo il bottone qui' sotto</h4>
         <div class="d-flex">
-          {% include buttons/donate.html style="btn-warning btn-md mx-auto w-auto" additional='<i class="bi bi-credit-card"></i>' %}
+          {%
+            include
+              buttons/donate.html
+              style="btn-warning btn-md mx-auto w-auto"
+              additional='<i class="bi bi-credit-card"></i>'
+              donation_link=include.stripe_payment_link
+          %}
         </div>
       </div>
       <div class="modal-footer">

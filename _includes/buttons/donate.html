@@ -1,6 +1,6 @@
 <a
   class="btn {% if include.style %}{{include.style}}{% else %}btn-outline-warning{% endif %} rounded-pill"
-  href="https://buy.stripe.com/8wMcOp2GmbqofU43cg">
+  href="{% if include.donation_link %}{{include.donation_link}}{% else %}https://buy.stripe.com/8wMcOp2GmbqofU43cg{% endif %}">
   {{include.additional}}
   Dona Ora
 </a>

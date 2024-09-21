@@ -21,12 +21,29 @@ html, body{
 :root,
 [data-bs-theme=light] {
   --bs-verdino: #c5d187;
+  --bs-verdino-rgb: rgb(197, 209, 135);
   --bs-verdone: #1c2416;
+  --bs-verdone-rgb: rgb(28, 36, 22);
 }
 
 .text-verdone {
   color: var(--bs-verdone);
 }
+
+.text-verdino {
+  color: var(--bs-verdino);
+}
+.link-verdino {
+  color: var(--bs-verdino) !important;
+  text-decoration-color: RGBA(var(--bs-verdino-rgb), var(--bs-link-underline-opacity, 1)) !important;
+}
+
+.link-verdino:hover,
+.link-verdino:focus {
+  color: RGBA(255, 255, 255, var(--bs-link-opacity, 1)) !important;
+  text-decoration-color: RGBA(255, 255, 255, var(--bs-link-underline-opacity, 1)) !important;
+}
+
 
 .custom-bg-colour {
   background-color: var(--bs-verdone);
