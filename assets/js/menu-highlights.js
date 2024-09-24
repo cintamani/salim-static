@@ -9,18 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   menuItems.forEach(item => {
     item.addEventListener('click', function (event) {
-      event.preventDefault();
-      event.stopPropagation();
-
-      const target = item.getAttribute('data-target');
-      const section = document.querySelector(`[id="${target}"]`);
-
-      if (section) {
-        window.scrollTo({
-          top: section.offsetTop - document.getElementById("menu-bar").clientHeight,
-          behavior: 'smooth'
-        });
-      }
+      document.getElementById("navbarSalimOdv").classList.remove('show');
     });
   });
 
