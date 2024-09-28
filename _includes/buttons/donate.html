@@ -1,6 +1,9 @@
-<a
+<button
+  type="button"
   class="btn {% if include.style %}{{include.style}}{% else %}btn-outline-warning{% endif %} rounded-pill"
-  href="{% if include.donation_link %}{{include.donation_link}}{% else %}https://buy.stripe.com/8wMcOp2GmbqofU43cg{% endif %}">
+  data-bs-toggle="modal"
+  data-bs-target="#DonateNowModal"
+>
   {{include.additional}}
   Dona Ora
-</a>
+</button>
