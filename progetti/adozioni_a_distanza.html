@@ -27,7 +27,7 @@ title: Associazione Salim ODV - Progetti - Adozioni a distanza
       a distanza.
     </p>
     <p class="fs-2">
-      Ti proponiamo un sostegno modulare di due quote. Il sostegno viene calibrato in base alle reali necessità del bambino 
+      Ti proponiamo un sostegno modulare di due quote. Il sostegno viene calibrato in base alle reali necessità del bambino
       e della sua famiglia, cercando di variare l'offerta di cibo per tentare di sopperire ad eventuali carenze nutritive.
 La quota relativa ai medicinali, quando non non necessaria, viene riconvertita in cibo.
     </p>
@@ -76,11 +76,11 @@ La quota relativa ai medicinali, quando non non necessaria, viene riconvertita i
 
     <div class="album py-5">
       <div class="container">
-        <div class="row row-cols-1 row-cols-md-3 row-cols-sm-2 g-3">
+        <div class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 g-3">
           {% for item in site.data.adozioni %}
             <div class="col">
               <div class="card shadow border-secondary">
-                <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+                <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="card-img-top img-fluid" width="100%" height="225"></img>
                 <div class="card-header bg-secondary text-white">
                   <span class="fs-3">
                     {{ item.nome }} - {{ item.eta }} anni
@@ -114,6 +114,7 @@ La quota relativa ai medicinali, quando non non necessaria, viene riconvertita i
                           <i class="bi bi-info-square"></i> {{ item.note_particolari }}
                         </div>
                       {% endif %}
+
                       {% if item.casa %}
                         <div>
                           <i class="bi bi-house"></i> {{ item.casa }}
