@@ -51,13 +51,13 @@
         {% endif %}
 
         <div class="d-flex">
-          {%
-            include
-              buttons/donate.html
-              style="btn-warning btn-md mx-auto w-auto"
-              additional='<i class="bi bi-credit-card"></i>'
-              donation_link=include.stripe_payment_link
-          %}
+          <a
+            href="{% if include.stripe_payment_link %}{{include.stripe_payment_link}}{% else %}https://buy.stripe.com/8wMcOp2GmbqofU43cg{% endif %}"
+            class="btn btn-warning btn-md mx-auto w-auto rounded-pill"
+          >
+            <i class="bi bi-credit-card"></i>
+            Dona Ora
+          </a>
         </div>
       </div>
       <div class="modal-footer">

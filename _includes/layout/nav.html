@@ -1,5 +1,5 @@
 <nav class="{% if page.url != "/" %} custom-bg-colour {% endif %}  navbar navbar-expand-md navbar-togglable fixed-top" aria-label="Salim ODV" id="menu-bar">
-  <div class="container-fluid">
+  <div class="container">
     <a class="navbar-brand justify-content-md-start me-2" href="/#">
       <img src="/assets/images/logos/logo_extended_green_1.svg" alt="Associazione Salim ODV" height="90"
         class="d-inline-block align-text-top m-2">
@@ -8,7 +8,7 @@
       aria-controls="navbarSalimOdv" aria-expanded="false" aria-label="Apri il menu">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse d-md-flex justify-content-md-center mt-3" id="navbarSalimOdv">
+    <div class="collapse navbar-collapse d-md-flex justify-content-md-end mt-3" id="navbarSalimOdv">
       <ul class="navbar-nav">
         {% for item in site.data.nav_links %}
           <li class="nav-item">
@@ -21,10 +21,10 @@
             </a>
           </li>
         {% endfor %}
+        <div class="ms-1">
+          {% include buttons/donate.html %}
+        </div>
       </ul>
-    </div>
-    <div class="d-none d-lg-block justify-content-md-end mt-3 navbar-nav">
-      {% include buttons/donate.html %}
     </div>
   </div>
 </nav>
