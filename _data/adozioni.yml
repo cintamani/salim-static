@@ -2,7 +2,7 @@
   eta: 13
   descrizione: |
     Umi è una signorina di 15 anni.
-  foto:bambini-palloncini.jpg
+  foto:/assets/images/bambini-palloncini.jpg
     src: "nome_foto"
     alt: "Testo Alternativo per screenreader"
   fratelli: 3
