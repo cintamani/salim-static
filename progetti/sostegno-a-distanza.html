@@ -70,19 +70,20 @@ La quota relativa ai medicinali, quando non non necessaria, viene riconvertita i
       </div>
     </div>
 
-
-
     <hr/>
 
     <div class="album py-5">
       <div class="container">
-        <div class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 g-3">
+        <div class="row row-cols-1 row-cols-lg-4 row-cols-md-3 row-cols-sm-2 g-3">
           {% for item in site.data.adozioni %}
             <div class="col">
-              <div class="card shadow border-secondary">
-                <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="card-img-top img-fluid" width="100%" height="225"></img>
+              <div class="card shadow border-secondary overflow-x-hidden">
+                <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="card-img-top"></img>
+                <!-- <div class="bg-secondary bg-opacity-75"> -->
+                <!-- <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="" height="225"></img> -->
+                <!-- </div> -->
                 <div class="card-header bg-secondary text-white">
-                  <span class="fs-3">
+                  <span class="fs-4">
                     {{ item.nome }} - {{ item.eta }} anni
                   </span>
                 </div>

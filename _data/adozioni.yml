@@ -1,11 +1,11 @@
 - nome: "Mgeni"
   eta: 4
   descrizione: |
-    "La famiglia di Mgeni (2020) è numerosissima: vive con i suoi 8 fratelli, i suoi genitori, insieme ad altri 6 cuginetti che sono stati abbandonati dai genitori. 
-    17 bocche da sfamare per un papà che fa il cuoco in una scuola locale e una mamma che arrotonda facendo la spaccalegna nel bosco e andando a rivendere il legname. 
-    Vivono tutti insieme in una casetta di terra e paglia. 
+    "La famiglia di Mgeni (2020) è numerosissima: vive con i suoi 8 fratelli, i suoi genitori, insieme ad altri 6 cuginetti che sono stati abbandonati dai genitori.
+    17 bocche da sfamare per un papà che fa il cuoco in una scuola locale e una mamma che arrotonda facendo la spaccalegna nel bosco e andando a rivendere il legname.
+    Vivono tutti insieme in una casetta di terra e paglia.
     Aiuta Mgeni e la sua famiglia a costruire un futuro più sicuro!"
-  foto: 
+  foto:
     src: "/assets/images/foto/mgeni.jpg"
     alt: "Bambina di 4 anni"
   fratelli: 3
@@ -26,8 +26,8 @@
     taglia la legna che trova,se la carica e va a venderla in giro. Il Papà è allettato da
     mesi con una brutta infezione ad entrambe le gambe e non può provvedere alle necessità di casa.
   foto:
-    src: "nome_foto"
-    alt: "Testo Alternativo per screenreader"
+    src: /assets/images/foto/Mgeni-Rehema-Mgandi.jpg
+    alt: "Bambina di 5 anni"
   fratelli: 6
   sorelle: 2
   occupazione_madre: "Mamma va nella foresta e fa il taglialegna e rivende alle persone"
@@ -40,7 +40,7 @@
   eta: 11
   descrizione:
   foto:
-    src: "nome_foto"
+    src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
   fratelli: 1
   sorelle: 1
@@ -54,7 +54,7 @@
   eta: 12
   descrizione:
   foto:
-    src: "nome_foto"
+    src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
   fratelli: 3
   sorelle: 1
@@ -68,7 +68,7 @@
   eta: 7
   descrizione:
   foto:
-    src: "nome_foto"
+    src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
   fratelli: 2
   sorelle: 1
@@ -82,7 +82,7 @@
   eta: 12
   descrizione:
   foto:
-    src: "nome_foto"
+    src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
   fratelli: 2
   sorelle: 1

@@ -134,6 +134,13 @@ html, body{
   height: auto;
 }
 
+.icon {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 180;
+  stroke-linecap: round;
+}
+
 body {
   font-family: "Saira Condensed", "Prompt", sans-serif;
   font-style: normal;

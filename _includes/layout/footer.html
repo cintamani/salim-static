@@ -1,74 +1,84 @@
-  <footer class="bd-footer row text-white footer-bg-colour px-3" data-target-section id="footer">
-    <div class="col col-12 col-sm-6 col-md-4 py-3 ps-4">
-      <div>
-        <p class="h4 text-warning">Salim ODV</p>
-        <p class="h6">Via delle mole 16/C, </p>
-        <p class="h6">00041 Albano Laziale (RM)</p>
-        <p class="h6">
-          <i class="bi bi-telephone"></i>
-          06 20199236
-        </p>
+  <footer class="bd-footer text-white footer-bg-colour px-3" data-target-section id="footer">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4">
+      <div class="col py-3 ps-4">
+        <div>
+          <p class="h3 text-warning">Salim ODV</p>
+          <p class="h5">Via delle mole 16/C, </p>
+          <p class="h5">00041 Albano Laziale (RM)</p>
+          <p class="h5">
+            <i class="bi bi-telephone"></i>
+            06 20199236
+          </p>
+        </div>
+      </div>
+
+      <div class="col ps-4 pe-0 ps-sm-0 p-3 py-3">
+        <div>
+          <p class="h3 text-warning">IBAN</p>
+          <p class="h6">
+            <button type="button" class="btn btn-link p-0 link-light" data-bs-toggle="modal" data-bs-target="#DonateNowModal">
+              <svg class="icon me-1" width="24" height="24">
+                <use xlink:href="/assets/images/icons/sprite.svg#heart-handshake"></use>
+              </svg>IT 95Q0 6230 5106 1000 0469 459 56
+            </button>
+          </p>
+          <p class="h3 mt-3 text-warning">Carta</p>
+          <p class="h6">
+            <button type="button" class="btn btn-link p-0 link-light" data-bs-toggle="modal" data-bs-target="#DonateNowModal">
+              <i class="bi-credit-card me-1"></i>Dona online
+            </button>
+          </p>
+        </div>
+      </div>
+
+      <div class="col ps-4 py-3 ">
+        <div>
+          <p class="h3 text-warning">Informazioni</p>
+          <p class="h6">
+            <a class="link-light" href="/cookie_policy.html">Politica dei Cookie</a>
+          </p>
+          <p class="h6">
+            <a class="link-light" href="/privacy_policy.html">Privacy policy</a>
+          </p>
+          <p class="h6">
+            <a class="link-light" data-open-cookie-consent="true" href="#">Le tue impostazioni sulla privacy</a>
+          </p>
+        </div>
+      </div>
+      <div class="col ps-4 py-3 ps-sm-0">
+        <div>
+          <p class="h3 text-warning">Scarica</p>
+          <p class="h6">
+            <a class="link-light" href="/assets/statuto.pdf" download>
+              <i class="me-1 bi bi-download me-1"></i>Statuto
+            </a>
+          </p>
+          <p class="h6">
+            <a class="link-light" href="/assets/regolamento.pdf" download>
+              <i class="me-1 bi bi-download me-1"></i>Regolamento e codice etico
+            </a>
+          </p>
+          <p class="h6">
+            <a class="link-light" href="/assets/ammissione_a_socio.pdf" download>
+              <i class="me-1 bi bi-download me-1"></i>Modulo di iscrizione a socio
+            </a>
+          </p>
+        </div>
       </div>
     </div>
+    <div class="row row-cols-1">
+      <hr class="text-white border-3 border-light mb-3"/>
+      <div class="col-12 px-4 pb-2 d-flex mb-2">
+        <div class="cursor-pointer me-2 mb-0 align-self-center flex-grow-1">
+          <a href="mailto:info@salimodv.org" class="link-light">
+            <i class="bi-envelope-heart me-1"></i>info@salimodv.org</a>
 
-    <div class="col-12 ps-4 col-sm-6 ps-sm-0 col-md-4 p-3 py-3">
-      <div>
-        <p class="h5 text-light">IBAN</p>
-        <p class="h6">
-          {% include buttons/bank_transfer.html %}
-        </p>
-        <p class="h5 text-light mt-3">Carta</p>
-        <p class="h6">
-          <button type="button" class="btn btn-icon p-0 link-light" data-bs-toggle="modal" data-bs-target="#DonateNowModal">
-            <i class="bi bi-credit-card"></i>
-            Dona online
-          </a>
-        </p>
-      </div>
-    </div>
-
-    <div class="col-12 col-sm-6 ps-4 col-md-4 py-3 ps-md-0">
-      <div>
-        <p class="h5 text-light">Informazioni</p>
-        <p class="h6">
-          <a href="/cookie_policy.html">Politica dei Cookie</a>
-        </p>
-        <p class="h6">
-          <a href="/privacy_policy.html">Privacy policy</a>
-        </p>
-        <p class="h6">
-          <a data-open-cookie-consent="true" href="#">Le tue impostazioni sulla privacy</a>
-        </p>
-        <p class="h6">
-          <a href="/assets/statuto.pdf" download>
-            <i class="bi bi-download me-1"></i>
-            Statuto
-          </a>
-        </p>
-        <p class="h6">
-          <a href="/assets/regolamento.pdf" download>
-            <i class="bi bi-download me-1"></i>
-            Regolamento e codice etico
-          </a>
-        </p>
-      </div>
-    </div>
-
-    <hr class="text-white mb-2"/>
-    <div class="col-12 px-4 pb-2 d-flex">
-      <div class="cursor-pointer me-2 mb-0 align-self-center flex-grow-1">
-        <a href="mailto:info@salimodv.org" class="icon-link">
-          <i class="bi-envelope-heart"></i>
-          info@salimodv.org
-        </a>
-
-        <a href="https://www.facebook.com/people/Salim-ODV/61565249391287/" target="_blank" class="ms-sm-2 icon-link">
-          <i class="bi-facebook"></i>
-          Segui le news su Facebook
-        </a>
-      </div>
-      <div class="me-2">
-        {% include buttons/donate.html %}
+          <a href="https://www.facebook.com/people/Salim-ODV/61565249391287/" target="_blank" class="ms-sm-2 link-light">
+            <i class="bi-facebook me-1"></i>Segui le news su Facebook</a>
+        </div>
+        <div class="me-2">
+          {% include buttons/donate.html %}
+        </div>
       </div>
     </div>
   </footer>
