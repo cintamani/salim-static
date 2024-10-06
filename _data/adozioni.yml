@@ -38,7 +38,12 @@
 
 - nome: "Nyawa M."
   eta: 11
-  descrizione:
+  descrizione: |
+    "La famiglia di Mgeni (2020) è numerosissima: vive con i suoi 8 fratelli, i suoi genitori, insieme ad altri 6 cuginetti che sono stati abbandonati dai genitori.
+    17 bocche da sfamare per un papà che fa il cuoco in una scuola locale e una mamma che arrotonda facendo la spaccalegna nel bosco e andando a rivendere il legname.
+    Vivono tutti insieme in una casetta di terra e paglia.
+    
+    Aiuta Mgeni e la sua famiglia a costruire un futuro più sicuro!"
   foto:
     src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
