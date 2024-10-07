@@ -13,6 +13,15 @@
   regione: Kwale, test 1, test 2
   esigenze_mediche: Test, test 1, test 2
   note_particolari: Test, test 1, test 2
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
 - nome: "Sauda C. D."
   eta: 5
@@ -31,6 +40,15 @@
   regione: Kwale
   esigenze_mediche: Test
   note_particolari: Test
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
 - nome: "Nyawa M."
   eta: 11
@@ -48,6 +66,15 @@
   regione: Kwale
   esigenze_mediche: Test
   note_particolari: Test
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
 - nome: "Shaban A. M."
   eta: 12
@@ -60,6 +87,15 @@
   regione: Kwale
   esigenze_mediche: Test
   note_particolari: Test
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
 - nome: "Twalibu M."
   eta: 7
@@ -72,6 +108,15 @@
   regione: Kwale
   esigenze_mediche: Test
   note_particolari: Test
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
 - nome: "Smayia R."
   eta: 12
@@ -84,3 +129,12 @@
   regione: Kwale
   esigenze_mediche: Test
   note_particolari: Test
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
