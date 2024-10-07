@@ -88,20 +88,19 @@ La quota relativa ai medicinali, quando non non necessaria, viene riconvertita i
                   </span>
                 </div>
                 <div class="card-body">
-                  <div class="row row-cols-2 row-cols-sm-1 g-1">
+                  <div class="row row-cols-1 row-cols-sm-2 g-1">
                     <div class="col">
-                      {% if item.occupazione_madre %}
+                      {% if item.casa %}
                         <div>
-                          <i class="bi bi-person-standing-dress text-body-emphasis"></i> {{ item.occupazione_madre }}
+                          <i class="bi bi-house text-body-warning"></i> {{ item.casa }}
                         </div>
                       {% endif %}
 
-                      {% if item.occupazione_padre %}
+                      {% if item.regione %}
                         <div>
-                          <i class="bi bi-person-standing text-body-emphasis"></i> {{ item.occupazione_padre }}
+                          <i class="bi bi-pin text-body-emphasis"></i> {{ item.regione }}
                         </div>
                       {% endif %}
-                      <i class="bi bi-gender-female"></i> {{ item.sorelle }} sorelle e <i class="bi bi-gender-male"></i> {{ item.fratelli }} fratelli
                     </div>
                     <div class="col">
                       {% if item.educazione %}
@@ -109,20 +108,18 @@ La quota relativa ai medicinali, quando non non necessaria, viene riconvertita i
                           <i class="bi bi-backpack3"></i> {{ item.educazione }}
                         </div>
                       {% endif %}
-
-                      {% if item.note_particolari %}
+                      {% if item.esigenze_mediche %}
                         <div>
-                          <i class="bi bi-info-square"></i> {{ item.note_particolari }}
-                        </div>
-                      {% endif %}
-
-                      {% if item.casa %}
-                        <div>
-                          <i class="bi bi-house"></i> {{ item.casa }}
+                          <i class="bi bi-heart-pulse"></i> {{ item.esigenze_mediche }}
                         </div>
                       {% endif %}
                     </div>
                   </div>
+                  {% if item.note_particolari %}
+                    <div>
+                      <i class="bi bi-info-square"></i> {{ item.note_particolari }}
+                    </div>
+                  {% endif %}
                   {% if item.descrizione %}
                     <hr/>
                     <p class="card-text">{{ item.descrizione }}</p>

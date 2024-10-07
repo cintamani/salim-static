@@ -8,13 +8,11 @@
   foto:
     src: "/assets/images/foto/mgeni.jpg"
     alt: "Bambina di 4 anni"
-  fratelli: 3
-  sorelle: 3
-  occupazione_madre: " "
-  occupazione_padre: " "
-  educazione:
-  note_particolari:
-  casa:
+  casa: test 1, test 2,test 1, test 2
+  educazione: lorem ipsum, test 1, test 2
+  regione: Kwale, test 1, test 2
+  esigenze_mediche: Test, test 1, test 2
+  note_particolari: Test, test 1, test 2
 
 - nome: "Sauda C. D."
   eta: 5
@@ -28,13 +26,11 @@
   foto:
     src: /assets/images/foto/Mgeni-Rehema-Mgandi.jpg
     alt: "Bambina di 5 anni"
-  fratelli: 6
-  sorelle: 2
-  occupazione_madre: "Mamma va nella foresta e fa il taglialegna e rivende alle persone"
-  occupazione_padre: "Padre con gambe piene di pus e allettato da mesi"
-  educazione: "1 anno di asilo"
-  note_particolari:
-  casa: Cassa di terra e foglie di cocco
+  casa: test 1, test 2
+  educazione: lorem ipsum
+  regione: Kwale
+  esigenze_mediche: Test
+  note_particolari: Test
 
 - nome: "Nyawa M."
   eta: 11
@@ -42,18 +38,16 @@
     "La famiglia di Mgeni (2020) è numerosissima: vive con i suoi 8 fratelli, i suoi genitori, insieme ad altri 6 cuginetti che sono stati abbandonati dai genitori.
     17 bocche da sfamare per un papà che fa il cuoco in una scuola locale e una mamma che arrotonda facendo la spaccalegna nel bosco e andando a rivendere il legname.
     Vivono tutti insieme in una casetta di terra e paglia.
-    
+
     Aiuta Mgeni e la sua famiglia a costruire un futuro più sicuro!"
   foto:
     src: /assets/images/foto/quattroterzi.jpg
     alt: "Testo Alternativo per screenreader"
-  fratelli: 1
-  sorelle: 1
-  occupazione_madre: "Vende le verdure."
-  occupazione_padre:
-  educazione:
-  note_particolari: Esigenze mediche
-  casa:
+  casa: test 1, test 2
+  educazione: lorem ipsum
+  regione: Kwale
+  esigenze_mediche: Test
+  note_particolari: Test
 
 - nome: "Shaban A. M."
   eta: 12
@@ -61,13 +55,11 @@
   foto:
     src: /assets/images/foto/Mgeni-rettangolare.jpg
     alt: "Testo Alternativo per screenreader"
-  fratelli: 3
-  sorelle: 1
-  occupazione_madre: Lavora saltuariamente al negozio
-  occupazione_padre: Il padre guida la moto taxi
-  educazione:
-  note_particolari:
-  casa:
+  casa: test 1, test 2
+  educazione: lorem ipsum
+  regione: Kwale
+  esigenze_mediche: Test
+  note_particolari: Test
 
 - nome: "Twalibu M."
   eta: 7
@@ -75,13 +67,11 @@
   foto:
     src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
-  fratelli: 2
-  sorelle: 1
-  occupazione_madre: La mamma lavora a kwale, cucina cibo di strada
-  occupazione_padre:
-  educazione:
-  note_particolari: Vive con la mamma e la nonna.
-  casa:
+  casa: test 1, test 2
+  educazione: lorem ipsum
+  regione: Kwale
+  esigenze_mediche: Test
+  note_particolari: Test
 
 - nome: "Smayia R."
   eta: 12
@@ -89,10 +79,8 @@
   foto:
     src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
-  fratelli: 2
-  sorelle: 1
-  occupazione_madre: La mamma lavora a kwale, cucina cibo di strada
-  occupazione_padre:
-  educazione:
-  note_particolari: Sorella di twalibu.
-  casa: casa di terra e lamiera
+  casa: test 1, test 2
+  educazione: lorem ipsum
+  regione: Kwale
+  esigenze_mediche: Test
+  note_particolari: Test
