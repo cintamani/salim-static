@@ -1,9 +1,7 @@
 - nome: "Mgeni"
   eta: 4
   descrizione: |
-    "Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
-    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
-    Vivono tutti insieme in una casetta di terra e paglia.
+    
   foto:
     src: "/assets/images/foto/mgeni.jpg"
     alt: "Bambina di 4 anni"
@@ -11,7 +9,9 @@
   educazione: 1° anno di asilo
   regione: Kwale
   esigenze_mediche: no
-  note_particolari: Test, test 1, test 2
+  note_particolari: "Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
+    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
+    Vivono tutti insieme in una casetta di terra e paglia."
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
     stripe_payment_link: _link_a_pagamento_su_stripe_
