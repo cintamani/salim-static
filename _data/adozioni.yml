@@ -1,17 +1,16 @@
 - nome: "Mgeni"
   eta: 4
   descrizione: |
-    "La famiglia di Mgeni (2020) è numerosissima: vive con i suoi 8 fratelli, i suoi genitori, insieme ad altri 6 cuginetti che sono stati abbandonati dai genitori.
-    17 bocche da sfamare per un papà che fa il cuoco in una scuola locale e una mamma che arrotonda facendo la spaccalegna nel bosco e andando a rivendere il legname.
+    "Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
+    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
     Vivono tutti insieme in una casetta di terra e paglia.
-    Aiuta Mgeni e la sua famiglia a costruire un futuro più sicuro!"
   foto:
     src: "/assets/images/foto/mgeni.jpg"
     alt: "Bambina di 4 anni"
-  casa: test 1, test 2,test 1, test 2
-  educazione: lorem ipsum, test 1, test 2
-  regione: Kwale, test 1, test 2
-  esigenze_mediche: Test, test 1, test 2
+  casa: 17 persone
+  educazione: 1° anno di asilo
+  regione: Kwale
+  esigenze_mediche: no
   note_particolari: Test, test 1, test 2
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
