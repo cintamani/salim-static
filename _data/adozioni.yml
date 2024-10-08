@@ -150,7 +150,7 @@
     stripe_payment_link: _link_a_pagamento_su_stripe_
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
-    
+
 - nome: "Saumu"
   eta: 4
   descrizione: Saumu (2020) è l'ultimo di 9 fratelli, purtroppo orfani di padre e abbandonati dalla madre. Vivono con uno zio anziano in una piccola casa di terra rossa e lamiera.
@@ -171,7 +171,7 @@
     stripe_payment_link: _link_a_pagamento_su_stripe_
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
-        
+
 - nome: "Merashid"
   eta: 9
   descrizione: Merashid non ha mai potuto andare a scuola a causa delle ristrettezze economiche. Vive insieme ai suoi genitori e ai suoi 5 fratelli nelle classiche case di paglia e terra. Il papà è operaio e la mamma recupera legna nel bosco per rivenderla.
@@ -192,7 +192,7 @@
     stripe_payment_link: _link_a_pagamento_su_stripe_
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
-          
+
 - nome: "Mussa"
   eta: 2
   descrizione: Mussa è l'ultimo di 8 fratelli. Vive in casa con la sua mamma, e il suo papà operaio lavora duramente, ma il suo salario non è sufficiente per le esigenze di tutti.
