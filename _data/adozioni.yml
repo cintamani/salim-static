@@ -5,7 +5,7 @@
     Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
     Vivono tutti insieme in una casetta di terra e paglia.
   foto: 
-  src: "/assets/images/foto/mgeni.jpg"
+  src: "/assets/images/foto/sostegni/01-Mgeni.jpg"
   alt: "Bambina di 4 anni"
   casa: 17 persone
   educazione: 1° asilo
@@ -28,7 +28,7 @@
     Twalibu vive con la mamma, la nonna e altri tre fratelli. L'unica fonte di reddito per questa famiglia è la mamma che cucina ai bordi 
     della strada dei tipici paninetti dolci fritti.
   foto:
-  src: /assets/images/foto/Mgeni-Rehema-Mgandi.jpg
+  src: "/assets/images/foto/sostegni/02-Twalibu.jpg"
   alt: "Bambino di 7 anni"
   casa: 6 persone
   educazione: 3° elementare
@@ -50,7 +50,7 @@
   descrizione: |
     "Nyawa non ha papà. Vive insieme ai suoi due fratelli con la madre, che cerca di racimolare qualche soldo vendendo verdure ai passanti.
   foto:
-  src: /assets/images/foto/quattroterzi.jpg
+  src: "/assets/images/foto/sostegni/03-Nyawa.jpg"
   alt: "Bambino di 11 anni"
   casa: 4 persone
   educazione: 7° elementare
@@ -71,8 +71,8 @@
   eta: 6
   descrizione: Vincent (2018) è orfano di entrambi i genitori. Vive con la zia vedova che fa la contadina, e i suoi sette cugini in una casa di terra e paglia, dove non hanno nemmeno i materassi per dormire.
   foto:
-  src: /assets/images/foto/Mgeni-rettangolare.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/04-Vincent.jpg"
+  alt: "Bambino di 6 anni"
   casa: 9 persone
   educazione: 2° asilo
   regione: Kilifi
@@ -92,8 +92,8 @@
   eta: 7
   descrizione: Precious (2019) è orfana di entrambi i genitori e vive con suo zio e sua nonna in una casetta di terra e lamiera. La nonna fa la sarta ma il lavoro è molto altalenante. Alla domanda "Di cosa potreste aver bisogno?" hanno risposto "Di tutto".
   foto:
-  src: /assets/images/foto/bambini-palloncini.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/05-Precious.jpg"
+  alt: "Bambina di 7 anni"
   casa: 3 persone
   educazione: 1° asilo
   regione: Kilifi
@@ -113,8 +113,8 @@
   eta: 12
   descrizione: Happy (2015) è orfana di madre e vive con altri 4 fratelli insieme a suo papà e sua zia, entrambi contadini, in una casa di terra e lamiera. 
   foto:
-  src: /assets/images/foto/bambini-palloncini.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/06-Happy.jpg"
+  alt: "Ragazza di 12 anni"
   casa: 7 persone
   educazione: 3° elementare
   regione: Kilifi
@@ -134,8 +134,8 @@
   eta: 5
   descrizione: Sauda (2019) vive in una piccola casa di terra con il tetto in foglie di cocco, insieme ad altri 8 fratelli e i suoi genitori. Purtroppo il loro papà è allettato con una grave infezione ad entrambe le gambe e l’unica fonte di reddito da mesi è la mamma va nel bosco a tagliar legna per rivenderla.
   foto:
-  src: /assets/images/foto/bambini-palloncini.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/07-Sauda.jpg"
+  alt: "bambina di 5 anni"
   casa: 11 persone
   educazione: 1° asilo
   regione: Kwale 
@@ -155,7 +155,7 @@
   eta: 4
   descrizione: Saumu (2020) è l'ultimo di 9 fratelli, purtroppo orfani di padre e abbandonati dalla madre. Vivono con uno zio anziano in una piccola casa di terra rossa e lamiera.
   foto:
-  src: /assets/images/foto/bambini-palloncini.jpg
+  src: "/assets/images/foto/sostegni/08-Saumu.jpg
   alt: "Testo Alternativo per screenreader"
   casa: 11 persone
   educazione: 1° asilo
@@ -176,8 +176,8 @@
   eta: 9
   descrizione: Merashid non ha mai potuto andare a scuola a causa delle ristrettezze economiche. Vive insieme ai suoi genitori e ai suoi 5 fratelli nelle classiche case di paglia e terra. Il papà è operaio e la mamma recupera legna nel bosco per rivenderla.
   foto:
-  src: /assets/images/foto/bambini-palloncini.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/09-Merashid.jpg"
+  alt: "bambina di 9 anni"
   casa: 8 persone
   educazione: MAI COMINCIATA
   regione: Kwale
@@ -197,8 +197,8 @@
   eta: 2
   descrizione: Mussa è l'ultimo di 8 fratelli. Vive in casa con la sua mamma, e il suo papà operaio lavora duramente, ma il suo salario non è sufficiente per le esigenze di tutti.
   foto:
-  src: /assets/images/foto/bambini-palloncini.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/10-Mussa.jpg"
+  alt: "bambino di 2 anni"
   casa: 10 persone
   educazione: è ancora piccolo
   regione: Kwale
@@ -218,8 +218,8 @@
   eta: 10
   descrizione: Abgael è orfana di padre e sua mamma è contadina. Vive insieme a lei e alle altre 5 sorelle, ma in casa non hanno nulla, nemmeno materassi su cui dormire.
   foto:
-  src: /assets/images/foto/bambini-palloncini.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/11-Abgael.jpg"
+  alt: "bambina di 10 anni"
   casa: 7 persone
   educazione: 4° elementare
   regione: Kilifi
@@ -238,8 +238,8 @@
 - nome: "Amos"
   eta: 8
   descrizione: Amos è orfano di padre. La mamma per sfamare lui e i suoi tre fratelli, va al fiume a pescare pesci che poi rivende. Dormono tutti per terra in una casetta di terra e paglia.
-  src: /assets/images/foto/bambini-palloncini.jpg
-  alt: "Testo Alternativo per screenreader"
+  src: "/assets/images/foto/sostegni/12-Amos.jpg"
+  alt: "bambino di 8 anni"
   casa: 5 persone
   educazione: 1° elementare
   regione: Kilifi
