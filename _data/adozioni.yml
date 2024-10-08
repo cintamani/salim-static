@@ -1,12 +1,12 @@
 - nome: "Mgeni"
   eta: 4
   descrizione: |
-  "Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
+    Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
     Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
-    Vivono tutti insieme in una casetta di terra e paglia."
-  foto:
-    src: "/assets/images/foto/mgeni.jpg"
-    alt: "Bambina di 4 anni"
+    Vivono tutti insieme in una casetta di terra e paglia.
+  foto: 
+  src: "/assets/images/foto/mgeni.jpg"
+  alt: "Bambina di 4 anni"
   casa: 17 persone
   educazione: 1° anno di asilo
   regione: Kwale
@@ -69,8 +69,7 @@
 
 - nome: "Vincent"
   eta: 6
-  descrizione: Vincent (2018) è orfano di entrambi i genitori. Vive con la zia vedova che fa la contadina, e i suoi sette cugini in una 
-  casa di terra e paglia, dove non hanno nemmeno i materassi per dormire.
+  descrizione: Vincent (2018) è orfano di entrambi i genitori. Vive con la zia vedova che fa la contadina, e i suoi sette cugini in una casa di terra e paglia, dove non hanno nemmeno i materassi per dormire.
   foto:
     src: /assets/images/foto/Mgeni-rettangolare.jpg
     alt: "Testo Alternativo per screenreader"
