@@ -1,7 +1,9 @@
 - nome: "Mgeni"
   eta: 4
   descrizione: |
-    
+  "Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
+    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
+    Vivono tutti insieme in una casetta di terra e paglia."
   foto:
     src: "/assets/images/foto/mgeni.jpg"
     alt: "Bambina di 4 anni"
@@ -9,9 +11,7 @@
   educazione: 1° anno di asilo
   regione: Kwale
   esigenze_mediche: no
-  note_particolari: "Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
-    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
-    Vivono tutti insieme in una casetta di terra e paglia."
+  note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
     stripe_payment_link: _link_a_pagamento_su_stripe_
@@ -22,23 +22,19 @@
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
-- nome: "Sauda C. D."
-  eta: 5
+- nome: "Twalibu"
+  eta: 7
   descrizione: |
-    Sauda è una bimba del 2019 che vive in una piccola casa di terra con il tetto in
-    foglie di cocco, insieme alla sua numerosa famiglia: in casa sono 11, 9 figli e i
-    loro genitori. L’unica fonte di reddito per loro è la mamma che ogni giorno si inoltra
-    nel bosco da sola (è una zona molto rischiosa con anche animali velenosi e predatori),
-    taglia la legna che trova,se la carica e va a venderla in giro. Il Papà è allettato da
-    mesi con una brutta infezione ad entrambe le gambe e non può provvedere alle necessità di casa.
+    Twalibu vive con la mamma, la nonna e altri tre fratelli. L'unica fonte di reddito per questa famiglia è la mamma che cucina ai bordi 
+    della strada deti tipici paninetti dolci fritti.
   foto:
     src: /assets/images/foto/Mgeni-Rehema-Mgandi.jpg
-    alt: "Bambina di 5 anni"
-  casa: test 1, test 2
-  educazione: lorem ipsum
+    alt: "Bambino di 7 anni"
+  casa: 6 persone
+  educazione: 3° anno di elementari
   regione: Kwale
-  esigenze_mediche: Test
-  note_particolari: Test
+  esigenze_mediche: no
+  note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
     stripe_payment_link: _link_a_pagamento_su_stripe_
@@ -49,22 +45,18 @@
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
-- nome: "Nyawa M."
+- nome: "Nyawa"
   eta: 11
   descrizione: |
-    "La famiglia di Mgeni (2020) è numerosissima: vive con i suoi 8 fratelli, i suoi genitori, insieme ad altri 6 cuginetti che sono stati abbandonati dai genitori.
-    17 bocche da sfamare per un papà che fa il cuoco in una scuola locale e una mamma che arrotonda facendo la spaccalegna nel bosco e andando a rivendere il legname.
-    Vivono tutti insieme in una casetta di terra e paglia.
-
-    Aiuta Mgeni e la sua famiglia a costruire un futuro più sicuro!"
+    "Nyawa non ha papà. Vive insieme ai suoi due fratelli con la madre, che cerca di racimolare qualche soldo vendendo verdure ai passanti.
   foto:
     src: /assets/images/foto/quattroterzi.jpg
-    alt: "Testo Alternativo per screenreader"
-  casa: test 1, test 2
+    alt: "Bambino di 11 anni"
+  casa: 4 persone
   educazione: lorem ipsum
   regione: Kwale
-  esigenze_mediche: Test
-  note_particolari: Test
+  esigenze_mediche: tutta la famiglia ha problemi di salute.
+  note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
     stripe_payment_link: _link_a_pagamento_su_stripe_
@@ -75,17 +67,18 @@
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
-- nome: "Shaban A. M."
+- nome: "Vincent"
   eta: 12
-  descrizione:
+  descrizione: Vincent (2018) è orfano di entrambi i genitori. Vive con la zia vedova che fa la contadina, e i suoi sette cugini in una 
+  casa di terra e paglia, dove non hanno nemmeno i materassi per dormire.
   foto:
     src: /assets/images/foto/Mgeni-rettangolare.jpg
     alt: "Testo Alternativo per screenreader"
-  casa: test 1, test 2
-  educazione: lorem ipsum
-  regione: Kwale
-  esigenze_mediche: Test
-  note_particolari: Test
+  casa: 9 persone
+  educazione: 2° anno di asilo
+  regione: Kilifi
+  esigenze_mediche: Problemi respiratori periodici
+  note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
     stripe_payment_link: _link_a_pagamento_su_stripe_
