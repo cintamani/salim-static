@@ -26,7 +26,7 @@
   eta: 7
   descrizione: |
     Twalibu vive con la mamma, la nonna e altri tre fratelli. L'unica fonte di reddito per questa famiglia è la mamma che cucina ai bordi 
-    della strada deti tipici paninetti dolci fritti.
+    della strada dei tipici paninetti dolci fritti.
   foto:
     src: /assets/images/foto/Mgeni-Rehema-Mgandi.jpg
     alt: "Bambino di 7 anni"
@@ -88,17 +88,17 @@
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
-- nome: "Twalibu M."
+- nome: "Precious"
   eta: 7
-  descrizione:
+  descrizione: Precious (2019) è orfana di entrambi i genitori e vive con suo zio e sua nonna in una casetta di terra e lamiera. La nonna fa la sarta ma il lavoro è molto altalenante. Alla domanda "Di cosa potreste aver bisogno?" hanno risposto "Di tutto".
   foto:
     src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
-  casa: test 1, test 2
-  educazione: lorem ipsum
-  regione: Kwale
-  esigenze_mediche: Test
-  note_particolari: Test
+  casa: 3 persone
+  educazione: 1° anno di asilo
+  regione: Kilifi
+  esigenze_mediche: no
+  note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
     stripe_payment_link: _link_a_pagamento_su_stripe_
