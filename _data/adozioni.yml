@@ -214,7 +214,7 @@
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
-    - nome: "Abgael"
+- nome: "Abgael"
   eta: 10
   descrizione: Abgael è orfana di padre e sua mamma è contadina. Vive insieme a lei e alle altre 5 sorelle, ma in casa non hanno nulla, nemmeno materassi su cui dormire.
   foto:
@@ -235,7 +235,7 @@
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
-    - nome: "Amos"
+- nome: "Amos"
   eta: 8
   descrizione: Amos è orfano di padre. La mamma per sfamare lui e i suoi tre fratelli, va al fiume a pescare pesci che poi rivende. Dormono tutti per terra in una casetta di terra e paglia.
     src: /assets/images/foto/bambini-palloncini.jpg
