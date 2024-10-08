@@ -8,7 +8,7 @@
   src: "/assets/images/foto/mgeni.jpg"
   alt: "Bambina di 4 anni"
   casa: 17 persone
-  educazione: 1° anno di asilo
+  educazione: 1° asilo
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
@@ -31,7 +31,7 @@
     src: /assets/images/foto/Mgeni-Rehema-Mgandi.jpg
     alt: "Bambino di 7 anni"
   casa: 6 persone
-  educazione: 3° anno di elementari
+  educazione: 3° elementare
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
@@ -53,7 +53,7 @@
     src: /assets/images/foto/quattroterzi.jpg
     alt: "Bambino di 11 anni"
   casa: 4 persone
-  educazione: 7° anno di elementari
+  educazione: 7° elementare
   regione: Kwale
   esigenze_mediche: tutta la famiglia ha problemi di salute.
   note_particolari: no
@@ -74,7 +74,7 @@
     src: /assets/images/foto/Mgeni-rettangolare.jpg
     alt: "Testo Alternativo per screenreader"
   casa: 9 persone
-  educazione: 2° anno di asilo
+  educazione: 2° asilo
   regione: Kilifi
   esigenze_mediche: Problemi respiratori periodici
   note_particolari: no
@@ -95,7 +95,7 @@
     src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
   casa: 3 persone
-  educazione: 1° anno di asilo
+  educazione: 1° asilo
   regione: Kilifi
   esigenze_mediche: no
   note_particolari: no
@@ -116,7 +116,7 @@
     src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
   casa: 7 persone
-  educazione: 3° anno di elementari
+  educazione: 3° elementare
   regione: Kilifi
   esigenze_mediche: no
   note_particolari: no
@@ -137,8 +137,8 @@
     src: /assets/images/foto/bambini-palloncini.jpg
     alt: "Testo Alternativo per screenreader"
   casa: 11 persone
-  educazione: 1° anno di asilo
-  regione: Kwale - Lunguma
+  educazione: 1° asilo
+  regione: Kwale 
   esigenze_mediche: il papà
   note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
@@ -150,4 +150,108 @@
     stripe_payment_link: _link_a_pagamento_su_stripe_
     disclaimer: Disclaimer per il pagamento mensile di 40€
     card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+    
+- nome: "Saumu"
+  eta: 4
+  descrizione: Saumu (2020) è l'ultimo di 9 fratelli, purtroppo orfani di padre e abbandonati dalla madre. Vivono con uno zio anziano in una piccola casa di terra rossa e lamiera.
+  foto:
+    src: /assets/images/foto/bambini-palloncini.jpg
+    alt: "Testo Alternativo per screenreader"
+  casa: 11 persone
+  educazione: 1° asilo
+  regione: Kwale
+  esigenze_mediche: no
+  note_particolari: no
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+        
+- nome: "Merashid"
+  eta: 9
+  descrizione: Merashid non ha mai potuto andare a scuola a causa delle ristrettezze economiche. Vive insieme ai suoi genitori e ai suoi 5 fratelli nelle classiche case di paglia e terra. Il papà è operaio e la mamma recupera legna nel bosco per rivenderla.
+  foto:
+    src: /assets/images/foto/bambini-palloncini.jpg
+    alt: "Testo Alternativo per screenreader"
+  casa: 8 persone
+  educazione: MAI COMINCIATA
+  regione: Kwale
+  esigenze_mediche: no
+  note_particolari: no
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+          
+- nome: "Mussa"
+  eta: 2
+  descrizione: Mussa è l'ultimo di 8 fratelli. Vive in casa con la sua mamma, e il suo papà operaio lavora duramente, ma il suo salario non è sufficiente per le esigenze di tutti.
+  foto:
+    src: /assets/images/foto/bambini-palloncini.jpg
+    alt: "Testo Alternativo per screenreader"
+  casa: 10 persone
+  educazione: è ancora piccolo
+  regione: Kwale
+  esigenze_mediche: no
+  note_particolari: no
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
 
+    - nome: "Abgael"
+  eta: 10
+  descrizione: Abgael è orfana di padre e sua mamma è contadina. Vive insieme a lei e alle altre 5 sorelle, ma in casa non hanno nulla, nemmeno materassi su cui dormire.
+  foto:
+    src: /assets/images/foto/bambini-palloncini.jpg
+    alt: "Testo Alternativo per screenreader"
+  casa: 7 persone
+  educazione: 4° elementare
+  regione: Kilifi
+  esigenze_mediche: problemi respiratori
+  note_particolari: no
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+
+    - nome: "Amos"
+  eta: 8
+  descrizione: Amos è orfano di padre. La mamma per sfamare lui e i suoi tre fratelli, va al fiume a pescare pesci che poi rivende. Dormono tutti per terra in una casetta di terra e paglia.
+    src: /assets/images/foto/bambini-palloncini.jpg
+    alt: "Testo Alternativo per screenreader"
+  casa: 5 persone
+  educazione: 1° elementare
+  regione: Kilifi
+  esigenze_mediche: problemi respiratori
+  note_particolari: no
+  causale: causale per il pagamento (nome del bambino? Codice univoco?)
+  mensile_40:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+  mensile_50:
+    stripe_payment_link: _link_a_pagamento_su_stripe_
+    disclaimer: Disclaimer per il pagamento mensile di 40€
+    card_price_disclaimer: Disclaimer per il pagamento mensile di 40€ con carta di credito (prezzo maggiorato di x because of commissions)
+    
