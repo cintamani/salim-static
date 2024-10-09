@@ -2,7 +2,12 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-3 mx-auto text-white" id="{{ include.handle }}Label"><img class="bi me-2" src="/assets/images/icons/Heart-hand-shake.svg" width="30" height="30"></img>Dona ora</h1>
+        <h1 class="modal-title fs-3 mx-auto text-white" id="{{ include.handle }}Label">
+          <svg class="align-middle icon me-1" width="30" height="30">
+            <use xlink:href="/assets/images/icons/sprite.svg#heart-handshake"></use>
+          </svg>
+          <span class="align-middle">Dona ora</span>
+        </h1>
       </div>
       <div class="modal-body">
         {% if include.disclaimer %}
