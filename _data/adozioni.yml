@@ -12,7 +12,6 @@
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Twalibu"
   eta: 7
@@ -27,7 +26,6 @@
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Nyawa"
   eta: 11
@@ -41,7 +39,6 @@
   regione: Kwale
   esigenze_mediche: tutta la famiglia ha problemi di salute.
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Vincent"
   eta: 6
@@ -54,7 +51,6 @@
   regione: Kilifi
   esigenze_mediche: sì
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Precious"
   eta: 7
@@ -67,7 +63,6 @@
   regione: Kilifi
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Happy"
   eta: 12
@@ -80,7 +75,6 @@
   regione: Kilifi
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Sauda"
   eta: 5
@@ -93,7 +87,6 @@
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Saumu"
   eta: 4
@@ -106,7 +99,6 @@
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Merashid"
   eta: 9
@@ -119,7 +111,6 @@
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Mussa"
   eta: 2
@@ -132,7 +123,6 @@
   regione: Kwale
   esigenze_mediche: no
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Abgael"
   eta: 10
@@ -145,7 +135,6 @@
   regione: Kilifi
   esigenze_mediche: sì
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
 - nome: "Amos"
   eta: 8
@@ -158,5 +147,4 @@
   regione: Kilifi
   esigenze_mediche: sì
   note_particolari: no
-  causale: causale per il pagamento (nome del bambino? Codice univoco?)
 
