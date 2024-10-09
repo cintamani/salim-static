@@ -10,10 +10,12 @@
     </button>
     <div class="collapse navbar-collapse d-md-flex justify-content-md-end mt-3" id="navbarSalimOdv">
       <ul class="navbar-nav">
+        {% assign stripped_url = page.url | remove_first: '/' | split: '/' | first | remove: '.html' %}
         {% for item in site.data.nav_links %}
+          {% assign stripped_item_url = item.url | remove_first: '/' | remove_first: '#' %}
           <li class="nav-item">
             <a
-              class="nav-link {% if page.url == item.url && page.url != "/" %} active {% endif %}"
+              class="nav-link {% if stripped_url != '' and stripped_url == stripped_item_url and page.url != "/" %} active {% endif %}"
               href="{% if page.url == "/" %}/#{{item.name}}{% else %}{{item.url}}{% endif %}"
               data-target="{{item.name}}"
             >
