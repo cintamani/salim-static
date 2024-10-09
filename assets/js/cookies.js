@@ -50,7 +50,9 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   savePreferencesButton.addEventListener('click', saveCookiePreferences);
-  document.getElementById('cookieConsentModal').addEventListener('hidden.bs.modal', saveCookiePreferences);
+  document.getElementById('cookieConsentModal').addEventListener('hidden.bs.modal', function() {
+    cookieConsentMinimized.style.display = 'block';
+  });
 
   cookieConsentMinimized.addEventListener('click', function() {
     cookieConsentModal.show();
