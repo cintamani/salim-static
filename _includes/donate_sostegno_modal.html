@@ -1,0 +1,60 @@
+<div class="modal fade" id="{{ include.handle }}" tabindex="-1" aria-labelledby="{{ include.handle }}Label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-3 mx-auto text-white" id="{{ include.handle }}Label"><img class="bi me-2" src="/assets/images/icons/Heart-hand-shake.svg" width="30" height="30"></img>Dona ora</h1>
+      </div>
+      <div class="modal-body">
+        <h4 class="fs-5 ">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi dolorem officiis sunt optio pariatur culpa tempore, ipsam, asperiores, possimus nulla odio harum. Officia molestias soluta veniam impedit similique, iste ratione.
+
+        </h4>
+        <div class="fs-5">
+          Nome del bambino da sostenere: <em>{{ include.nome }}</em>
+          <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy" data-clipboard-text="{{ include.nome }}">
+            <i data-bs-toggle="tooltip" data-bs-title="Copia" class="bi bi-clipboard"></i>
+          </a>
+        </div>
+
+        <div class="d-flex">
+          <a
+            href="https://buy.stripe.com/8wMcOp2GmbqofU43cg"
+            class="btn btn-warning btn-md mx-auto w-auto rounded-pill mt-3"
+          >
+            <i class="bi bi-credit-card"></i>
+            Sostieni {{include.nome}}
+          </a>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Chiudi</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.getElementById('{{ include.handle }}');
+    const clipboard = new ClipboardJS('.btn-copy-to-clipboard', {
+      container: modal
+    });
+    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    const options = { boundary: modal }
+    const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl, options))
+
+    if (ClipboardJS.isSupported()) {
+      clipboard.on('success', function(e) {
+        const tooltipElement = e.trigger.querySelector('[data-bs-toggle="tooltip"]');
+        const tooltip = bootstrap.Tooltip.getInstance(tooltipElement);
+
+        tooltip.setContent({ '.tooltip-inner': 'Copiato!' });
+        tooltip.show();
+      });
+    } else {
+      document.getElementsByClassName('btn-copy-to-clipboard').forEach(function(button) {
+        button.style.display = 'none';
+      });
+    }
+  });
+</script>

@@ -124,25 +124,12 @@ La quota relativa ai medicinali, quando non non necessaria, viene riconvertita i
                     <p class="card-text">{{ item.descrizione }}</p>
                   {% endif %}
                   <hr/>
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNow40AdozioneMensile" class="btn btn-light">Sostegno di 40€</button>
-
+                  {% assign handle = "DonateAdozioneMensile" | append: item.nome %}
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#DonateAdozioneMensile{{item.nome}}" class="btn btn-light">Sostieni {{ item.nome }}</button>
                   {%
-                    include donate_now_modal.html
-                      handle="DonateNow40AdozioneMensile"
-                      stripe_payment_link=item.mensile_40.stripe_payment_link
-                      disclaimer=item.mensile_40.disclaimer
-                      causale=item.causale
-                      card_price_disclaimer=item.mensile_40.card_price_disclaimer
-                  %}
-
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNow50AdozioneMensile" class="btn btn-light">Sostegno di 50€</button>
-
-                  {%
-                    include donate_now_modal.html
-                      handle="DonateNow50AdozioneMensile"
-                      stripe_payment_link=item.mensile_50.stripe_payment_link
-                      disclaimer=item.mensile_50.disclaimer
-                      causale=item.causale
+                    include donate_sostegno_modal.html
+                      handle=handle
+                      nome=item.nome
                       card_price_disclaimer=item.mensile_50.card_price_disclaimer
                   %}
 
