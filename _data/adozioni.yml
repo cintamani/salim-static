@@ -1,8 +1,8 @@
 - nome: "Mgeni"
   eta: 4
   descrizione: |
-    Megni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
-    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andndo nel bosco a tagliare legna per rivenderla.
+    Mgeni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
+    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andando nel bosco a tagliare legna per rivenderla.
     Vivono tutti insieme in una casetta di terra e paglia.
   foto:
     src: "/assets/images/foto/sostegni/01-Mgeni.jpg"
@@ -48,7 +48,7 @@
 - nome: "Nyawa"
   eta: 11
   descrizione: |
-    "Nyawa non ha papà. Vive insieme ai suoi due fratelli con la madre, che cerca di racimolare qualche soldo vendendo verdure ai passanti.
+    Nyawa non ha un papà. Vive insieme ai suoi due fratelli con la madre che cerca di racimolare qualche soldo vendendo verdure ai passanti.
   foto:
     src: "/assets/images/foto/sostegni/03-Nyawa.jpg"
     alt: "Bambino di 11 anni"
@@ -69,14 +69,14 @@
 
 - nome: "Vincent"
   eta: 6
-  descrizione: Vincent (2018) è orfano di entrambi i genitori. Vive con la zia vedova che fa la contadina, e i suoi sette cugini in una casa di terra e paglia, dove non hanno nemmeno i materassi per dormire.
+  descrizione: Vincent (2018) è orfano di entrambi i genitori. Vive con la zia vedova che fa la contadina, e i suoi 7 cugini in una casa di terra e paglia, dove non hanno nemmeno i materassi per dormire.
   foto:
     src: "/assets/images/foto/sostegni/04-Vincent.jpg"
     alt: "Bambino di 6 anni"
   casa: 9 persone
   educazione: 2° asilo
   regione: Kilifi
-  esigenze_mediche: Problemi respiratori periodici
+  esigenze_mediche: sì 
   note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
@@ -90,7 +90,7 @@
 
 - nome: "Precious"
   eta: 7
-  descrizione: Precious (2019) è orfana di entrambi i genitori e vive con suo zio e sua nonna in una casetta di terra e lamiera. La nonna fa la sarta ma il lavoro è molto altalenante. Alla domanda "Di cosa potreste aver bisogno?" hanno risposto "Di tutto".
+  descrizione: Precious (2019) è orfana di entrambi i genitori e vive insieme suo zio e sua nonna in una casetta di terra e lamiera. La nonna fa la sarta ma il lavoro è molto altalenante. Alla domanda "Di cosa potreste aver bisogno?" hanno risposto "Di tutto".
   foto:
     src: "/assets/images/foto/sostegni/05-Precious.jpg"
     alt: "Bambina di 7 anni"
@@ -139,7 +139,7 @@
   casa: 11 persone
   educazione: 1° asilo
   regione: Kwale
-  esigenze_mediche: il papà
+  esigenze_mediche: no
   note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
@@ -153,7 +153,7 @@
 
 - nome: "Saumu"
   eta: 4
-  descrizione: Saumu (2020) è l'ultimo di 9 fratelli, purtroppo orfani di padre e abbandonati dalla madre. Vivono con uno zio anziano in una piccola casa di terra rossa e lamiera.
+  descrizione: Saumu (2020) è l'ultima di 9 fratelli, purtroppo orfani di padre e abbandonati dalla madre. Vivono con uno zio anziano in una piccola casa di terra rossa e lamiera.
   foto:
     src: "/assets/images/foto/sostegni/08-Saumu.jpg"
     alt: "Testo Alternativo per screenreader"
@@ -174,7 +174,7 @@
 
 - nome: "Merashid"
   eta: 9
-  descrizione: Merashid non ha mai potuto andare a scuola a causa delle ristrettezze economiche. Vive insieme ai suoi genitori e ai suoi 5 fratelli nelle classiche case di paglia e terra. Il papà è operaio e la mamma recupera legna nel bosco per rivenderla.
+  descrizione: Merashid non è mai potuta andare a scuola a causa delle ristrettezze economiche. Vive insieme ai suoi genitori e ai suoi 5 fratelli nelle classiche case di paglia e terra. Il papà è operaio e la mamma recupera legna nel bosco per rivenderla.
   foto:
     src: "/assets/images/foto/sostegni/09-Merashid.jpg"
     alt: "bambina di 9 anni"
@@ -223,7 +223,7 @@
   casa: 7 persone
   educazione: 4° elementare
   regione: Kilifi
-  esigenze_mediche: problemi respiratori
+  esigenze_mediche: sì
   note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
@@ -244,7 +244,7 @@
   casa: 5 persone
   educazione: 1° elementare
   regione: Kilifi
-  esigenze_mediche: problemi respiratori
+  esigenze_mediche: sì
   note_particolari: no
   causale: causale per il pagamento (nome del bambino? Codice univoco?)
   mensile_40:
