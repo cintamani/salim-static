@@ -10,7 +10,7 @@ title: Associazione Salim ODV - Progetti - Adozioni a distanza
         <div class="row row-cols-md-2 row-cols-1">
           <div class="col pb-md-0 pb-3">
             <h1 class="display-1 ">Sostegni a distanza</h1>
-            <h2 class="display-7 fw-bold lh-base">Vorresti fare la differenza nella vita di un bambino o di una famiglia? 
+            <h2 class="display-7 fw-bold lh-base">Vorresti fare la differenza nella vita di un bambino o di una famiglia?
               Diventa un sostenitore!
             </h2>
           </div>
@@ -34,7 +34,7 @@ title: Associazione Salim ODV - Progetti - Adozioni a distanza
       <div class="col">
         <div class="card mb-4 rounded-3 border-secondary shadow-sm border-primary">
           <div class="card-header text-bg-secondary text-white border-primary py-3">
-            <h1 class="card-title pricing-card-title">40€<small class="text-body-secondary fw-light"> al mese garantiscono:</small></h1>
+            <h1 class="card-title pricing-card-title">40€<small class="fw-light"> al mese garantiscono:</small></h1>
           </div>
           <div class="card-body">
             <ul class="list-unstyled mt-3 fs-5 mb-4">
@@ -50,7 +50,7 @@ title: Associazione Salim ODV - Progetti - Adozioni a distanza
       <div class="col">
         <div class="card mb-4 border border-primary rounded-3 shadow-sm">
           <div class="card-header py-3 text-bg-primary text-white">
-            <h1 class="card-title pricing-card-title">50€<small class="text-body-secondary fw-light"> al mese garantiscono:</small></h1>
+            <h1 class="card-title pricing-card-title">50€<small class="fw-light"> al mese garantiscono:</small></h1>
           </div>
           <div class="card-body">
             <ul class="list-unstyled mt-3 fs-5 mb-4">
@@ -60,7 +60,6 @@ title: Associazione Salim ODV - Progetti - Adozioni a distanza
               <li>Medicinali e prima assistenza medica</li>
               <li><strong>+ Tasse scuola pubblica primaria</strong></li>
             </ul>
-            <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button> -->
           </div>
         </div>
       </div>
@@ -72,7 +71,7 @@ title: Associazione Salim ODV - Progetti - Adozioni a distanza
       <strong>Opzione "Più igiene"</strong>: fornisci un pacchetto di 14 assorbenti al costo di 2€.
       </p>
       <p class="fs-4">
-      <strong>Opzione "Compleanno"</strong>: dona liberamente per il suo giorno speciale! Ti aiuteremo a scegliere il regalo più adatto in base alle sue reali esigenze. 
+      <strong>Opzione "Compleanno"</strong>: dona liberamente per il suo giorno speciale! Ti aiuteremo a scegliere il regalo più adatto in base alle sue reali esigenze.
       </p>
       <p class="fs-4">
       <strong>Grazie sin da ora per il tuo impegno!</strong>
@@ -86,50 +85,52 @@ title: Associazione Salim ODV - Progetti - Adozioni a distanza
             <div class="col">
               <div class="card shadow border-secondary overflow-x-hidden">
                 <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="card-img-top"></img>
-                <!-- <div class="bg-secondary bg-opacity-75"> -->
-                <!-- <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="" height="225"></img> -->
-                <!-- </div> -->
                 <div class="card-header bg-secondary text-white">
                   <span class="fs-4">
                     {{ item.nome }} - {{ item.eta }} anni
                   </span>
                 </div>
                 <div class="card-body">
-                  <div class="row row-cols-1 row-cols-sm-2 g-1">
+                  <div class="row row-cols-1 g-1">
                     <div class="col">
                       {% if item.casa %}
                         <div>
-                          <i class="bi bi-house text-body-warning"></i> {{ item.casa }}
+                          <img src="/assets/images/sostegni/house.svg" alt="Esigenze mediche" height="16" width="16"
+                            class="d-inline-block align-text-center"></img>
+                          {{ item.casa }}
                         </div>
                       {% endif %}
 
                       {% if item.regione %}
                         <div>
-                          <i class="bi bi-pin text-body-emphasis"></i> {{ item.regione }}
+                          <img src="/assets/images/sostegni/pin.svg" alt="Esigenze mediche" height="16" width="16"
+                            class="d-inline-block align-text-center"></img>
+                          {{ item.regione }}
                         </div>
                       {% endif %}
                     </div>
                     <div class="col">
                       {% if item.educazione %}
                         <div>
-                          <i class="bi bi-backpack3"></i> {{ item.educazione }}
+                          <img src="/assets/images/sostegni/book.svg" alt="Esigenze mediche" height="16" width="16"
+                            class="d-inline-block align-text-center"></img>
+                          {{ item.educazione }}
                         </div>
                       {% endif %}
                       {% if item.esigenze_mediche %}
                         <div>
-                          <i class="bi bi-heart-pulse"></i> {{ item.esigenze_mediche }}
+                          <img src="/assets/images/sostegni/medical-cross.svg" alt="Esigenze mediche" height="16" width="16"
+                            class="d-inline-block align-text-center"></img>
+                          {{ item.esigenze_mediche }}
                         </div>
                       {% endif %}
                     </div>
                   </div>
-                  {% if item.note_particolari %}
-                    <div>
-                      <i class="bi bi-info-square"></i> {{ item.note_particolari }}
-                    </div>
-                  {% endif %}
                   {% if item.descrizione %}
                     <hr/>
-                    <p class="card-text">{{ item.descrizione }}</p>
+                    <p class="card-text">
+                      {{ item.descrizione }}
+                    </p>
                   {% endif %}
                   <hr/>
                   {% assign handle = "DonateAdozioneMensile" | append: item.nome %}

@@ -134,7 +134,12 @@ html, body{
   height: auto;
 }
 
-.icon {
+.icon-sostegni {
+  fill: var(--bs-secondary);
+  color: var(--bs-secondary);
+}
+
+.icon-heart-handshake {
   fill: none;
   stroke: currentColor;
   stroke-width: 180;

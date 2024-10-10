@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const marketingConsent = getCookie('marketingCookies');
     if(!marketingConsent) {
-      marketingCookiesToggle.checked = true;
+      marketingCookiesToggle.checked = false;
     } else {
       marketingCookiesToggle.checked = marketingConsent === 'true';
     }

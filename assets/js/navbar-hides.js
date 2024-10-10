@@ -3,19 +3,11 @@ let hasBackground = false;
 function transitionToNoBackground(navbar) {
   navbar.classList.remove('custom-bg-colour');
 
-  // navbar.querySelectorAll('.text-dark').forEach(function (element) {
-  //   element.classList.replace('text-dark', 'text-white');
-  // });
-
   hasBackground = false;
 }
 
 function transitionToColouredBackground(navbar) {
   navbar.classList.add('custom-bg-colour');
-
-  // navbar.querySelectorAll('.text-white').forEach(function (element) {
-  //   element.classList.replace('text-white', 'text-dark');
-  // });
 
   hasBackground = true;
 }
@@ -34,16 +26,18 @@ function toggleNavbar(navbar) {
   }
 }
 
-const navbar = document.querySelector('.navbar');
+document.addEventListener('DOMContentLoaded', function () {
+  const navbar = document.querySelector('.navbar');
 
-if (navbar) {
-  toggleNavbar(navbar);
-
-  window.addEventListener('scroll', function () {
+  if (navbar) {
     toggleNavbar(navbar);
-  });
 
-  window.addEventListener('resize', function () {
-    toggleNavbar(navbar);
-  });
-}
+    window.addEventListener('scroll', function () {
+      toggleNavbar(navbar);
+    });
+
+    window.addEventListener('resize', function () {
+      toggleNavbar(navbar);
+    });
+  }
+});
