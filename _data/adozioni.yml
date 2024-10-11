@@ -35,7 +35,7 @@
   casa: 4 persone
   educazione: 7° elementare
   regione: Kwale
-  esigenze_mediche: tutta la famiglia ha problemi di salute.
+  esigenze_mediche: Esigenze mediche
 
 - nome: "Vincent"
   eta: 6
@@ -46,7 +46,7 @@
   casa: 9 persone
   educazione: 2° asilo
   regione: Kilifi
-  esigenze_mediche: sì
+  esigenze_mediche: Esigenze mediche
 
 - nome: "Precious"
   eta: 7
@@ -123,7 +123,7 @@
   casa: 7 persone
   educazione: 4° elementare
   regione: Kilifi
-  esigenze_mediche: sì
+  esigenze_mediche: Esigenze mediche
 
 - nome: "Amos"
   eta: 8
@@ -134,5 +134,5 @@
   casa: 5 persone
   educazione: 1° elementare
   regione: Kilifi
-  esigenze_mediche: sì
+  esigenze_mediche: Esigenze mediche
 
