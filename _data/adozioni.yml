@@ -91,7 +91,7 @@
 
 - nome: "Mussa"
   eta: 2
-  descrizione: Mussa è l'ultimo di 8 fratelli. Vive in casa con la sua mamma e il suo papà che fa l'operaio: lavora duramente, ma il suo salario non è sufficiente per le esigenze di tutti.
+  descrizione: "Mussa è l'ultimo di 8 fratelli. Vive in casa con la sua mamma e il suo papà che fa l'operaio: lavora duramente, ma il suo salario non è sufficiente per le esigenze di tutti."
   foto:
     src: "/assets/images/foto/sostegni/10-Mussa.jpg"
     alt: "bambino di 2 anni"
