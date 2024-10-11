@@ -1,17 +1,3 @@
-- nome: "Mgeni"
-  eta: 4
-  descrizione: |
-    Mgeni (2020) vive con 8 fratelli, i suoi genitori, ed altri 6 cuginetti che sono stati abbandonati dai genitori.
-    Il papà fa il cuoco in una scuola locale e la mamma arrotonda andando nel bosco a tagliare legna per rivenderla.
-    Vivono tutti insieme in una casetta di terra e paglia.
-  foto:
-    src: "/assets/images/foto/sostegni/01-Mgeni.jpg"
-    alt: "Bambina di 4 anni"
-  casa: 17 persone
-  educazione: 1° asilo
-  regione: Kwale
-  esigenze_mediche: no
-
 - nome: "Twalibu"
   eta: 7
   descrizione: |
