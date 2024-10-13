@@ -122,3 +122,13 @@
   regione: Kilifi
   esigenze_mediche: Esigenze mediche
 
+- nome: "Shuraim"
+  eta: 2
+  descrizione: "Shuraim vive insieme al suo fratellino e ai suoi genitori in una piccolissima casa fatta di terra e paglia. La mamma non lavora e il papà é un kadhi, insegna religione nella scuola islamica, ma non ha uno stipendio: viene sostenuto da donazioni."
+  foto:
+    src: "/assets/images/foto/sostegni/12-Amos.jpg"
+    alt: "bambino di 2 anni"
+  casa: 4 persone
+  educazione: è ancora piccolo
+  regione: Kwale
+  esigenze_mediche: no
