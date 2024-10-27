@@ -23,16 +23,16 @@
   regione: Kwale
   esigenze_mediche: Esigenze mediche
 
-- nome: "Vincent"
-  eta: 6
-  descrizione: Vincent (2018) è orfano di entrambi i genitori. Vive con la zia vedova che fa la contadina, e i suoi 7 cugini in una casa di terra e paglia, dove non hanno nemmeno i materassi per dormire.
+- nome: "Ismail"
+  eta: 4
+  descrizione: "Ismail (2020) vive in un'umile casetta di terra e paglia insieme al suo papà (che pulisce la casa di alcune persone bianche), la mamma (che vende patate fritte) e i suoi 8 fratelli."
   foto:
-    src: "/assets/images/foto/sostegni/04-Vincent.jpg"
-    alt: "Bambino di 6 anni"
-  casa: 9 persone
-  educazione: 2° asilo
-  regione: Kilifi
-  esigenze_mediche: Esigenze mediche
+    src: "/assets/images/foto/sostegni/14-Ismail.jpg"
+    alt: "Bambino di 4 anni"
+  casa: 11 persone
+  educazione: "non frequenta l'asilo"
+  regione: Kwale
+  esigenze_mediche: no
 
 - nome: "Precious"
   eta: 7
