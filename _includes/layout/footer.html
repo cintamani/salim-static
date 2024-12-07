@@ -12,6 +12,43 @@
           <a class="h5" href="https://wa.me/390620199236" target="_blank">
             <img class="align-top me-1" src="/assets/images/Digital_Glyph_Green.png" alt="whatsapp" height="20px"></img>06 2019 9236
           </a>
+          <!-- <div class="dropdown mt-3">
+            <button class="btn btn-light dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+              {% if site.active_lang == "it" %}
+                <img src="/assets/images/flags/it.svg" alt="Italiano" width="20" height="20" class="me-1">
+                Lingua
+              {% elsif site.active_lang == "en" %}
+                <img src="/assets/images/flags/en.svg" alt="English" width="20" height="20" class="me-1">
+                Language
+              {% else %}
+                <img src="/assets/images/flags/es.svg" alt="Español" width="20" height="20" class="me-1">
+                Idioma
+              {% endif %}
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="languageDropdown">
+              <li>
+                <a class="dropdown-item d-flex align-items-center {% if site.active_lang == 'it' %}active{% endif %}"
+                  {% static_href %}href="{% if 'it' == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/it{{page.url}}{% endif %}"{% endstatic_href %}>
+                  <img src="/assets/images/flags/it.svg" alt="Italiano" width="20" height="20" class="me-2">
+                  Italiano
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item d-flex align-items-center {% if site.active_lang == 'en' %}active{% endif %}"
+                  {% static_href %}href="{% if 'en' == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/en{{page.url}}{% endif %}"{% endstatic_href %}>
+                  <img src="/assets/images/flags/en.svg" alt="English" width="20" height="20" class="me-2">
+                  English
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item d-flex align-items-center {% if site.active_lang == 'es' %}active{% endif %}"
+                  {% static_href %}href="{% if 'es' == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/es{{page.url}}{% endif %}"{% endstatic_href %}>
+                  <img src="/assets/images/flags/es.svg" alt="Español" width="20" height="20" class="me-2">
+                  Español
+                </a>
+              </li>
+            </ul>
+          </div> -->
         </div>
       </div>
 
@@ -129,7 +166,6 @@
     </div>
     <div class="row row-cols-1">
       <hr class="text-white border-3 border-light mb-3"/>
-
       <div class="d-flex mb-2 px-4 flex-sm-row flex-column">
         <div class="me-2 mb-0 align-self-start align-self-sm-center flex-grow-1">
           <a href="mailto:info@salimodv.org" class="link-light">

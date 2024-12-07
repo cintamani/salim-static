@@ -1,8 +1,20 @@
 <!doctype html>
-<html lang="it">
+<html lang="{{ site.active_lang }}">
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <meta charset="utf-8">
+
+  {% if site.active_lang == site.default_lang %}
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url }}" />
+    <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url }}" />
+  {% elsif site.active_lang == "en" %}
+    <link rel="alternate" hreflang="it" href="{{ site.url }}{{ page.url | remove_first: '/en' }}" />
+    <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/en' }}" />
+  {% else %}
+    <link rel="alternate" hreflang="it" href="{{ site.url }}{{ page.url | remove_first: '/es' }}" />
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/es' }}" />
+  {% endif %}
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- HTML Meta Tags -->
