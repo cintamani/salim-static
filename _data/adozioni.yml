@@ -35,11 +35,11 @@
   esigenze_mediche: no
 
 - nome: "Precious"
-  eta: 7
+  eta: 5
   descrizione: Precious (2019) è orfana di entrambi i genitori e vive insieme a suo zio e sua nonna in una casetta di terra e lamiera. La nonna fa la sarta ma il lavoro è molto altalenante. Alla domanda "Di cosa potreste aver bisogno?" hanno risposto "Di tutto".
   foto:
     src: "/assets/images/foto/sostegni/05-Precious.jpg"
-    alt: "Bambina di 7 anni"
+    alt: "Bambina di 5 anni"
   casa: 3 persone
   educazione: 1° asilo
   regione: Kilifi
