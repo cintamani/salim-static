@@ -45,14 +45,14 @@
   regione: Kilifi
   esigenze_mediche: no
 
-- nome: "Happy"
-  eta: 12
-  descrizione: Happy (2015) è orfana di madre e vive con altri 4 fratelli insieme a suo papà e sua zia, entrambi contadini, in una casa di terra e lamiera.
+- nome: "Happy N."
+  eta: 14
+  descrizione: Happy (2010) è orfana di padre e vive in una casa di terra con tetto in lamiera insieme ad i suoi 9 fratelli e a sua mamma che fa la contadina. Un fratello grande lavora.
   foto:
     src: "/assets/images/foto/sostegni/06-Happy.jpg"
-    alt: "Ragazza di 12 anni"
-  casa: 7 persone
-  educazione: 3° elementare
+    alt: "Ragazza di 14 anni"
+  casa: 11 persone
+  educazione: 6° elementare
   regione: Kilifi
   esigenze_mediche: no
 
