@@ -100,17 +100,6 @@
   regione: Kilifi
   esigenze_mediche: Esigenze mediche
 
-- nome: "Amos"
-  eta: 8
-  descrizione: Amos è orfano di padre. La mamma per sfamare lui e i suoi tre fratelli, va al fiume a pescare pesci che poi rivende. Dormono tutti per terra in una casetta di terra e paglia.
-  foto:
-    src: "/assets/images/foto/sostegni/12-Amos.jpg"
-    alt: "bambino di 8 anni"
-  casa: 5 persone
-  educazione: 1° elementare
-  regione: Kilifi
-  esigenze_mediche: Esigenze mediche
-
 - nome: "Shuraim"
   eta: 2
   descrizione: "Shuraim vive insieme al suo fratellino e ai suoi genitori in una piccolissima casa fatta di terra e paglia. La mamma non lavora e il papà é un insegnante di religione e viene sostenuto solo da donazioni."
