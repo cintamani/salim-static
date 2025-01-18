@@ -45,6 +45,23 @@ document.addEventListener('DOMContentLoaded', function() {
   function saveCookiePreferences() {
     setCookie('cookieConsent', 'minimized', 180);
     setCookie('marketingCookies', marketingCookiesToggle.checked, 180);
+    if(marketingCookiesToggle.checked) {
+      // Enable marketing cookies
+      gtag('consent', 'update', {
+        'ad_storage': 'granted',
+        'ad_user_data': 'granted',
+        'ad_personalization': 'granted',
+        'analytics_storage': 'granted'
+      });
+    } else {
+      // Disable marketing cookies
+      gtag('consent', 'update', {
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'analytics_storage': 'denied'
+      });
+    }
     cookieConsentModal.hide();
     cookieConsentMinimized.style.display = 'block';
   }
