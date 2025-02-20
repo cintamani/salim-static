@@ -18,19 +18,21 @@
             </div>
           </div>
         </div>
-        <div class="col mt-3 mt-md-0">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h1 class="text-body-emphasis">
-                AGEVOLAZIONI FISCALI
-              </h1>
-              <p class="card-text fs-4">
-                Sostienici attraverso i tuoi contributi detraibili e deducibili dalle tasse!
-              </p>
-              <a class="btn btn-primary btn-lg" href="/agevolazioni_fiscali.html">Scopri di piú!</a>
+        {% if site.active_lang == "it" %}
+          <div class="col mt-3 mt-md-0">
+            <div class="card shadow-sm">
+              <div class="card-body">
+                <h1 class="text-body-emphasis">
+                  AGEVOLAZIONI FISCALI
+                </h1>
+                <p class="card-text fs-4">
+                  Sostienici attraverso i tuoi contributi detraibili e deducibili dalle tasse!
+                </p>
+                <a class="btn btn-primary btn-lg" href="/agevolazioni_fiscali.html">Scopri di piú!</a>
+              </div>
             </div>
           </div>
-        </div>
+        {% endif %}
         <div class="col mt-3 mt-lg-0">
           <div class="card shadow-sm">
             <div class="card-body">
