@@ -195,3 +195,19 @@ main {
   --bs-btn-active-color: #382213;
   --bs-btn-disabled-color: #382213;
 }
+.vertical-divider {
+  flex-shrink: 0;
+  width: 1.5rem;
+  height: 100vh;
+}
+
+.blog-nav {
+  width: 300px;
+}
+.scrollarea {
+  overflow-y: auto;
+}
+.bg-highlight {
+  color: var(--bs-highlight-color);
+  background-color: var(--bs-highlight-bg) !important;
+}

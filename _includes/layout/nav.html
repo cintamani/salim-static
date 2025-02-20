@@ -23,10 +23,19 @@
             </a>
           </li>
         {% endfor %}
-        <div class="ms-1">
-          {% include buttons/donate.html %}
-        </div>
+        <li class="nav-item">
+          <a
+            class="nav-link {% if stripped_url == 'blog' %} active {% endif %}"
+            href="/blog"
+            data-target="blog"
+          >
+            Blog
+          </a>
+        </li>
       </ul>
+      <div class="ms-md-3">
+        {% include buttons/donate.html %}
+      </div>
     </div>
   </div>
 </nav>

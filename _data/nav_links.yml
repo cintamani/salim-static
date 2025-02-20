@@ -14,6 +14,6 @@
   url: /soci-e-volontari
   label: Soci e Volontari
 
-- name: footer
-  url: /#footer
-  label: Contatti
+# - name: footer
+#   url: /#footer
+#   label: Contatti

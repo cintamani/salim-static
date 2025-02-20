@@ -1,121 +1,114 @@
 <!doctype html>
+
 <html lang="{{ site.active_lang }}">
-<head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M455RB9W1B"></script>
-  <script>
-    function getCookie(name) {
-      const cookieName = name + "=";
-      const cookies = document.cookie.split(';');
-      for (let i = 0; i < cookies.length; i++) {
-        let cookie = cookies[i].trim();
-        if (cookie.indexOf(cookieName) === 0) {
-          return cookie.substring(cookieName.length, cookie.length);
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M455RB9W1B"></script>
+    <script>
+      function getCookie(name) {
+        const cookieName = name + "=";
+        const cookies = document.cookie.split(';');
+        for (let i = 0; i < cookies.length; i++) {
+          let cookie = cookies[i].trim();
+          if (cookie.indexOf(cookieName) === 0) {
+            return cookie.substring(cookieName.length, cookie.length);
+          }
         }
+        return null;
       }
-      return null;
-    }
 
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-M455RB9W1B');
-    gtag('consent', 'default', {
-      'ad_storage': 'denied',
-      'ad_user_data': 'denied',
-      'ad_personalization': 'denied',
-      'analytics_storage': 'denied'
-    });
-
-    const cookieConsent = getCookie('marketingCookies');
-
-    if(cookieConsent) {
-      gtag('consent', 'update', {
-        'ad_storage': 'granted',
-        'ad_user_data': 'granted',
-        'ad_personalization': 'granted',
-        'analytics_storage': 'granted'
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-M455RB9W1B');
+      gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'analytics_storage': 'denied'
       });
-    }
-  </script>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  <meta charset="utf-8">
 
-  {% if site.active_lang == site.default_lang %}
-    <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url }}" />
-    <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url }}" />
-  {% elsif site.active_lang == "en" %}
-    <link rel="alternate" hreflang="it" href="{{ site.url }}{{ page.url | remove_first: '/en' }}" />
-    <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/en' }}" />
-  {% else %}
-    <link rel="alternate" hreflang="it" href="{{ site.url }}{{ page.url | remove_first: '/es' }}" />
-    <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/es' }}" />
-  {% endif %}
+      const cookieConsent = getCookie('marketingCookies');
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+      if(cookieConsent) {
+        gtag('consent', 'update', {
+          'ad_storage': 'granted',
+          'ad_user_data': 'granted',
+          'ad_personalization': 'granted',
+          'analytics_storage': 'granted'
+        });
+      }
+    </script>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <meta charset="utf-8">
 
-  <!-- HTML Meta Tags -->
-  <title>{{ page.title }}</title>
-  <meta name="description" content="Vuoi essere sicuro che la tua donazione stia portando frutto nella vita di qualcuno? La nostra missione e' darti questa certezza.  ">
+    <!-- Internationalisation generated Meta Tags -->
+    {% I18n_Headers %}
 
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://salimodv.org">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Associazione Salim ODV">
-  <meta property="og:description" content="Vuoi essere sicuro che la tua donazione stia portando frutto nella vita di qualcuno? La nostra missione e' darti questa certezza.  ">
-  <meta property="og:image" content="https://salimodv.org/assets/images/logos/logo_extended_green_1_all_grande.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="salimodv.org">
-  <meta property="twitter:url" content="https://salimodv.org">
-  <meta name="twitter:title" content="Associazione Salim ODV">
-  <meta name="twitter:description" content="Vuoi essere sicuro che la tua donazione stia portando frutto nella vita di qualcuno? La nostra missione e' darti questa certezza.  ">
-  <meta name="twitter:image" content="https://salimodv.org/assets/images/logos/logo_extended_green_1_all_grande.png">
+    <!-- HTML Meta Tags -->
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="keywords" content="{{ page.keywords | default: site.keywords }}">
 
-  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://salimodv.org">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Associazione Salim ODV">
+    <meta property="og:description" content="Vuoi essere sicuro che la tua donazione stia portando frutto nella vita di qualcuno? La nostra missione e' darti questa certezza.  ">
+    <meta property="og:image" content="https://salimodv.org/assets/images/logos/logo_extended_green_1_all_grande.png">
 
-  <!-- Bootstrap 5 CSS compiled with custom colours pallete -->
-  <link href="/assets/css/bootstrap.css" rel="stylesheet">
-  <link href="/assets/css/main.css" rel="stylesheet">
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="salimodv.org">
+    <meta property="twitter:url" content="https://salimodv.org">
+    <meta name="twitter:title" content="Associazione Salim ODV">
+    <meta name="twitter:description" content="Vuoi essere sicuro che la tua donazione stia portando frutto nella vita di qualcuno? La nostra missione e' darti questa certezza.  ">
+    <meta name="twitter:image" content="https://salimodv.org/assets/images/logos/logo_extended_green_1_all_grande.png">
 
-  {% if page.url == "/" %}
-    <!-- Jarallax CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/jarallax@2/dist/jarallax.min.css" rel="stylesheet">
-    <!-- Jarallax JS -->
-    <script src="https://cdn.jsdelivr.net/npm/jarallax@2/dist/jarallax.min.js"></script>
-  {% endif %}
-</head>
+    <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
-<body {% if page.url == "/" %} data-bs-spy="scroll" data-bs-target="#menu-bar" data-bs-offset="0" tabindex="0" {% endif %}>
-  {% include layout/nav.html %}
+    <!-- Bootstrap 5 CSS compiled with custom colours pallete -->
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
 
-  <main class="container-full">
-    <div class="{% if page.url != "/" %}skip-nav{% endif %}">
-      {{ content }}
-    </div>
-  </main>
-  {% include donate_now_modal.html handle="DonateNowModal" %}
+    {% if page.url == "/" %}
+      <!-- Jarallax CSS -->
+      <link href="https://cdn.jsdelivr.net/npm/jarallax@2/dist/jarallax.min.css" rel="stylesheet">
+      <!-- Jarallax JS -->
+      <script src="https://cdn.jsdelivr.net/npm/jarallax@2/dist/jarallax.min.js"></script>
+    {% endif %}
+  </head>
 
-  {% include layout/footer.html %}
-  {% include layout/consent_modal.html %}
+  <body {% if page.url == "/" %} data-bs-spy="scroll" data-bs-target="#menu-bar" data-bs-offset="0" tabindex="0" {% endif %}>
+    {% include layout/nav.html %}
 
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
-    integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
-    crossorigin="anonymous"></script>
+    <main class="container-full">
+      <div class="{% if page.url != "/" %}skip-nav{% endif %}">
+        {{ content }}
+      </div>
+    </main>
+    {% include donate_now_modal.html handle="DonateNowModal" %}
 
-  <script src="/assets/js/cookies.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
+    {% include layout/footer.html %}
+    {% include layout/consent_modal.html %}
 
-  <script src="/assets/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+      crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+      integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+      crossorigin="anonymous"></script>
 
-  {% if page.url == "/" %}
-    <script src="/assets/js/navbar-hides.js"></script>
-    <script src="/assets/js/menu-highlights.js"></script>
-  {% endif %}
-</body>
+    <script src="/assets/js/cookies.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
 
+    <script src="/assets/js/main.js"></script>
+
+    {% if page.url == "/" %}
+      <script src="/assets/js/navbar-hides.js"></script>
+      <script src="/assets/js/menu-highlights.js"></script>
+    {% endif %}
+  </body>
 </html>

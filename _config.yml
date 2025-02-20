@@ -22,6 +22,8 @@ title: Salim ODV
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Organizazzione di volontariato Salim ODV
+keywords: >-
+ Associazione Salim Odv, #salimodv, salim odv, kenia, volontariato in africa, volontariato
 # the subpath of your site, e.g. /blog
 # baseurl: ""
 # the base hostname & protocol for your site, e.g. http://example.com
@@ -63,7 +65,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-languages: ['it', 'en'] # , 'es'] #, "de", "fr", "es"]
+languages: ['it'] # , 'en', 'es'] #, "de", "fr", "es"]
 default_lang: 'it'
 exclude_from_localization: ["javascript", "images", "css", "public", "fonts", "assets", "js"]
 parallel_localization: true
