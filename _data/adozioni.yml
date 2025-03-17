@@ -133,17 +133,6 @@
   regione: Lunguma
   esigenze_mediche: no
   
-- nome: "Penina"
-  eta: 2
-  descrizione: "La numerosa famiglia di Penina si sostiene esclusivamente con il lavoro saltuario del papà che vive alla giornata guidando la moto taxi che ogni volta noleggia appena gli si presenta la possibilità di accompagnare qualcuno. "
-  foto:
-    src: "/assets/images/foto/sostegni/19-Penina.jpg"
-    alt: "bambina di 2 anni"
-  casa: 8 persone
-  educazione: è ancora piccola
-  regione: Lunguma
-  esigenze_mediche: no
-  
 - nome: "Mwanalima"
   eta: 4
   descrizione: "La famiglia di Mwanalima è molto povera, vivono in una casa non terminata, senza avere di fatto nulla. La loro situaizone è aggravata dal fatto che la loro mamma ha problemi mentali non ben diagnosticati, e la bambina inizia a manifestare gli stessi problemi"
