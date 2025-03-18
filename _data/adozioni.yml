@@ -23,17 +23,6 @@
   regione: Kwale
   esigenze_mediche: Esigenze mediche
 
-- nome: "Ismail"
-  eta: 4
-  descrizione: "Ismail (2020) vive in un'umile casetta di terra e paglia insieme al suo papà (che pulisce la casa di alcune persone bianche), la mamma (che vende patate fritte) e i suoi 8 fratelli."
-  foto:
-    src: "/assets/images/foto/sostegni/14-Ismail.jpg"
-    alt: "Bambino di 4 anni"
-  casa: 11 persone
-  educazione: "non frequenta l'asilo"
-  regione: Kwale
-  esigenze_mediche: no
-
 - nome: "Precious"
   eta: 5
   descrizione: Precious (2019) è orfana di entrambi i genitori e vive insieme a suo zio e sua nonna in una casetta di terra e lamiera. La nonna fa la sarta ma il lavoro è molto altalenante. Alla domanda "Di cosa potreste aver bisogno?" hanno risposto "Di tutto".
@@ -54,17 +43,6 @@
   casa: 11 persone
   educazione: 6° elementare
   regione: Kilifi
-  esigenze_mediche: no
-
-- nome: "Saumu"
-  eta: 4
-  descrizione: Saumu (2020) è l'ultima di 9 fratelli, purtroppo orfani di padre e abbandonati dalla madre. Vivono con uno zio anziano in una piccola casa di terra rossa e lamiera.
-  foto:
-    src: "/assets/images/foto/sostegni/08-Saumu.jpg"
-    alt: "Testo Alternativo per screenreader"
-  casa: 11 persone
-  educazione: 1° asilo
-  regione: Kwale
   esigenze_mediche: no
 
 - nome: "Mussa"
@@ -127,8 +105,41 @@
   descrizione: "Ali vive in una baracca di lamiera e terra insieme ad altri 5 fratelli e ai suoi genitori. La mamma zappa terreni per conto di altre persone e il papà prepara e vende ai lati della strada i Mandazi, tipici paninetti dolci fritti. La sua famiglia fa di tutto per garantirgli cibo e istruzione ma non arrivano a coprire il fabbisogno di tutta la famiglia."
   foto:
     src: "/assets/images/foto/sostegni/18-Ali.jpg"
-    alt: "bambino di 2 anni"
+    alt: "bambino di 6 anni"
   casa: 8 persone
   educazione: 2° asilo
   regione: Kwale
   esigenze_mediche: no
+
+- nome: "Husna"
+  eta: 2
+  descrizione: "Questa dolce bambina vive insieme a sua sorella, sua madre e i suoi nonni, in una umile casa fatta di terra e lamiera."
+  foto:
+    src: "/assets/images/foto/sostegni/20-Husna.jpg"
+    alt: "bambina di 2 anni"
+  casa: 5 persone
+  educazione: è ancora piccola
+  regione: Lunguma
+  esigenze_mediche: no
+
+- nome: "Penina"
+  eta: 2
+  descrizione: "La numerosa famiglia di Penina si sostiene esclusivamente con il lavoro saltuario del papà che vive alla giornata guidando la moto taxi che ogni volta noleggia appena gli si presenta la possibilità di accompagnare qualcuno. "
+  foto:
+    src: "/assets/images/foto/sostegni/19-Penina.jpg"
+    alt: "bambina di 2 anni"
+  casa: 8 persone
+  educazione: è ancora piccola
+  regione: Lunguma
+  esigenze_mediche: no
+  
+- nome: "Mwanalima"
+  eta: 4
+  descrizione: "La famiglia di Mwanalima è molto povera, vivono in una casa non terminata, senza avere di fatto nulla. La loro situaizone è aggravata dal fatto che la loro mamma ha problemi mentali non ben diagnosticati, e la bambina inizia a manifestare gli stessi problemi"
+  foto:
+    src: "/assets/images/foto/sostegni/21-Mwanalima.jpeg"
+    alt: "bambina di 4 anni"
+  casa: 5 persone
+  educazione: è ancora piccola
+  regione: Kwale
+  esigenze_mediche: problemi mentali
