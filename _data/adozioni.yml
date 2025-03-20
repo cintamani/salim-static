@@ -88,17 +88,6 @@
   educazione: 6° elementare
   regione: Kilifi
   esigenze_mediche: no
-
-- nome: "Mussa"
-  eta: 2
-  descrizione: "vive con i suoi 7 fratelli e i genitori in una casa di lamiera e paglia arrangiata alla meglio, che durante la stagione estiva diventa un vero forno e quando piove entra acqua. Il papà lavora come manovale, ma con la sua paga non arriva a garantire il cibo quotidiano per i suoi figli."
-  foto:
-    src: "/assets/images/foto/sostegni/17-Mussa.jpg"
-    alt: "bambino di 2 anni"
-  casa: 9 persone
-  educazione: è ancora piccolo
-  regione: Kwale
-  esigenze_mediche: no
   
 - nome: "Ali"
   eta: 6
