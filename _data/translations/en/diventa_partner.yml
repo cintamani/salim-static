@@ -1,0 +1,23 @@
+# Become a Partner page
+page:
+  title: "Salim ODV Association - Become a Partner"
+  description: "Become a partner of the Salim ODV association and help us fight poverty"
+
+header:
+  title: "Become a Partner"
+  subtitle: "The opportunity to be part of the change"
+
+content:
+  intro_p1: "What you find on these pages is just the beginning of what we have in mind. We like to dream big and we like even more to think that it is possible to share these dreams with companies that believe in the project and are ready to put their face on it, just as we all have."
+  intro_p2: "The possible developments are potentially endless. We find the limit when the spirit of collaboration is lacking. If you believe that you and your company can offer know-how, skills, time to fight against poverty, we invite you to contact us."
+  
+  looking_for: "We are looking for companies active in the following fields:"
+  fields:
+    - "Communication"
+    - "Web and app development"
+    - "Photography and video"
+    - "Legal consultants in international field"
+  
+  tax_benefits: "We remind you that companies can benefit from even more advantageous deductions: donations are <strong>100%</strong> deductible, up to a maximum amount equal to 10% of the total declared income. If the deduction exceeds the taxable income, the excess can be carried forward to the following four tax periods"
+  
+  thanks: "Thank you in advance!"

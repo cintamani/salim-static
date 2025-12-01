@@ -1,0 +1,41 @@
+# Sostegno a distanza page
+page:
+  title: "Associazione Salim ODV - Progetti - Sostegni a distanza"
+  description: "Sostegno a distanza per le famiglie di Salim ODV"
+
+header:
+  title: "Sostegni a distanza"
+  subtitle: "Vorresti fare la differenza nella vita di un bambino e della sua famiglia? Diventa un sostenitore!"
+
+content:
+  intro_p1: "Scorri la pagina per vedere i bambini in cerca di un sostenitore e leggere le loro storie. Se trovi qualcuno che tocca il tuo cuore, inizia oggi un sostegno a distanza."
+  intro_p2: "Puoi scegliere fra le seguenti due quote. Tieni presente che i beni consegnati vengono calibrati in base alle reali necessità del bambino e della sua famiglia, cercando di variare l'offerta di cibo per tentare di sopperire ad eventuali carenze nutritive. Riconvertiamo in cibo le quote relative a medicinali e istruzione nel caso non vengano utilizzate per intero."
+  
+  plan_40:
+    price: "40€"
+    monthly: "al mese garantiscono:"
+    items:
+      - "Cibo"
+      - "Prodotti per igiene e pulizia"
+      - "Vestiario"
+      - "Medicinali e prima assistenza medica"
+  
+  plan_50:
+    price: "50€"
+    monthly: "al mese garantiscono:"
+    items:
+      - "Cibo"
+      - "Prodotti per igiene e pulizia"
+      - "Vestiario"
+      - "Medicinali e prima assistenza medica"
+    plus_education: "+ Tasse scuola pubblica primaria"
+  
+  options_intro: "Alle quote sopra indicate è possibile aggiungere le seguenti opzioni:"
+  option_hygiene: "Opzione \"Più igiene\""
+  option_hygiene_desc: "fornisci un pacchetto di 14 assorbenti al costo di 2€."
+  option_birthday: "Opzione \"Compleanno\""
+  option_birthday_desc: "dona liberamente per il suo giorno speciale! Ti aiuteremo a scegliere il regalo più adatto in base alle sue reali esigenze."
+  thanks: "Grazie sin da ora per il tuo impegno!"
+  
+  years: "anni"
+  support_button: "Sostieni"

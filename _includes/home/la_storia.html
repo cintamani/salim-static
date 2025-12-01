@@ -1,37 +1,31 @@
+{% assign t = site.data.translations[site.active_lang].main %}
+{% assign h = site.data.translations[site.active_lang].home %}
 <div class="min-vh-100 py-5 my-5">
   <div class="align-items-center p-3 rounded-3 border mx-3 shadows my-auto bg-white bg-opacity-75">
     <div class="row">
       <figure class="col-md-12 d-md-none">
-        <img src="/assets/images/foto/jessica_inizio.jpeg" alt="Jessica la prima volta in Kenya" class="rounded-3 img-fluid">
-        <figcaption class="figure-caption text-center">Jessica e Salim, 2014</figcaption>
+        <img src="/assets/images/foto/jessica_inizio.jpeg" alt="{{ h.story_preview.caption }}" class="rounded-3 img-fluid">
+        <figcaption class="figure-caption text-center">{{ h.story_preview.caption }}</figcaption>
       </figure>
       <div class="col-md-12 mt-md-0">
         <figure class="figure w-50 float-start m-3 d-none d-md-block">
-          <img src="/assets/images/foto/jessica_inizio.jpeg" alt="Jessica la prima volta in Kenya"
+          <img src="/assets/images/foto/jessica_inizio.jpeg" alt="{{ h.story_preview.caption }}"
             class="rounded-3 img-fluid">
-          <figcaption class="figure-caption text-center">Jessica e Salim, 2014</figcaption>
+          <figcaption class="figure-caption text-center">{{ h.story_preview.caption }}</figcaption>
         </figure>
 
-        <h1 class="display-4 fw-bold lh-1 text-body-emphasis">Una storia d'amore lunga più di 10 anni...</h1>
+        <h1 class="display-4 fw-bold lh-1 text-body-emphasis">{{ h.story_preview.title }}</h1>
         <p class="lead">
-          Salim è il nome del primo bambino che Jessica Donadio, una giovanissima ragazza romana in
-          visita in Kenya, tenne in braccio nel lontano 2014.
+          {{ h.story_preview.p1 }}
         </p>
         <p class="lead">
-          Dall’epoca, nel cuore di Jessica si è acceso un amore profondo per questo popolo, e nel tempo ha
-          iniziato a mettere in comunicazione i bisogni della popolazione
-          locale con le disponibilità finanziarie di persone sparse in Italia e nel mondo.
+          {{ h.story_preview.p2 }}
         </p>
         <p class="lead">
-          Più di 80 persone, in
-          Europa, America e Australia hanno già scelto di fidarsi della
-          trasparenza e della serietà di Jessica. Negli ultimi anni diverse persone hanno deciso di andare a
-          vedere in prima persona il lavoro duro e la dedizione con cui ogni
-          aspetto di questa opera viene portato avanti da Jessica e da suo marito Salimu, e negli ultimi due anni
-          si è formato un team di supporto a questa realtà...
+          {{ h.story_preview.p3 }}
         </p>
         <p class="lead">
-          <a class="btn btn-primary btn-lg float-end" href="la-storia.html" disabled>Scopri di piú!</a>
+          <a class="btn btn-primary btn-lg float-end" href="la-storia.html" disabled>{{ t.buttons.learn_more }}</a>
         </p>
       </div>
     </div>

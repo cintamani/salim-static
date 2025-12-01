@@ -1,0 +1,31 @@
+# Homepage hero section
+hero:
+  line1: "Do you want to be <i class=\"text-highlight\">sure</i> that your donation is <u class=\"text-highlight\">making a difference</u> in someone's life?"
+  line2_part1: "Now you can <u class=\"text-highlight\">clearly see</u>"
+  line2_part2: "how <u class=\"text-highlight\">every euro</u> you donate"
+  line2_part3: "is spent thanks to"
+  line2_part4: "<u class=\"text-highlight\">photos</u> and <u class=\"text-highlight\">monthly reports</u>."
+  transparency_btn: "Our transparency mission"
+
+# Story preview section
+story_preview:
+  title: "A love story spanning more than 10 years..."
+  caption: "Jessica and Salim, 2014"
+  p1: "Salim is the name of the first child that Jessica Donadio, a very young Roman girl visiting Kenya, held in her arms back in 2014."
+  p2: "Since then, a deep love for these people has ignited in Jessica's heart, and over time she began connecting the needs of the local population with the financial resources of people scattered across Italy and the world."
+  p3: "More than 80 people in Europe, America, and Australia have already chosen to trust Jessica's transparency and dedication. In recent years, several people have decided to see firsthand the hard work and dedication with which every aspect of this work is carried out by Jessica and her husband Salimu, and in the last two years a support team has formed around this reality..."
+
+# Volunteers section
+volunteers_section:
+  main_title: "If you like our work, support the entire association!"
+  become_member:
+    title: "BECOME A MEMBER"
+    description: "Support our activities or get personally involved and become a <b class=\"text-secondary\">volunteer</b>"
+  fiscal:
+    title: "TAX BENEFITS"
+    description: "Support us through your tax-deductible contributions!"
+  partner:
+    title: "BECOME A PARTNER"
+    description: "Do you have a company and think your work could be useful to Salim ODV's cause? Together we can go further!"
+  donate_5x1000: "Donate your 5x1000"
+  fiscal_code_instruction: "Enter in the appropriate field the number"

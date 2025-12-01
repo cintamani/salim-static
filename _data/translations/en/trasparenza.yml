@@ -1,0 +1,31 @@
+# Transparency page
+page:
+  title: "Salim ODV Association - Transparency"
+  description: "Transparency is the value without which there can be no trust. Discover how we ensure transparency and fairness in our projects."
+
+header:
+  title: "Transparency:"
+  subtitle: "the value without which there can be no trust."
+
+content:
+  intro_p1: "Transparency is not just a formality for us: it is the means through which we can create a lasting relationship of trust with those who believe in our work. Only by clearly showing how we manage resources and what results we achieve, can we maintain credibility and commitment to the people we help and to those who support us."
+  intro_p2: "With Salim ODV, you always know where your donations go, and you can see firsthand the positive impact you are generating in the world."
+  
+  how_title: "How we ensure transparency"
+  
+  reporting_title: "Detailed reporting"
+  reporting_text: "Every project we carry out is documented accurately. We provide personalized monthly updates for every supporter who regularly sponsors children, and we produce financial reports documented with photographs that clearly show how the funds received for each project have been used. Annual budgets and reports of our projects are available to all our supporters."
+  
+  communication_title: "Continuous communication with donors"
+  communication_text: "For us, donors are not just funders, but true partners in change. We maintain constant dialogue with those who support us, providing timely feedback and responding to every question or request for clarification. Every donation, large or small, is valued and monitored, to demonstrate the concrete impact it has on the lives of the people we help."
+  
+  audit_title: "External audits and internal audit"
+  audit_text: "We regularly undergo external audits to ensure that resource management complies with transparency and fairness standards. We work with independent auditors who guarantee the integrity of our financial statements and processes. We have the support of a law firm regarding data management and privacy: your data, like that of the children, is important data to be carefully guarded. We take seriously the input from all members and donors who can help us improve in achieving our statutory objectives."
+  
+  accessibility_title: "Accessibility of information"
+  accessibility_text: "All our documents, from budgets to project reports, can be requested and will soon be accessible online. We believe that every supporter has the right to know in detail how their contribution is used to achieve our humanitarian goals."
+  
+  cta_part1: "If you like all of this and would like to support the association more directly, consider"
+  cta_link: "becoming a member"
+  
+  thanks: "Thank you in advance!"

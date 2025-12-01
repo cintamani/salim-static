@@ -1,3 +1,5 @@
+{% assign t = site.data.translations[site.active_lang].main %}
+
 <div class="modal fade" id="{{ include.handle }}" tabindex="-1" aria-labelledby="{{ include.handle }}Label"
   aria-hidden="true">
   <div class="modal-dialog">
@@ -7,22 +9,21 @@
           <svg class="align-middle icon-heart-handshake me-1" width="30" height="30">
             <use xlink:href="/assets/images/icons/sprite.svg#heart-handshake"></use>
           </svg>
-          <span class="align-middle">Dona ora</span>
+          <span class="align-middle">{{ t.support_modal.title }}</span>
         </h1>
       </div>
       <div class="modal-body">
         <h4 class="fs-5 ">
-          Valuta attentamente la cifra che sei disposto a sostenere mensilmente. Poi procedi con il primo pagamento attraverso il bottone qui sotto,
-          inserendo l’importo e il nome del bambino negli appositi campi.
+          {{ t.support_modal.description_1 }}
         </h4>
         <h4 class="fs-5 ">
-          Una volta ricevuto il tuo primo sostegno, il nostro staff si metterà in contatto con te in breve per fornirti tutte le ulteriori informazioni.
+          {{ t.support_modal.description_2 }}
         </h4>
         <div class="fs-5">
-          Nome del bambino da sostenere: <em>{{ include.nome }}</em>
+          {{ t.support_modal.child_name }}: <em>{{ include.nome }}</em>
           <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy"
             data-clipboard-text="{{ include.nome }}">
-            <i data-bs-toggle="tooltip" data-bs-title="Copia" class="bi bi-clipboard"></i>
+            <i data-bs-toggle="tooltip" data-bs-title="{{ t.buttons.copy }}" class="bi bi-clipboard"></i>
           </a>
         </div>
 
@@ -30,12 +31,12 @@
           <a href="https://donate.stripe.com/3cs29L1CifGEfU46oy"
             class="btn btn-warning btn-md mx-auto w-auto rounded-pill mt-3">
             <i class="bi bi-credit-card"></i>
-            Sostieni {{include.nome}}
+            {{ t.buttons.support }} {{include.nome}}
           </a>
         </div>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Chiudi</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{ t.buttons.close }}</button>
       </div>
     </div>
   </div>
@@ -56,7 +57,7 @@
         const tooltipElement = e.trigger.querySelector('[data-bs-toggle="tooltip"]');
         const tooltip = bootstrap.Tooltip.getInstance(tooltipElement);
 
-        tooltip.setContent({ '.tooltip-inner': 'Copiato!' });
+        tooltip.setContent({ '.tooltip-inner': '{{ t.buttons.copied }}' });
         tooltip.show();
       });
     } else {

@@ -1,0 +1,41 @@
+# Distance support page
+page:
+  title: "Salim ODV Association - Projects - Distance Support"
+  description: "Distance support for Salim ODV families"
+
+header:
+  title: "Distance Support"
+  subtitle: "Would you like to make a difference in a child's life and their family? Become a supporter!"
+
+content:
+  intro_p1: "Scroll down the page to see children looking for a supporter and read their stories. If you find someone who touches your heart, start a distance support today."
+  intro_p2: "You can choose between the following two plans. Please note that the goods delivered are calibrated based on the real needs of the child and their family, trying to vary the food offer to compensate for any nutritional deficiencies. We convert the amounts for medicine and education into food if they are not used in full."
+  
+  plan_40:
+    price: "€40"
+    monthly: "per month guarantee:"
+    items:
+      - "Food"
+      - "Hygiene and cleaning products"
+      - "Clothing"
+      - "Medicine and first medical assistance"
+  
+  plan_50:
+    price: "€50"
+    monthly: "per month guarantee:"
+    items:
+      - "Food"
+      - "Hygiene and cleaning products"
+      - "Clothing"
+      - "Medicine and first medical assistance"
+    plus_education: "+ Public primary school fees"
+  
+  options_intro: "The following options can be added to the above plans:"
+  option_hygiene: "\"More hygiene\" option"
+  option_hygiene_desc: "provide a pack of 14 sanitary pads at a cost of €2."
+  option_birthday: "\"Birthday\" option"
+  option_birthday_desc: "donate freely for their special day! We will help you choose the most suitable gift based on their real needs."
+  thanks: "Thank you in advance for your commitment!"
+  
+  years: "years old"
+  support_button: "Support"

@@ -1,0 +1,15 @@
+# Blog page
+page:
+  title: "Associazione Salim ODV - Blog"
+  description: "Articoli e aggiornamenti sull'attività dell'associazione Salim ODV"
+
+header:
+  title: "Il Blog di Salim ODV"
+  subtitle: "Scopri le ultime novità, i progetti e le storie dei bambini che sosteniamo in Kenya."
+
+buttons:
+  read_article: "Leggi l'articolo"
+
+pagination:
+  previous: "Precedente"
+  next: "Successiva"

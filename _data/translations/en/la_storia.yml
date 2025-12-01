@@ -1,0 +1,28 @@
+# Our Story page
+page:
+  title: "Salim ODV Association - Our Story / About Us"
+  description: "Discover the story of the Salim ODV association and how it was born"
+
+header:
+  title: "A love story spanning more than 10 years"
+  subtitle: "A small seed that has grown over the years and now supports more than 80 children and their families"
+  caption: "Jessica and Salim, 2014"
+
+content:
+  p1: "Salim is the name of the first child that Jessica Donadio, a very young Roman girl visiting Kenya, held in her arms back in 2014. Since then, a deep love for these people has ignited in Jessica's heart, and over time she began connecting the needs of the local population with the financial resources of people scattered across Italy and the world."
+  p2: "More than 80 people in Europe, America, and Australia have already chosen to trust Jessica's transparency and dedication. In recent years, several people have decided to see firsthand the hard work and dedication with which every aspect of this work is carried out by Jessica and her husband Salimu, and in the last two years a support team has formed around this reality, made up of IT experts, communication professionals, lawyers, and enthusiasts who led to the founding of this association in June 2024."
+  p3: "The association now wants to continue the work started by Jessica, with the same characteristics of transparency and reliability: every month, for every donation received, a detailed report is sent showing how every euro is spent, with an attached photo of the delivery or use of the service."
+  p4: "This way you can <strong>be sure that your gesture is bearing the fruit it should</strong>."
+
+founders:
+  title: "Founding Members"
+  photo_caption: "From left: Sara, Carlo, Valentina, Jessica, Piercarlo, Simona. Rome, 2024"
+  intro: "The team you see in the photo was personally chosen by Jessica (only the webmaster is missing from the photo)."
+  location: "We are not geographically close: we are spread across <strong>northern and central Italy, Spain, and Kenya</strong>, but this is not a problem for us. Although we are all different, we share one strong purpose: <strong>to turn small gestures into fruits!</strong>"
+  sara: "<strong>Sara</strong> - the president. Expert in communication, with years of work in radio as both a speaker and in administration, she is the one behind all the bureaucracy, communication, and who keeps the project together."
+  carlo: "<strong>Carlo</strong> - the treasurer. He has managed a bookstore for many years and has a background in television backstages as an operator; methodical, organized, and with excellent familiarity with currencies, he is the right person to manage the financial side."
+  valentina: "<strong>Valentina</strong> - the secretary. Sales assistant in the food sector, she is our person in charge of managing everything related to associative life: members, registrations, recordings, volunteers, minutes, etc."
+  jessica: "<strong>Jessica</strong> - the vice president. She is the one who gave life to the entire project, carrying it forward for years on her own, and represents the operational hand of the association in Kenya, but is actually behind every idea and thought of present and future development."
+  piercarlo: "<strong>Piercarlo</strong> - the advisor. He runs his own farm, cares about territorial development, and we can't wait to see him at work making the clay Kenyan lands flourish, which only have water two months a year... quite a challenge!"
+  simona: "<strong>Simona</strong> - the advisor. Precise and scrupulous administrative employee, she is the one who manages the mass of data, photos, and information that the association has to handle, as well as being the person responsible for WhatsApp."
+  cintamani: "<strong>Cintamani</strong> - the advisor and webmaster. Sparkling and energetic, with more than 15 years of experience in the web and IT sector, she is the one behind the website and all the computer systems that will follow in the months to come."

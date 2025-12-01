@@ -6,6 +6,8 @@ permalink: /progetti/progetto-animali
 description: Associazione Salim ODV - Progetto Animali da cortile - Una raccolta fondi per l'acquisto di animali da cortile
 keywords: progetti, animali da cortile, Salim ODV, associazione salim, africa, kenya, volontariato, sostentamento
 ---
+{% assign s = site.data.translations[site.active_lang].progetto_animali %}
+{% assign t = site.data.translations[site.active_lang].main %}
 
 <div class="m-2 m-md-3 m-lg-5 pb-5">
   <div class="bd-main order-1">
@@ -13,61 +15,57 @@ keywords: progetti, animali da cortile, Salim ODV, associazione salim, africa, k
       <div class="container-fluid py-5">
         <div class="row row-cols-md-2 row-cols-1">
           <div class="col pb-md-0 pb-3">
-            <h1 class="display-1 ">Progetto animali</h1>
+            <h1 class="display-1">{{ s.header.title }}</h1>
             <h2 class="display-7 fw-bold lh-base">
-              L'opportunità non soltanto di mangiare, ma di iniziare a pensare oltre.
+              {{ s.header.subtitle }}
             </h2>
           </div>
           <div class="col p-0 px-lg-5">
-            <img src="/assets/images/foto/progetto_animali.jpg" alt="Progetto animali" class="card-img-top img-fluid">
+            <img src="/assets/images/foto/progetto_animali.jpg" alt="{{ s.header.title }}" class="card-img-top img-fluid">
           </div>
         </div>
       </div>
     </div>
     <p class="fs-1">
-      <strong> Dona un animale, cambia una vita </strong>
+      <strong>{{ s.content.main_title }}</strong>
     </p>
     <p class="fs-4">
-      Chi possiede un animale sa benissimo a cosa ci riferiamo. La gioia che un cucciolo può portare in una casa è qualcosa di indescrivibile. E quando questo animale, introdotto in una famiglia povera, diventa anche fonte di sostentamento perchè fornisce latte o uova, la gioia si moltiplica.
-      Il progetto però non si ferma qui. Vogliamo con questo dono instillare nelle famiglie kenyote l'idea che anche una, o meglio due paperette possano diventare una risorsa.
-      Purtroppo nella zona dove operiamo, la gente vive alla giornata, non riuscendo nemmeno a pensare a cosa potrebbe scegliere di mangiare l'indomani a colazione.
-      Fornire un animale in una situazione del genere significa consentire alle persone di aprire la mente e provare a vedere se l'allevamento, anche di pochi animali, possa essere un'opportunità per migliorare la propria condizione.
+      {{ s.content.p1 }}
     </p>
     <p class="fs-2">
-      <strong>Le opzioni proposte</strong>
+      <strong>{{ s.content.options_title }}</strong>
     </p>
     <p class="fs-4">
-      Considerando lo spazio necessario per allevarli, e l'impegno in termini di cibo e di acqua che richiedono (teniamo presente che in kenya non piove per circa 9 mesi l'anno), vi proproniamo di supportare l'acquisto di:
+      {{ s.content.options_intro }}
     </p>
     <p class="fs-4">
-      <strong>Capra</strong>: 80 euro
+      <strong>{{ s.content.goat }}</strong>: {{ s.content.goat_price }}
     </p>
     <p class="fs-4">
-      <strong>Gallina o pollo</strong>: 25 euro
+      <strong>{{ s.content.chicken }}</strong>: {{ s.content.chicken_price }}
     </p>
     <p class="fs-4">
-        <strong>Papera</strong>: 20 euro
+      <strong>{{ s.content.duck }}</strong>: {{ s.content.duck_price }}
     </p>
     <p class="fs-4">
-      Acquistiamo l'animale scelto tra quelli disponibili nei villaggi circostanti, supportando così l'economia locale. Il costo di acquisto di ciascun animale può variare in base a diversi fattori: il sesso, la razza, la stazza...
-      Quello indicato è un prezzo massimo: i fondi rimanenti verranno impiegati per fornire alla famiglia una razione iniziale di cibo per gli animali stessi.
+      {{ s.content.purchase_info }}
     </p>
     <p class="fs-1">
-      <strong>Fai la differenza oggi!</strong>
+      <strong>{{ s.content.cta_title }}</strong>
     </p>
     <p class="fs-4">
-      La tua donazione può trasformare la vita di una famiglia. Clicca sul pulsante qui sotto per seguire le istruzioni e effettuare la tua donazione.
-<strong>Grazie per il tuo prezioso sostegno!</strong>
+      {{ s.content.cta_text }}
+      <strong>{{ s.content.thanks }}</strong>
     </p>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3">
       <div class="col">
         <div class="card mb-4 rounded-3 border-secondary shadow-sm">
           <div class="card-header text-bg-secondary text-white border-secondary py-3">
-            <h4 class="my-0 fw-normal">Dona una gallina</h4>
+            <h4 class="my-0 fw-normal">{{ s.cards.donate_chicken }}</h4>
           </div>
           <div class="card-body d-flex flex-md-row flex-column align-items-center">
             <h1 class="card-title pricing-card-title">25€</h1>
-            <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNowChicken" class="ms-md-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">Dona ora</button>
+            <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNowChicken" class="ms-md-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">{{ t.buttons.donate }}</button>
           </div>
 
           {%
@@ -83,11 +81,11 @@ keywords: progetti, animali da cortile, Salim ODV, associazione salim, africa, k
       <div class="col">
         <div class="card mb-4 rounded-3 border-secondary shadow-sm">
           <div class="card-header text-bg-secondary text-white border-secondary py-3">
-            <h4 class="my-0 fw-normal">Dona una papera</h4>
+            <h4 class="my-0 fw-normal">{{ s.cards.donate_duck }}</h4>
           </div>
           <div class="card-body d-flex flex-md-row flex-column align-items-center">
             <h1 class="card-title pricing-card-title">20€</h1>
-            <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNowDuck" class="ms-md-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">Dona ora</button>
+            <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNowDuck" class="ms-md-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">{{ t.buttons.donate }}</button>
           </div>
 
           {%
@@ -103,11 +101,11 @@ keywords: progetti, animali da cortile, Salim ODV, associazione salim, africa, k
       <div class="col">
         <div class="card mb-4 rounded-3 border-secondary shadow-sm">
           <div class="card-header text-bg-secondary text-white border-secondary py-3">
-            <h4 class="my-0 fw-normal">Dona una capra</h4>
+            <h4 class="my-0 fw-normal">{{ s.cards.donate_goat }}</h4>
           </div>
           <div class="card-body d-flex flex-md-row flex-column align-items-center">
             <h1 class="card-title pricing-card-title">80€</h1>
-            <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNowSheep" class="ms-md-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">Dona ora</button>
+            <button type="button" data-bs-toggle="modal" data-bs-target="#DonateNowSheep" class="ms-md-auto btn rounded-pill btn-lg fs-3 btn-warning text-verdone">{{ t.buttons.donate }}</button>
           </div>
 
           {%

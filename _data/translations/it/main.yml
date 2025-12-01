@@ -1,0 +1,90 @@
+# Navigation
+nav:
+  home: "Home"
+  projects: "Progetti"
+  history: "La Storia"
+  volunteers: "Soci e Volontari"
+  blog: "Blog"
+
+# Buttons
+buttons:
+  donate: "Dona Ora"
+  learn_more: "Scopri di più!"
+  close: "Chiudi"
+  save: "Salva"
+  copy: "Copia"
+  copied: "Copiato!"
+  support: "Sostieni"
+  subscribe_now: "Iscriviti ora"
+  discover_how: "Scopri come"
+  read_article: "Leggi l'articolo"
+
+# Footer
+footer:
+  contact: "Contatti"
+  privacy: "Privacy Policy"
+  cookies: "Cookie Policy"
+  transparency: "Trasparenza"
+  card: "Carta"
+  donate_online: "Dona online"
+  information: "Informazioni"
+  cookie_policy: "Politica dei Cookie"
+  privacy_settings: "Le tue impostazioni sulla privacy"
+  fiscal_benefits: "Agevolazioni fiscali"
+  documents: "Documenti"
+  statute: "Statuto"
+  runts_registration: "Registrazione RUNTS"
+  regulation: "Regolamento e codice etico"
+  membership_form: "Modulo di iscrizione a socio"
+  addressed_to: "Intestato a:"
+
+# Cookie consent modal
+cookies_modal:
+  title: "Consenso Cookies"
+  description: "Utilizziamo cookies, anche di terza parte, per migliorare la tua esperienza sul nostro sito. Salva le tue preferenze e scegli se acconsentire a tutti i cookie, oppure chiudi questo banner per continuare solo con i cookie tecnici."
+  technical_cookies: "Cookies tecnici (sempre attivi)"
+  marketing_cookies: "Cookies con fini di marketing"
+
+# Donate modal
+donate_modal:
+  title: "Dona ora"
+  bank_transfer: "Bonifico bancario"
+  bank_transfer_description: "Aiutaci a risparmiare i costi di commissione. Fai un bonifico diretto."
+  causale: "Causale"
+  or_use_card: "Oppure, usa la tua carta premendo il bottone qui sotto"
+  donate_5x1000: "Dona il tuo 5x1000"
+  fiscal_code_instruction: "Inserisci nell'apposito campo il numero"
+
+# Distance support modal
+support_modal:
+  title: "Dona ora"
+  description_1: "Valuta attentamente la cifra che sei disposto a sostenere mensilmente. Poi procedi con il primo pagamento attraverso il bottone qui sotto, inserendo l'importo e il nome del bambino negli appositi campi."
+  description_2: "Una volta ricevuto il tuo primo sostegno, il nostro staff si metterà in contatto con te in breve per fornirti tutte le ulteriori informazioni."
+  child_name: "Nome del bambino da sostenere"
+
+# 5x1000 section
+five_per_thousand:
+  title: "Dona il tuo 5x1000"
+  instruction: "Inserisci nell'apposito campo il numero"
+
+# Blog call to action
+blog_cta:
+  become_member:
+    title: "Diventa Socio"
+    description: "Con soli 40€ all'anno sostieni l'associazione e partecipi alle decisioni sui progetti futuri."
+  participate:
+    title: "Partecipa ai nostri progetti"
+    description: "Diversi modi in cui puoi portare frutto nella vita di un bambino e la sua famiglia."
+  donate:
+    title: "Fai una donazione"
+    description: "Sostieni l'associzione e i suoi progetti con una donazione. Puoi decidere di destinarla dove meglio credi, basta"
+    contact_us: "contattarci"
+
+# Common
+common:
+  read_more: "Leggi di più"
+  back: "Indietro"
+  share: "Condividi"
+  years_old: "anni"
+  people: "persone"
+  per_month: "al mese garantiscono"

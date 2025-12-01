@@ -1,0 +1,23 @@
+# Conviértete en Partner page
+page:
+  title: "Asociación Salim ODV - Conviértete en Partner"
+  description: "Conviértete en socio de la asociación Salim ODV y ayúdanos a combatir la pobreza"
+
+header:
+  title: "Conviértete en Partner"
+  subtitle: "La oportunidad de ser parte del cambio"
+
+content:
+  intro_p1: "Lo que encuentras en estas páginas es solo el comienzo de lo que tenemos en mente. Nos gusta soñar en grande y nos gusta aún más pensar que es posible compartir estos sueños con empresas que crean en el proyecto y estén listas para dar la cara, tal como lo hemos hecho todos nosotros."
+  intro_p2: "Los desarrollos posibles son potencialmente infinitos. El límite lo encontramos cuando falta el espíritu de colaboración. Si crees que tú y tu empresa podéis ofrecer know-how, capacidades, tiempo para luchar contra la pobreza, te invitamos a contactarnos."
+  
+  looking_for: "Estamos buscando empresas activas en los siguientes campos:"
+  fields:
+    - "Comunicación"
+    - "Programación web y app"
+    - "Fotografía y video"
+    - "Consultores legales en ámbito internacional"
+  
+  tax_benefits: "Recordamos que las empresas pueden beneficiarse de deducciones aún más ventajosas: las donaciones son deducibles al <strong>100%</strong>, hasta un importe máximo igual al 10% de los ingresos totales declarados. Si la deducción supera la renta imponible, el exceso puede trasladarse a los cuatro períodos fiscales siguientes"
+  
+  thanks: "¡Gracias de antemano!"

@@ -1,0 +1,29 @@
+# Proyecto Animales page
+page:
+  title: "Asociación Salim ODV - Proyectos - Animales de granja"
+  description: "Asociación Salim ODV - Proyecto Animales de granja - Una recaudación de fondos para la compra de animales de granja"
+
+header:
+  title: "Proyecto animales"
+  subtitle: "La oportunidad no solo de comer, sino de empezar a pensar más allá."
+
+content:
+  main_title: "Dona un animal, cambia una vida"
+  p1: "Quien tiene un animal sabe perfectamente a lo que nos referimos. La alegría que un cachorro puede traer a una casa es algo indescriptible. Y cuando este animal, introducido en una familia pobre, también se convierte en fuente de sustento porque proporciona leche o huevos, la alegría se multiplica. Pero el proyecto no se detiene aquí. Con este regalo queremos inculcar en las familias kenianas la idea de que incluso uno, o mejor dos patitos, pueden convertirse en un recurso. Desafortunadamente, en la zona donde operamos, la gente vive al día, sin poder siquiera pensar en qué podrían elegir comer al día siguiente para desayunar. Proporcionar un animal en tal situación significa permitir que las personas abran su mente y traten de ver si la cría, incluso de pocos animales, puede ser una oportunidad para mejorar su condición."
+  options_title: "Las opciones propuestas"
+  options_intro: "Considerando el espacio necesario para criarlos, y el compromiso en términos de comida y agua que requieren (tengamos en cuenta que en Kenia no llueve durante aproximadamente 9 meses al año), les proponemos apoyar la compra de:"
+  goat: "Cabra"
+  goat_price: "80 euros"
+  chicken: "Gallina o pollo"
+  chicken_price: "25 euros"
+  duck: "Pato"
+  duck_price: "20 euros"
+  purchase_info: "Compramos el animal elegido entre los disponibles en los pueblos circundantes, apoyando así la economía local. El costo de compra de cada animal puede variar según varios factores: el sexo, la raza, el tamaño... El precio indicado es un máximo: los fondos restantes se utilizarán para proporcionar a la familia una ración inicial de comida para los propios animales."
+  cta_title: "¡Marca la diferencia hoy!"
+  cta_text: "Tu donación puede transformar la vida de una familia. Haz clic en el botón de abajo para seguir las instrucciones y realizar tu donación."
+  thanks: "¡Gracias por tu valioso apoyo!"
+
+cards:
+  donate_chicken: "Dona una gallina"
+  donate_duck: "Dona un pato"
+  donate_goat: "Dona una cabra"

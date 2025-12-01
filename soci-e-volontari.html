@@ -6,6 +6,7 @@ permalink: /soci-e-volontari
 description: Unisciti a noi e diventa socio o volontario dell'associazione Salim ODV
 keywords: soci, volontari, associazione, Salim ODV, diventa socio, diventa volontario, africa
 ---
+{% assign s = site.data.translations[site.active_lang].soci_e_volontari %}
 
 <div class="m-2 m-md-3 m-lg-5 pb-5 container-lg">
   <div class="bd-main order-1">
@@ -13,34 +14,34 @@ keywords: soci, volontari, associazione, Salim ODV, diventa socio, diventa volon
       <div class="container-fluid py-5">
         <div class="row row-cols-md-2 row-cols-1">
           <div class="col pb-md-0 pb-3">
-            <h1 class="display-1 ">Soci e volontari</h1>
+            <h1 class="display-1">{{ s.header.title }}</h1>
             <h2 class="display-8 fw-bold lh-base">
-              Desideri essere parte della nostra squadra in qualche maniera?
+              {{ s.header.subtitle1 }}
             </h2>
             <h2 class="display-7 fw-bold lh-base">
-              Allora sei già parte di Salim ODV!
+              {{ s.header.subtitle2 }}
             </h2>
           </div>
           <div class="col p-0 px-lg-5">
-            <img src="/assets/images/salim_volontari.png" alt="Persone congiungono mani creando un cerchio" class="card-img-top img-fluid">
+            <img src="/assets/images/salim_volontari.png" alt="{{ s.header.title }}" class="card-img-top img-fluid">
           </div>
         </div>
       </div>
     </div>
     <p class="fs-1">
-      <strong> Come puoi aiutare </strong>
+      <strong>{{ s.how_to_help.title }}</strong>
     </p>
     <p class="fs-4">
-      La nostra associazione prevede due tipologie di socio.
+      {{ s.how_to_help.intro }}
     </p>
     <p class="fs-4">
-      <strong> Socio Sostenitore</strong>: è colui che sceglie di dedicare risorse economiche per sostenere il lavoro dell'associazione, condivide il suo know how per farla crescere e dedica tempo nel far conoscere la realtà ad altre persone;
+      <strong>{{ s.how_to_help.supporter.title }}</strong>: {{ s.how_to_help.supporter.description }}
     </p>
     <p class="fs-4">
-      <strong> Socio Volontario</strong>: è colui che "si sporca le mani", che sceglie di mettersi in prima persona a disposizione dell'associazione per fare praticamente quello che c'è da fare, rendendosi utile anche in trasferta per periodi più o meno lunghi.
+      <strong>{{ s.how_to_help.volunteer.title }}</strong>: {{ s.how_to_help.volunteer.description }}
     </p>
     <p class="fs-2">
-      <strong>🌍 Unisciti a noi come volontario in Kenya! 🌍 </strong>
+      <strong>🌍 {{ s.kenya_volunteer.title }} 🌍</strong>
     </p>
     <div class="row row-cols-1 row-cols-md-2">
       <div class="col">
@@ -51,7 +52,6 @@ keywords: soci, volontari, associazione, Salim ODV, diventa socio, diventa volon
 
             <!-- Kenya Map Container -->
             <g transform="translate(0,0)">
-              <!-- Placeholder for Kenya map -->
               <image x="0" y="0" width="700" height="400" href="/assets/images/mombasa.jpeg" preserveAspectRatio="xMidYMid meet"/>
             </g>
 
@@ -62,75 +62,56 @@ keywords: soci, volontari, associazione, Salim ODV, diventa socio, diventa volon
 
             <!-- Local Map Container -->
             <g transform="translate(0,403)">
-              <!-- Placeholder for local map -->
               <image x="0" y="0" width="700" height="400" href="/assets/images/kwale.jpeg" preserveAspectRatio="xMidYMid meet"/>
             </g>
           </svg>
-          <figcaption class="figure-caption text-center">Dove trovare il villaggio. In alto una mappa del Kenya mostra dove si trova Mombasa. In basso, il villaggio di Chitsanze, dove opera l'associazione tramite Jessica e suo marito Salimu</figcaption>
+          <figcaption class="figure-caption text-center">{{ s.kenya_volunteer.map_caption }}</figcaption>
         </figure>
       </div>
       <div class="col">
         <p class="fs-4">
-          Vuoi fare un’esperienza di volontariato che ti cambi la vita?
-          Il villaggio di Chitsanze, a circa 60 km da Mombasa, ti aspetta!
-          Insieme a Jessica e suo marito Salimu, potrai vivere una realtà unica,
-          facendo la differenza nella vita di tanti bambini e famiglie locali.
+          {{ s.kenya_volunteer.intro }}
         </p>
         <p class="fs-3">
-          <strong>Cosa puoi fare con noi?</strong>
+          <strong>{{ s.kenya_volunteer.what_can_you_do }}</strong>
         </p>
         <p class="fs-4 clearfix">
-          Giocare con i bambini: Aiutali a crescere, imparare e divertirsi!
-          <br/>
-          Curare orto e animali: Contribuisci a mantenere l’agricoltura sostenibile, che supporta il villaggio.
-          <br/>
-          Supporto scolastico: Aiuta i bambini con i compiti e prepara attività educative.
-          <br/>
-          Distribuzione di cibo: Partecipa alla pianificazione e distribuzione dei pasti per i bambini a sostegno a distanza e alle famiglie locali.
+          {% for activity in s.kenya_volunteer.activities %}
+            {{ activity }}<br>
+          {% endfor %}
         </p>
       </div>
     </div>
 
     <p class="fs-3">
-      <strong>Costi da sostenere per il soggiorno </strong>
+      <strong>{{ s.costs.title }}</strong>
     </p>
 
     <ul class="fs-4">
-      <li>
-        Il costo del viaggio aereo dall'Italia a Mombasa
-      </li>
-      <li>
-        10€ al giorno per vitto, alloggio, acqua potabile, elettricità e gas
-      </li>
-      <li>
-        70€ a tratta per il trasporto dall'aeroporto internazionale di Mombasa al villaggio (140€ andata e ritorno)
-      </li>
-      <li>
-        Quota associativa annuale di 40€
-      </li>
+      {% for item in s.costs.items %}
+        <li>{{ item }}</li>
+      {% endfor %}
     </ul>
   </div>
 
   <p class="fs-2">
-    <strong>Diventa socio sostenitore</strong>
+    <strong>{{ s.become_supporter.title }}</strong>
   </p>
   <p class="fs-4">
-    Per noi TU sei un bene enorme, proprio come ogni vita che decidiamo con impegno di sostenere. Ciascun membro dell'associzione ha un valore intrinseco e potenziale del quale ci rendiamo conto solo quando iniziamo a lavorare insieme. Ogni persona è unica, porta con sè una storia, del sapere, delle esperienze uniche... e tutto questo è oro.
+    {{ s.become_supporter.p1 }}
   </p>
   <p class="fs-4">
-    Se hai il desiderio di diventare socio dell'associazione, ti invitiamo a leggere lo
-    <a href="/assets/statuto.pdf" download> statuto </a> e il
-    <a href="/assets/regolamento.pdf" download> regolamento interno e codice etico </a>
-    per sapere gli scopi, la visione e come opera Salim ODV. Dopo Scarica il
-    <a href="/assets/ammissione_a_socio.pdf" download>
-      modulo di iscrizione
-    </a>, compilalo e invialo a <a href="mailto:segreteria@salimodv.org">segreteria@salimodv.org</a> insieme ad una tua presentazione.
+    {{ s.become_supporter.p2_part1 }}
+    <a href="/assets/statuto.pdf" download>{{ s.become_supporter.statute }}</a> {{ s.become_supporter.p2_part2 }}
+    <a href="/assets/regolamento.pdf" download>{{ s.become_supporter.regulations }}</a>
+    {{ s.become_supporter.p2_part3 }}
+    <a href="/assets/ammissione_a_socio.pdf" download>{{ s.become_supporter.application_form }}</a>{{ s.become_supporter.p2_part4 }} <a href="mailto:segreteria@salimodv.org">segreteria@salimodv.org</a> {{ s.become_supporter.p2_part5 }}
   </p>
   <p class="fs-4">
-    Ti contatteremo per parlare con te ed aiutarti ad essere un valido supporto per l'intero progetto.
+    {{ s.become_supporter.p3 }}
   </p>
   <p class="fs-4">
-            <strong>Grazie sin da ora!</strong>
+    <strong>{{ s.become_supporter.thanks }}</strong>
   </p>
 
 </div>
