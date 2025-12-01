@@ -1,0 +1,23 @@
+# Become a Partner page
+page:
+  title: "Verein Salim ODV - Partner werden"
+  description: "Werden Sie Partner des Vereins Salim ODV und helfen Sie uns, Armut zu bekämpfen"
+
+header:
+  title: "Partner werden"
+  subtitle: "Die Gelegenheit, Teil des Wandels zu sein"
+
+content:
+  intro_p1: "Was Sie auf diesen Seiten finden, ist nur der Anfang dessen, was wir vorhaben. Wir träumen gerne groß und es gefällt uns noch mehr zu denken, dass es möglich ist, diese Träume mit Unternehmen zu teilen, die an das Projekt glauben und bereit sind, sich dafür einzusetzen, so wie wir es alle getan haben."
+  intro_p2: "Die möglichen Entwicklungen sind potenziell endlos. Wir finden die Grenze, wenn der Geist der Zusammenarbeit fehlt. Wenn Sie glauben, dass Sie und Ihr Unternehmen Know-how, Fähigkeiten, Zeit bieten können, um gegen Armut zu kämpfen, laden wir Sie ein, uns zu kontaktieren."
+  
+  looking_for: "Wir suchen Unternehmen, die in folgenden Bereichen aktiv sind:"
+  fields:
+    - "Kommunikation"
+    - "Web- und App-Entwicklung"
+    - "Fotografie und Video"
+    - "Rechtsberater im internationalen Bereich"
+  
+  tax_benefits: "Wir erinnern daran, dass Unternehmen von noch vorteilhafteren Abzügen profitieren können: Spenden sind zu <strong>100%</strong> abzugsfähig, bis zu einem Höchstbetrag von 10% des gesamten deklarierten Einkommens. Wenn der Abzug das zu versteuernde Einkommen übersteigt, kann der Überschuss auf die folgenden vier Steuerperioden vorgetragen werden"
+  
+  thanks: "Vielen Dank im Voraus!"

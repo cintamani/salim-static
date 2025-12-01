@@ -1,0 +1,90 @@
+# Navigation
+nav:
+  home: "Accueil"
+  projects: "Projets"
+  history: "Notre Histoire"
+  volunteers: "Membres et Bénévoles"
+  blog: "Blog"
+
+# Buttons
+buttons:
+  donate: "Faire un don"
+  learn_more: "En savoir plus !"
+  close: "Fermer"
+  save: "Enregistrer"
+  copy: "Copier"
+  copied: "Copié !"
+  support: "Soutenir"
+  subscribe_now: "S'inscrire maintenant"
+  discover_how: "Découvrir comment"
+  read_article: "Lire l'article"
+
+# Footer
+footer:
+  contact: "Contact"
+  privacy: "Politique de confidentialité"
+  cookies: "Politique des cookies"
+  transparency: "Transparence"
+  card: "Carte"
+  donate_online: "Faire un don en ligne"
+  information: "Informations"
+  cookie_policy: "Politique des cookies"
+  privacy_settings: "Vos paramètres de confidentialité"
+  fiscal_benefits: "Avantages fiscaux"
+  documents: "Documents"
+  statute: "Statuts"
+  runts_registration: "Inscription RUNTS"
+  regulation: "Règlement et code éthique"
+  membership_form: "Formulaire d'adhésion"
+  addressed_to: "Adressé à :"
+
+# Cookie consent modal
+cookies_modal:
+  title: "Consentement aux cookies"
+  description: "Nous utilisons des cookies, y compris des cookies tiers, pour améliorer votre expérience sur notre site. Enregistrez vos préférences et choisissez si vous acceptez tous les cookies, ou fermez cette bannière pour continuer uniquement avec les cookies techniques."
+  technical_cookies: "Cookies techniques (toujours actifs)"
+  marketing_cookies: "Cookies marketing"
+
+# Donate modal
+donate_modal:
+  title: "Faire un don"
+  bank_transfer: "Virement bancaire"
+  bank_transfer_description: "Aidez-nous à économiser les frais de transaction. Faites un virement direct."
+  causale: "Référence"
+  or_use_card: "Ou utilisez votre carte en appuyant sur le bouton ci-dessous"
+  donate_5x1000: "Donnez votre 5x1000"
+  fiscal_code_instruction: "Entrez dans le champ approprié le numéro"
+
+# Distance support modal
+support_modal:
+  title: "Faire un don"
+  description_1: "Réfléchissez attentivement au montant que vous êtes prêt à soutenir mensuellement. Ensuite, procédez au premier paiement via le bouton ci-dessous, en entrant le montant et le nom de l'enfant dans les champs appropriés."
+  description_2: "Une fois que nous aurons reçu votre premier soutien, notre équipe vous contactera rapidement pour vous fournir toutes les informations complémentaires."
+  child_name: "Nom de l'enfant à soutenir"
+
+# 5x1000 section
+five_per_thousand:
+  title: "Donnez votre 5x1000"
+  instruction: "Entrez dans le champ approprié le numéro"
+
+# Blog call to action
+blog_cta:
+  become_member:
+    title: "Devenez membre"
+    description: "Avec seulement 40€ par an, vous soutenez l'association et participez aux décisions sur les projets futurs."
+  participate:
+    title: "Participez à nos projets"
+    description: "Différentes façons dont vous pouvez porter du fruit dans la vie d'un enfant et de sa famille."
+  donate:
+    title: "Faites un don"
+    description: "Soutenez l'association et ses projets avec un don. Vous pouvez décider où l'affecter, il suffit de"
+    contact_us: "nous contacter"
+
+# Common
+common:
+  read_more: "Lire la suite"
+  back: "Retour"
+  share: "Partager"
+  years_old: "ans"
+  people: "personnes"
+  per_month: "par mois garantissent"

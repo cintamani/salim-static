@@ -1,0 +1,31 @@
+# Transparency page
+page:
+  title: "Verein Salim ODV - Transparenz"
+  description: "Transparenz ist der Wert, ohne den es kein Vertrauen geben kann. Entdecken Sie, wie wir Transparenz und Integrität in unseren Projekten gewährleisten."
+
+header:
+  title: "Transparenz:"
+  subtitle: "der Wert, ohne den es kein Vertrauen geben kann."
+
+content:
+  intro_p1: "Transparenz ist für uns nicht nur eine Formalität: Es ist das Mittel, durch das wir eine dauerhafte Vertrauensbeziehung mit denen aufbauen können, die an unsere Arbeit glauben. Nur indem wir klar zeigen, wie wir Ressourcen verwalten und welche Ergebnisse wir erzielen, können wir Glaubwürdigkeit und Engagement gegenüber den Menschen, denen wir helfen, und gegenüber denen, die uns unterstützen, aufrechterhalten."
+  intro_p2: "Mit Salim ODV wissen Sie immer, wohin Ihre Spenden gehen, und Sie können mit eigenen Augen den positiven Einfluss sehen, den Sie in der Welt erzeugen."
+  
+  how_title: "Wie wir Transparenz gewährleisten"
+  
+  reporting_title: "Detaillierte Berichterstattung"
+  reporting_text: "Jedes Projekt, das wir durchführen, wird genau dokumentiert. Wir liefern personalisierte monatliche Updates für jeden Paten, der regelmäßig Kinder unterstützt, und wir erstellen mit Fotos dokumentierte Finanzberichte, die klar zeigen, wie die für jedes Projekt erhaltenen Mittel verwendet wurden. Jahresbudgets und Berichte unserer Projekte sind für alle unsere Unterstützer verfügbar."
+  
+  communication_title: "Kontinuierliche Kommunikation mit Spendern"
+  communication_text: "Für uns sind Spender nicht nur Geldgeber, sondern echte Partner des Wandels. Wir pflegen einen ständigen Dialog mit denen, die uns unterstützen, geben zeitnahes Feedback und beantworten jede Frage oder Bitte um Klärung. Jede Spende, groß oder klein, wird geschätzt und überwacht, um den konkreten Einfluss zu demonstrieren, den sie auf das Leben der Menschen hat, denen wir helfen."
+  
+  audit_title: "Externe Prüfungen und interne Revision"
+  audit_text: "Wir unterziehen uns regelmäßig externen Prüfungen, um sicherzustellen, dass das Ressourcenmanagement den Standards für Transparenz und Integrität entspricht. Wir arbeiten mit unabhängigen Wirtschaftsprüfern zusammen, die die Integrität unserer Finanzberichte und Prozesse garantieren. Wir haben die Unterstützung einer Anwaltskanzlei in Bezug auf Datenmanagement und Datenschutz: Ihre Daten sowie die der Kinder sind wichtige Daten, die sorgfältig aufbewahrt werden müssen. Wir nehmen die Beiträge aller Mitglieder und Spender ernst, die uns helfen können, unsere satzungsgemäßen Ziele besser zu erreichen."
+  
+  accessibility_title: "Zugänglichkeit von Informationen"
+  accessibility_text: "Alle unsere Dokumente, von Budgets bis zu Projektberichten, können angefordert werden und werden bald online zugänglich sein. Wir glauben, dass jeder Unterstützer das Recht hat, im Detail zu erfahren, wie sein Beitrag zur Erreichung unserer humanitären Ziele verwendet wird."
+  
+  cta_part1: "Wenn Ihnen das alles gefällt und Sie den Verein direkter unterstützen möchten, erwägen Sie,"
+  cta_link: "Mitglied zu werden"
+  
+  thanks: "Vielen Dank im Voraus!"

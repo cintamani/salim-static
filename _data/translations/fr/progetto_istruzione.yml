@@ -1,0 +1,22 @@
+# Education Project page
+page:
+  title: "Association Salim ODV - Projets - Éducation"
+  description: "Association Salim ODV - Projet Éducation - Soutien à l'éducation des enfants"
+
+header:
+  title: "Projet Éducation"
+  subtitle: "Aidez-nous à créer un fonds stable dédié à l'éducation, du primaire à l'université !"
+
+content:
+  main_title: "Créons ensemble un avenir pour les jeunes en les soutenant maintenant !"
+  p1: "Avec l'aide de Jessica et des enseignants locaux, nous identifions les enfants et les jeunes qui ont le <strong>potentiel</strong> d'atteindre de grands résultats dans leur vie académique et professionnelle. À ces enfants et jeunes, nous aimerions donner l'opportunité de grandir et d'étudier sans avoir à peser sur des familles déjà en difficulté, permettant à votre don d'avoir un impact certain sur la vie de quelqu'un qui ne gaspillera pas l'opportunité qui lui est offerte."
+  p2: "Rejoignez-nous et faites la différence aujourd'hui, et investissez dans la nouvelle génération de leaders et de professionnels !"
+  info_title: "Quelques informations supplémentaires"
+  info_p1: "Le Kenya, nominalement, affiche un bon niveau d'alphabétisation générale : une estimation de 2022 indique que 83% des jeunes de plus de 15 ans savent lire et écrire. La réalité, que Jessica expérimente de première main chaque jour, est que le niveau d'alphabétisation peut varier considérablement."
+  info_p2: "De nombreux enfants des villages que nous atteignons ne peuvent pas accéder à l'école primaire : l'obligation d'acheter des uniformes et des chaussures noires fermées représente une dépense que de nombreuses familles ne peuvent pas se permettre, causant des retards dans l'insertion scolaire et, par conséquent, un impact négatif sur les capacités d'apprentissage des petits."
+  secondary_title: "Les écoles secondaires et l'université : un obstacle économique insurmontable."
+  secondary_p1: "Les coûts augmentent drastiquement lorsque les jeunes passent à l'école secondaire. Si les écoles primaires nécessitent une dépense moyenne de 30-40 euros par an sans compter les fournitures et les uniformes, les secondaires peuvent coûter jusqu'à 700 euros, sans considérer les fournitures scolaires, les uniformes et les livres. Cet écart économique exclut de nombreux jeunes de la poursuite de leurs études, laissant leurs ambitions s'évanouir."
+  secondary_p2: "Accéder à l'université au Kenya est extrêmement difficile : il faut avoir obtenu les meilleures notes dans toutes les matières à la fin de l'école secondaire. Même pour ceux qui passent cette sélection rigoureuse, les coûts de subsistance hors domicile, les frais universitaires et les fournitures scolaires représentent une barrière supplémentaire. Les universités sont concentrées dans les grandes villes, comme Nairobi, obligeant de nombreux étudiants à déménager, avec des dépenses que très peu de familles peuvent se permettre."
+  fund_title: "Le fonds stable"
+  fund_p1: "L'idée de constituer un fonds stable dédié au soutien des étudiants les plus méritants répond aux besoins spécifiques des jeunes à haut potentiel dans des contextes défavorisés. Ensemble, nous pouvons faire en sorte que le contexte ne soit plus un facteur déterminant pour le développement personnel, professionnel et économique de ceux qui voudraient réussir dans la vie !"
+  fund_p2: "Avec une simple <strong>contribution libre unique</strong>, vous nous aiderez à lancer ce projet !"

@@ -1,0 +1,20 @@
+# Home page
+page:
+  title: "Verein Salim ODV - Startseite"
+  description: "Verein Salim ODV - Gemeinsam gegen Armut"
+
+hero:
+  title: "Gemeinsam gegen Armut"
+  subtitle: "Wir setzen uns dafür ein, die Lebensbedingungen von Kindern und Familien in Kenia zu verbessern"
+
+intro:
+  title: "Wer wir sind"
+  text: "Der Verein Salim ODV entstand aus dem Wunsch, das Leben von Kindern und Familien in Kenia zu verändern. Wir arbeiten jeden Tag daran, Nahrung, Bildung und medizinische Versorgung für diejenigen zu gewährleisten, die sie am meisten benötigen."
+
+projects:
+  title: "Unsere Projekte"
+  subtitle: "Entdecken Sie, wie wir einen Unterschied machen"
+
+testimonials:
+  title: "Erfahrungsberichte"
+  subtitle: "Was diejenigen sagen, die uns kennen"
