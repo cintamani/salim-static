@@ -18,17 +18,17 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{% if page.url == "/" %}/#progetti{% else %}/#progetti{% endif %}" data-target="progetti">
+          <a class="nav-link {% if stripped_url == 'progetti' %} active {% endif %}" href="{% if page.url == "/" %}/#progetti{% else %}/#progetti{% endif %}" data-target="progetti">
             {{ t.nav.projects }}
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if stripped_url == 'la-storia' %} active {% endif %}" href="/la-storia" data-target="la-storia">
+          <a class="nav-link {% if stripped_url == 'la-storia' %} active {% endif %}" href="{% if page.url == "/" %}/#la-storia{% else %}/la-storia{% endif %}" data-target="la-storia">
             {{ t.nav.history }}
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if stripped_url == 'soci-e-volontari' %} active {% endif %}" href="/soci-e-volontari" data-target="volontari">
+          <a class="nav-link {% if stripped_url == 'soci-e-volontari' %} active {% endif %}" href="{% if page.url == "/" %}/#volontari{% else %}/soci-e-volontari{% endif %}" data-target="volontari">
             {{ t.nav.volunteers }}
           </a>
         </li>
