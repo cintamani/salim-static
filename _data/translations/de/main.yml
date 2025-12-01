@@ -80,6 +80,13 @@ blog_cta:
     description: "Unterstützen Sie den Verein und seine Projekte mit einer Spende. Sie können entscheiden, wohin sie gehen soll, einfach"
     contact_us: "kontaktieren Sie uns"
 
+# Language suggestion modal
+language_modal:
+  title: "Sprache wechseln"
+  text: "Möchten Sie die Seite auf Deutsch besuchen?"
+  accept: "Ja, zur deutschen Version"
+  decline: "Nein, danke"
+
 # Common
 common:
   read_more: "Mehr lesen"
