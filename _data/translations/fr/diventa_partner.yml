@@ -1,0 +1,23 @@
+# Become a Partner page
+page:
+  title: "Association Salim ODV - Devenez Partenaire"
+  description: "Devenez partenaire de l'association Salim ODV et aidez-nous à combattre la pauvreté"
+
+header:
+  title: "Devenez Partenaire"
+  subtitle: "L'opportunité de faire partie du changement"
+
+content:
+  intro_p1: "Ce que vous trouvez sur ces pages n'est que le début de ce que nous avons en tête. Nous aimons rêver grand et nous aimons encore plus penser qu'il est possible de partager ces rêves avec des entreprises qui croient au projet et sont prêtes à s'y engager, tout comme nous l'avons tous fait."
+  intro_p2: "Les développements possibles sont potentiellement infinis. Nous trouvons la limite quand l'esprit de collaboration fait défaut. Si vous croyez que vous et votre entreprise pouvez offrir du savoir-faire, des compétences, du temps pour lutter contre la pauvreté, nous vous invitons à nous contacter."
+  
+  looking_for: "Nous recherchons des entreprises actives dans les domaines suivants :"
+  fields:
+    - "Communication"
+    - "Développement web et applications"
+    - "Photographie et vidéo"
+    - "Consultants juridiques dans le domaine international"
+  
+  tax_benefits: "Nous rappelons que les entreprises peuvent bénéficier de déductions encore plus avantageuses : les dons sont déductibles à <strong>100%</strong>, jusqu'à un montant maximum égal à 10% du revenu total déclaré. Si la déduction dépasse le revenu imposable, l'excédent peut être reporté sur les quatre périodes fiscales suivantes"
+  
+  thanks: "Merci d'avance !"

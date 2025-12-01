@@ -1,0 +1,99 @@
+
+- nome: "Happy N."
+  eta: 14
+  descrizione: Happy (2010) est orpheline, elle a perdu son père et vit dans une maison en terre avec un toit en tôle avec ses 9 frères et sœurs et sa mère qui est agricultrice. Un frère aîné travaille.
+  foto:
+    src: "/assets/images/foto/sostegni/06-Happy.jpg"
+    alt: "Fille de 14 ans"
+  casa: 11 personnes
+  educazione: 6ème année
+  regione: Kilifi
+  esigenze_mediche: non
+
+- nome: "Mussa"
+  eta: 2
+  descrizione: "Mussa est le plus jeune de 8 frères et sœurs. Il vit à la maison avec sa mère et son père qui travaille comme ouvrier : il travaille dur, mais son salaire ne suffit pas pour les besoins de tout le monde."
+  foto:
+    src: "/assets/images/foto/sostegni/10-Mussa.jpg"
+    alt: "Garçon de 2 ans"
+  casa: 10 personnes
+  educazione: encore trop jeune
+  regione: Kwale
+  esigenze_mediche: non
+
+- nome: "Abgael"
+  eta: 10
+  descrizione: Abgael est orpheline, elle a perdu son père et sa mère est agricultrice. Elle vit avec elle et 5 autres sœurs, mais à la maison ils n'ont rien, même pas de matelas pour dormir.
+  foto:
+    src: "/assets/images/foto/sostegni/11-Abgael.jpg"
+    alt: "Fille de 10 ans"
+  casa: 7 personnes
+  educazione: 4ème année
+  regione: Kilifi
+  esigenze_mediche: Besoins médicaux
+
+- nome: "Shuraim"
+  eta: 2
+  descrizione: "Shuraim vit avec son petit frère et ses parents dans une très petite maison en terre et paille. La mère ne travaille pas et le père est professeur de religion soutenu uniquement par des dons."
+  foto:
+    src: "/assets/images/foto/sostegni/13-Shuraim.jpg"
+    alt: "Garçon de 2 ans"
+  casa: 4 personnes
+  educazione: encore trop jeune
+  regione: Kwale
+  esigenze_mediche: non
+
+- nome: "Steven"
+  eta: environ 13
+  descrizione: "Steven a perdu ses deux parents il y a plusieurs années, et son certificat de naissance a été perdu. Il a deux frères mais ils vivent séparément, chacun avec un parent différent. Il vit avec 6 autres cousins chez une tante qui s'occupe de faire paître chèvres et vaches. Ils dorment tous par terre sur des morceaux de carton."
+  foto:
+    src: "/assets/images/foto/sostegni/16-Steven.jpg"
+    alt: "Garçon de 13 ans"
+  casa: 8 personnes
+  educazione: 6ème année
+  regione: Kilifi
+  esigenze_mediche: non
+
+- nome: "Ali"
+  eta: 6
+  descrizione: "Ali vit dans une cabane en tôle et terre avec 5 autres frères et sœurs et ses parents. La mère travaille la terre pour d'autres personnes et le père prépare et vend des Mandazi au bord de la route, typiques beignets sucrés frits. Sa famille fait tout pour lui garantir nourriture et éducation mais ne peut pas couvrir les besoins de toute la famille."
+  foto:
+    src: "/assets/images/foto/sostegni/18-Ali.jpg"
+    alt: "Garçon de 6 ans"
+  casa: 8 personnes
+  educazione: 2ème année de maternelle
+  regione: Kwale
+  esigenze_mediche: non
+
+- nome: "Husna"
+  eta: 2
+  descrizione: "Cette douce fille vit avec sa sœur, sa mère et ses grands-parents, dans une humble maison en terre et tôle."
+  foto:
+    src: "/assets/images/foto/sostegni/20-Husna.jpg"
+    alt: "Fille de 2 ans"
+  casa: 5 personnes
+  educazione: encore trop jeune
+  regione: Lunguma
+  esigenze_mediche: non
+
+- nome: "Penina"
+  eta: 2
+  descrizione: "La grande famille de Penina se maintient exclusivement grâce au travail occasionnel du père qui vit au jour le jour en conduisant un taxi-moto qu'il loue chaque fois que l'occasion de prendre quelqu'un se présente."
+  foto:
+    src: "/assets/images/foto/sostegni/19-Penina.jpg"
+    alt: "Fille de 2 ans"
+  casa: 8 personnes
+  educazione: encore trop jeune
+  regione: Lunguma
+  esigenze_mediche: non
+
+- nome: "Mwanalima"
+  eta: 4
+  descrizione: "La famille de Mwanalima est très pauvre, ils vivent dans une maison inachevée, n'ayant pratiquement rien. Leur situation est aggravée par le fait que leur mère a des problèmes mentaux non diagnostiqués, et la fille commence à montrer les mêmes problèmes."
+  foto:
+    src: "/assets/images/foto/sostegni/21-Mwanalima.jpeg"
+    alt: "Fille de 4 ans"
+  casa: 5 personnes
+  educazione: encore trop jeune
+  regione: Kwale
+  esigenze_mediche: Oui

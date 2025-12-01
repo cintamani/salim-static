@@ -1,0 +1,52 @@
+# Members & Volunteers page
+page:
+  title: "Association Salim ODV - Devenir membre"
+  description: "Rejoignez-nous et devenez membre ou bénévole de l'association Salim ODV"
+
+header:
+  title: "Membres et Bénévoles"
+  subtitle1: "Vous voulez faire partie de notre équipe d'une manière ou d'une autre ?"
+  subtitle2: "Alors vous faites déjà partie de Salim ODV !"
+
+how_to_help:
+  title: "Comment vous pouvez aider"
+  intro: "Notre association prévoit deux types de membres."
+  supporter:
+    title: "Membre de soutien"
+    description: "est quelqu'un qui choisit de consacrer des ressources financières pour soutenir le travail de l'association, partage son savoir-faire pour l'aider à grandir et consacre du temps à faire connaître notre réalité ;"
+  volunteer:
+    title: "Membre bénévole"
+    description: "est quelqu'un qui \"met les mains dans le cambouis\", qui choisit de se mettre personnellement à disposition de l'association pour faire pratiquement ce qui doit être fait, étant utile même lors de voyages pour des périodes plus ou moins longues."
+
+kenya_volunteer:
+  title: "Rejoignez-nous en tant que bénévole au Kenya !"
+  intro: "Vous voulez vivre une expérience de bénévolat qui changera votre vie ? Le village de Chitsanze, à environ 60 km de Mombasa, vous attend ! Avec Jessica et son mari Salimu, vous pouvez vivre une réalité unique, en faisant la différence dans la vie de nombreux enfants et familles locales."
+  what_can_you_do: "Que pouvez-vous faire avec nous ?"
+  activities:
+    - "Jouer avec les enfants : Aidez-les à grandir, apprendre et s'amuser !"
+    - "S'occuper du jardin et des animaux : Contribuez à maintenir l'agriculture durable qui soutient le village."
+    - "Soutien scolaire : Aidez les enfants avec leurs devoirs et préparez des activités éducatives."
+    - "Distribution alimentaire : Participez à la planification et à la distribution de repas pour les enfants parrainés et les familles locales."
+  map_caption: "Où trouver le village. En haut, une carte du Kenya montre où se trouve Mombasa. En bas, le village de Chitsanze, où l'association opère à travers Jessica et son mari Salimu"
+
+costs:
+  title: "Coûts du séjour"
+  items:
+    - "Le coût du vol depuis l'Italie vers Mombasa"
+    - "10€ par jour pour la nourriture, l'hébergement, l'eau potable, l'électricité et le gaz"
+    - "70€ par trajet pour le transport de l'aéroport international de Mombasa au village (140€ aller-retour)"
+    - "Cotisation annuelle de 40€"
+
+become_supporter:
+  title: "Devenez membre de soutien"
+  p1: "Pour nous, VOUS êtes un bien énorme, tout comme chaque vie que nous nous engageons à soutenir. Chaque membre de l'association a une valeur intrinsèque et potentielle que nous ne réalisons qu'en commençant à travailler ensemble. Chaque personne est unique, apporte sa propre histoire, son savoir, des expériences uniques... et tout cela est de l'or."
+  p2_part1: "Si vous avez le désir de devenir membre de l'association, nous vous invitons à lire le"
+  p2_part2: "et le"
+  p2_part3: "pour connaître les objectifs, la vision et le fonctionnement de Salim ODV. Ensuite, téléchargez le"
+  p2_part4: ", remplissez-le et envoyez-le à"
+  p2_part5: "avec une présentation de vous-même."
+  p3: "Nous vous contacterons pour discuter avec vous et vous aider à être un soutien précieux pour tout le projet."
+  thanks: "Merci d'avance !"
+  statute: "statuts"
+  regulations: "règlement interne et code éthique"
+  application_form: "formulaire d'inscription"

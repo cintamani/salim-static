@@ -1,0 +1,41 @@
+# Distance support page
+page:
+  title: "Association Salim ODV - Projets - Parrainage à distance"
+  description: "Parrainage à distance pour les familles de Salim ODV"
+
+header:
+  title: "Parrainage à distance"
+  subtitle: "Vous aimeriez faire la différence dans la vie d'un enfant et de sa famille ? Devenez parrain !"
+
+content:
+  intro_p1: "Faites défiler la page pour voir les enfants à la recherche d'un parrain et lire leurs histoires. Si vous trouvez quelqu'un qui touche votre cœur, commencez aujourd'hui un parrainage à distance."
+  intro_p2: "Vous pouvez choisir entre les deux formules suivantes. Notez que les biens livrés sont calibrés en fonction des besoins réels de l'enfant et de sa famille, en essayant de varier l'offre alimentaire pour tenter de compenser d'éventuelles carences nutritionnelles. Nous convertissons en nourriture les quotas relatifs aux médicaments et à l'éducation s'ils ne sont pas utilisés en totalité."
+  
+  plan_40:
+    price: "40€"
+    monthly: "par mois garantissent :"
+    items:
+      - "Nourriture"
+      - "Produits d'hygiène et de nettoyage"
+      - "Vêtements"
+      - "Médicaments et première assistance médicale"
+  
+  plan_50:
+    price: "50€"
+    monthly: "par mois garantissent :"
+    items:
+      - "Nourriture"
+      - "Produits d'hygiène et de nettoyage"
+      - "Vêtements"
+      - "Médicaments et première assistance médicale"
+    plus_education: "+ Frais d'école publique primaire"
+  
+  options_intro: "Les options suivantes peuvent être ajoutées aux formules ci-dessus :"
+  option_hygiene: "Option \"Plus d'hygiène\""
+  option_hygiene_desc: "fournissez un paquet de 14 serviettes hygiéniques au coût de 2€."
+  option_birthday: "Option \"Anniversaire\""
+  option_birthday_desc: "donnez librement pour son jour spécial ! Nous vous aiderons à choisir le cadeau le plus adapté à ses besoins réels."
+  thanks: "Merci d'avance pour votre engagement !"
+  
+  years: "ans"
+  support_button: "Soutenir"

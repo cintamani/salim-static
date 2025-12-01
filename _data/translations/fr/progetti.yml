@@ -1,0 +1,19 @@
+# Projects page
+page:
+  title: "Association Salim ODV - Projets"
+  description: "Découvrez les projets de l'association Salim ODV"
+
+header:
+  title: "Nos projets"
+  subtitle: "Découvrez comment nous faisons la différence dans la vie des enfants et des familles au Kenya"
+
+projects:
+  education:
+    title: "Éducation"
+    description: "Nous soutenons l'éducation des enfants de la maternelle à l'université"
+  animals:
+    title: "Animaux de basse-cour"
+    description: "Nous aidons les familles à devenir autosuffisantes grâce à l'élevage"
+  distance_support:
+    title: "Parrainage à distance"
+    description: "Soutenez un enfant et sa famille avec un don mensuel"

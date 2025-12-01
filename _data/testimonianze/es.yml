@@ -15,7 +15,7 @@
       lanzarse y partir: ¡volverán con una mirada diferente sobre el mundo!
   foto:
     alt: "Elisa G. con los niños en Kwale"
-    src: "assets/images/foto/elisa_guzzon.jpg"
+    src: "/assets/images/foto/elisa_guzzon.jpg"
 
 - autore: Simona y Piercarlo S. (CN)
   testimonianza:
@@ -35,7 +35,7 @@
       ¡se transformen en algo cada vez más grande!
   foto:
     alt: "Simona y Piercarlo con los niños en Kwale"
-    src: "assets/images/foto/simona_piercarlo.jpg"
+    src: "/assets/images/foto/simona_piercarlo.jpg"
 
 - autore: Loredana C. (PA)
   testimonianza:
@@ -72,7 +72,7 @@
       dar la justa dimensión a todo.
   foto:
     alt: "Loredana con los niños en Kwale"
-    src: "assets/images/foto/loredana_corleone.jpg"
+    src: "/assets/images/foto/loredana_corleone.jpg"
 
 - autore: Francesco T. (RM)
   testimonianza:
@@ -90,4 +90,4 @@
       una mano a Jessica y que al mismo tiempo quieran conocer Kenia!
   foto:
     alt: "Francesco con los niños en Kwale"
-    src: "assets/images/foto/francesco.jpg"
+    src: "/assets/images/foto/francesco.jpg"

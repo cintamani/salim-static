@@ -1,0 +1,52 @@
+# Members & Volunteers page
+page:
+  title: "Verein Salim ODV - Mitglied werden"
+  description: "Schließen Sie sich uns an und werden Sie Mitglied oder Freiwilliger des Vereins Salim ODV"
+
+header:
+  title: "Mitglieder und Freiwillige"
+  subtitle1: "Möchten Sie auf irgendeine Weise Teil unseres Teams sein?"
+  subtitle2: "Dann sind Sie bereits Teil von Salim ODV!"
+
+how_to_help:
+  title: "Wie Sie helfen können"
+  intro: "Unser Verein sieht zwei Arten von Mitgliedern vor."
+  supporter:
+    title: "Fördermitglied"
+    description: "ist jemand, der sich entscheidet, finanzielle Ressourcen zu widmen, um die Arbeit des Vereins zu unterstützen, sein Know-how teilt, um ihm beim Wachsen zu helfen, und Zeit widmet, um unsere Realität bekannt zu machen;"
+  volunteer:
+    title: "Freiwilliges Mitglied"
+    description: "ist jemand, der \"sich die Hände schmutzig macht\", der sich entscheidet, sich persönlich dem Verein zur Verfügung zu stellen, um praktisch das zu tun, was getan werden muss, und auch bei Reisen für längere oder kürzere Zeiträume nützlich zu sein."
+
+kenya_volunteer:
+  title: "Schließen Sie sich uns als Freiwilliger in Kenia an!"
+  intro: "Möchten Sie eine lebensverändernde Freiwilligenerfahrung machen? Das Dorf Chitsanze, etwa 60 km von Mombasa entfernt, wartet auf Sie! Zusammen mit Jessica und ihrem Mann Salimu können Sie eine einzigartige Realität erleben und das Leben vieler Kinder und lokaler Familien verändern."
+  what_can_you_do: "Was können Sie mit uns tun?"
+  activities:
+    - "Mit Kindern spielen: Helfen Sie ihnen zu wachsen, zu lernen und Spaß zu haben!"
+    - "Sich um den Garten und die Tiere kümmern: Tragen Sie zur nachhaltigen Landwirtschaft bei, die das Dorf unterstützt."
+    - "Schulunterstützung: Helfen Sie Kindern bei den Hausaufgaben und bereiten Sie Bildungsaktivitäten vor."
+    - "Lebensmittelverteilung: Nehmen Sie an der Planung und Verteilung von Mahlzeiten für Patenkinder und lokale Familien teil."
+  map_caption: "Wo Sie das Dorf finden. Oben zeigt eine Karte von Kenia, wo sich Mombasa befindet. Unten das Dorf Chitsanze, wo der Verein durch Jessica und ihren Mann Salimu tätig ist"
+
+costs:
+  title: "Kosten für den Aufenthalt"
+  items:
+    - "Die Kosten für den Flug von Italien nach Mombasa"
+    - "10€ pro Tag für Essen, Unterkunft, Trinkwasser, Strom und Gas"
+    - "70€ pro Fahrt für den Transport vom Internationalen Flughafen Mombasa zum Dorf (140€ Hin- und Rückfahrt)"
+    - "Jährlicher Mitgliedsbeitrag von 40€"
+
+become_supporter:
+  title: "Werden Sie Fördermitglied"
+  p1: "Für uns sind SIE ein enormer Wert, genau wie jedes Leben, das wir uns verpflichten zu unterstützen. Jedes Mitglied des Vereins hat einen intrinsischen und potenziellen Wert, den wir erst erkennen, wenn wir anfangen, zusammenzuarbeiten. Jede Person ist einzigartig, bringt ihre eigene Geschichte, ihr Wissen, einzigartige Erfahrungen mit... und all das ist Gold."
+  p2_part1: "Wenn Sie den Wunsch haben, Mitglied des Vereins zu werden, laden wir Sie ein, die"
+  p2_part2: "und die"
+  p2_part3: "zu lesen, um die Ziele, die Vision und die Arbeitsweise von Salim ODV kennenzulernen. Laden Sie dann das"
+  p2_part4: "herunter, füllen Sie es aus und senden Sie es an"
+  p2_part5: "zusammen mit einer Vorstellung von sich selbst."
+  p3: "Wir werden Sie kontaktieren, um mit Ihnen zu sprechen und Ihnen zu helfen, eine wertvolle Unterstützung für das gesamte Projekt zu sein."
+  thanks: "Vielen Dank im Voraus!"
+  statute: "Satzung"
+  regulations: "interne Regelung und Ethikkodex"
+  application_form: "Antragsformular"

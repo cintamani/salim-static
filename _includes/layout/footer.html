@@ -21,9 +21,15 @@
               {% elsif site.active_lang == "en" %}
                 <img src="/assets/images/flags/en.svg" alt="English" width="20" height="20" class="me-1">
                 Language
-              {% else %}
+              {% elsif site.active_lang == "es" %}
                 <img src="/assets/images/flags/es.svg" alt="Español" width="20" height="20" class="me-1">
                 Idioma
+              {% elsif site.active_lang == "fr" %}
+                <img src="/assets/images/flags/fr.svg" alt="Français" width="20" height="20" class="me-1">
+                Langue
+              {% elsif site.active_lang == "de" %}
+                <img src="/assets/images/flags/de.svg" alt="Deutsch" width="20" height="20" class="me-1">
+                Sprache
               {% endif %}
             </button>
             <ul class="dropdown-menu" aria-labelledby="languageDropdown">
@@ -46,6 +52,20 @@
                   {% static_href %}href="{% if 'es' == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/es{{page.url}}{% endif %}"{% endstatic_href %}>
                   <img src="/assets/images/flags/es.svg" alt="Español" width="20" height="20" class="me-2">
                   Español
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item d-flex align-items-center {% if site.active_lang == 'fr' %}active{% endif %}"
+                  {% static_href %}href="{% if 'fr' == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/fr{{page.url}}{% endif %}"{% endstatic_href %}>
+                  <img src="/assets/images/flags/fr.svg" alt="Français" width="20" height="20" class="me-2">
+                  Français
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item d-flex align-items-center {% if site.active_lang == 'de' %}active{% endif %}"
+                  {% static_href %}href="{% if 'de' == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/de{{page.url}}{% endif %}"{% endstatic_href %}>
+                  <img src="/assets/images/flags/de.svg" alt="Deutsch" width="20" height="20" class="me-2">
+                  Deutsch
                 </a>
               </li>
             </ul>

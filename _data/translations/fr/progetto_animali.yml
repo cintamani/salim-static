@@ -1,0 +1,29 @@
+# Farmyard Animals Project page
+page:
+  title: "Association Salim ODV - Projets - Animaux de basse-cour"
+  description: "Association Salim ODV - Projet Animaux de basse-cour - Une collecte de fonds pour l'achat d'animaux de basse-cour"
+
+header:
+  title: "Projet Animaux de basse-cour"
+  subtitle: "Aidez-nous à donner une chèvre, une poule ou un canard à une famille dans le besoin !"
+
+content:
+  main_title: "Donnez un avenir aux familles en leur offrant un animal de basse-cour !"
+  p1: "Les animaux de basse-cour représentent une source de subsistance fondamentale pour de nombreuses familles au Kenya. Une chèvre, une poule ou un canard peuvent faire la différence entre la faim et la sécurité alimentaire, offrant lait, œufs et viande pour la famille ou un petit revenu grâce à la vente des produits."
+  options_title: "Les options disponibles"
+  options_intro: "Vous pouvez choisir de faire un don pour l'achat de :"
+  goat: "Chèvre"
+  goat_price: "80€"
+  chicken: "Poule"
+  chicken_price: "25€"
+  duck: "Canard"
+  duck_price: "20€"
+  purchase_info: "Les animaux sont achetés localement pour soutenir l'économie du village et garantir que les animaux sont adaptés au climat et aux conditions locales."
+  cta_title: "Faites un don maintenant !"
+  cta_text: "Avec votre aide, nous pouvons améliorer la vie de nombreuses familles. Chaque don compte et fait la différence."
+  thanks: "Merci de tout cœur !"
+
+cards:
+  donate_chicken: "Donnez une poule"
+  donate_duck: "Donnez un canard"
+  donate_goat: "Donnez une chèvre"

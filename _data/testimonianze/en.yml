@@ -15,7 +15,7 @@
       to take the leap and go: you'll come back with a different view of the world!
   foto:
     alt: "Elisa G. with the children in Kwale"
-    src: "assets/images/foto/elisa_guzzon.jpg"
+    src: "/assets/images/foto/elisa_guzzon.jpg"
 
 - autore: Simona and Piercarlo S. (CN)
   testimonianza:
@@ -35,7 +35,7 @@
       transform into something ever greater!
   foto:
     alt: "Simona and Piercarlo with the children in Kwale"
-    src: "assets/images/foto/simona_piercarlo.jpg"
+    src: "/assets/images/foto/simona_piercarlo.jpg"
 
 - autore: Loredana C. (PA)
   testimonianza:
@@ -72,7 +72,7 @@
       to give the right dimension to everything.
   foto:
     alt: "Loredana with the children in Kwale"
-    src: "assets/images/foto/loredana_corleone.jpg"
+    src: "/assets/images/foto/loredana_corleone.jpg"
 
 - autore: Francesco T. (RM)
   testimonianza:
@@ -90,4 +90,4 @@
       a hand to Jessica and who at the same time want to get to know Kenya!
   foto:
     alt: "Francesco with the children in Kwale"
-    src: "assets/images/foto/francesco.jpg"
+    src: "/assets/images/foto/francesco.jpg"

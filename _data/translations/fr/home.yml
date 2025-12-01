@@ -1,0 +1,20 @@
+# Home page
+page:
+  title: "Association Salim ODV - Accueil"
+  description: "Association Salim ODV - Ensemble contre la pauvreté"
+
+hero:
+  title: "Ensemble contre la pauvreté"
+  subtitle: "Nous nous engageons à améliorer les conditions de vie des enfants et des familles au Kenya"
+
+intro:
+  title: "Qui sommes-nous"
+  text: "L'association Salim ODV est née du désir de faire la différence dans la vie des enfants et des familles au Kenya. Nous travaillons chaque jour pour garantir nourriture, éducation et soins médicaux à ceux qui en ont le plus besoin."
+
+projects:
+  title: "Nos projets"
+  subtitle: "Découvrez comment nous faisons la différence"
+
+testimonials:
+  title: "Témoignages"
+  subtitle: "Ce que disent ceux qui nous connaissent"

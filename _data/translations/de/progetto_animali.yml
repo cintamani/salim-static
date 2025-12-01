@@ -1,0 +1,29 @@
+# Farmyard Animals Project page
+page:
+  title: "Verein Salim ODV - Projekte - Nutztiere"
+  description: "Verein Salim ODV - Projekt Nutztiere - Eine Spendenaktion für den Kauf von Nutztieren"
+
+header:
+  title: "Projekt Nutztiere"
+  subtitle: "Helfen Sie uns, einer bedürftigen Familie eine Ziege, ein Huhn oder eine Ente zu schenken!"
+
+content:
+  main_title: "Geben Sie Familien eine Zukunft, indem Sie ihnen ein Nutztier schenken!"
+  p1: "Nutztiere stellen für viele Familien in Kenia eine grundlegende Lebensgrundlage dar. Eine Ziege, ein Huhn oder eine Ente können den Unterschied zwischen Hunger und Ernährungssicherheit ausmachen, indem sie Milch, Eier und Fleisch für die Familie oder ein kleines Einkommen durch den Verkauf der Produkte bieten."
+  options_title: "Die verfügbaren Optionen"
+  options_intro: "Sie können für den Kauf von folgendem spenden:"
+  goat: "Ziege"
+  goat_price: "80€"
+  chicken: "Huhn"
+  chicken_price: "25€"
+  duck: "Ente"
+  duck_price: "20€"
+  purchase_info: "Die Tiere werden lokal gekauft, um die Wirtschaft des Dorfes zu unterstützen und sicherzustellen, dass die Tiere an das Klima und die lokalen Bedingungen angepasst sind."
+  cta_title: "Spenden Sie jetzt!"
+  cta_text: "Mit Ihrer Hilfe können wir das Leben vieler Familien verbessern. Jede Spende zählt und macht einen Unterschied."
+  thanks: "Herzlichen Dank!"
+
+cards:
+  donate_chicken: "Ein Huhn spenden"
+  donate_duck: "Eine Ente spenden"
+  donate_goat: "Eine Ziege spenden"
