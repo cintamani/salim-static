@@ -1,0 +1,41 @@
+# Distance support page
+page:
+  title: "Verein Salim ODV - Projekte - Fernpatenschaft"
+  description: "Fernpatenschaft für Familien von Salim ODV"
+
+header:
+  title: "Fernpatenschaft"
+  subtitle: "Möchten Sie das Leben eines Kindes und seiner Familie verändern? Werden Sie Pate!"
+
+content:
+  intro_p1: "Scrollen Sie durch die Seite, um Kinder zu sehen, die einen Paten suchen, und ihre Geschichten zu lesen. Wenn Sie jemanden finden, der Ihr Herz berührt, beginnen Sie heute eine Fernpatenschaft."
+  intro_p2: "Sie können zwischen den folgenden zwei Tarifen wählen. Beachten Sie, dass die gelieferten Waren auf die tatsächlichen Bedürfnisse des Kindes und seiner Familie abgestimmt werden, wobei versucht wird, das Nahrungsangebot zu variieren, um eventuelle Ernährungsmängel auszugleichen. Wir wandeln die Anteile für Medikamente und Bildung in Lebensmittel um, wenn sie nicht vollständig verwendet werden."
+  
+  plan_40:
+    price: "40€"
+    monthly: "pro Monat garantieren:"
+    items:
+      - "Nahrung"
+      - "Hygiene- und Reinigungsprodukte"
+      - "Kleidung"
+      - "Medikamente und medizinische Erstversorgung"
+  
+  plan_50:
+    price: "50€"
+    monthly: "pro Monat garantieren:"
+    items:
+      - "Nahrung"
+      - "Hygiene- und Reinigungsprodukte"
+      - "Kleidung"
+      - "Medikamente und medizinische Erstversorgung"
+    plus_education: "+ Gebühren für öffentliche Grundschule"
+  
+  options_intro: "Die folgenden Optionen können zu den oben genannten Tarifen hinzugefügt werden:"
+  option_hygiene: "Option \"Mehr Hygiene\""
+  option_hygiene_desc: "stellen Sie ein Paket mit 14 Damenbinden zu einem Preis von 2€ zur Verfügung."
+  option_birthday: "Option \"Geburtstag\""
+  option_birthday_desc: "spenden Sie frei für seinen besonderen Tag! Wir helfen Ihnen, das passendste Geschenk entsprechend seinen tatsächlichen Bedürfnissen auszuwählen."
+  thanks: "Vielen Dank im Voraus für Ihr Engagement!"
+  
+  years: "Jahre alt"
+  support_button: "Unterstützen"

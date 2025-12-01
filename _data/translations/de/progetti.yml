@@ -1,0 +1,19 @@
+# Projects page
+page:
+  title: "Verein Salim ODV - Projekte"
+  description: "Entdecken Sie die Projekte des Vereins Salim ODV"
+
+header:
+  title: "Unsere Projekte"
+  subtitle: "Entdecken Sie, wie wir das Leben von Kindern und Familien in Kenia verändern"
+
+projects:
+  education:
+    title: "Bildung"
+    description: "Wir unterstützen die Bildung von Kindern vom Kindergarten bis zur Universität"
+  animals:
+    title: "Nutztiere"
+    description: "Wir helfen Familien, durch Tierhaltung selbstversorgend zu werden"
+  distance_support:
+    title: "Fernpatenschaft"
+    description: "Unterstützen Sie ein Kind und seine Familie mit einer monatlichen Spende"

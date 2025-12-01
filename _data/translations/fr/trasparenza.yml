@@ -1,0 +1,31 @@
+# Transparency page
+page:
+  title: "Association Salim ODV - Transparence"
+  description: "La transparence est la valeur sans laquelle il ne peut y avoir de confiance. Découvrez comment nous garantissons la transparence et l'intégrité dans nos projets."
+
+header:
+  title: "Transparence :"
+  subtitle: "la valeur sans laquelle il ne peut y avoir de confiance."
+
+content:
+  intro_p1: "La transparence n'est pas qu'une formalité pour nous : c'est le moyen par lequel nous pouvons créer une relation de confiance durable avec ceux qui croient en notre travail. Ce n'est qu'en montrant clairement comment nous gérons les ressources et quels résultats nous obtenons que nous pouvons maintenir la crédibilité et l'engagement envers les personnes que nous aidons et envers ceux qui nous soutiennent."
+  intro_p2: "Avec Salim ODV, vous savez toujours où vont vos dons, et vous pouvez voir de vos propres yeux l'impact positif que vous générez dans le monde."
+  
+  how_title: "Comment nous garantissons la transparence"
+  
+  reporting_title: "Rapports détaillés"
+  reporting_text: "Chaque projet que nous menons est documenté avec précision. Nous fournissons des mises à jour mensuelles personnalisées pour chaque parrain qui parraine régulièrement des enfants, et nous produisons des rapports financiers documentés photographiquement qui montrent clairement comment les fonds reçus pour chaque projet ont été utilisés. Les budgets annuels et les rapports de nos projets sont disponibles pour tous nos supporters."
+  
+  communication_title: "Communication continue avec les donateurs"
+  communication_text: "Pour nous, les donateurs ne sont pas de simples financeurs, mais de véritables partenaires du changement. Nous maintenons un dialogue constant avec ceux qui nous soutiennent, fournissant des retours ponctuels et répondant à chaque question ou demande de clarification. Chaque don, grand ou petit, est valorisé et suivi, pour démontrer l'impact concret qu'il a sur la vie des personnes que nous aidons."
+  
+  audit_title: "Audits externes et audit interne"
+  audit_text: "Nous nous soumettons régulièrement à des audits externes pour nous assurer que la gestion des ressources est conforme aux normes de transparence et d'intégrité. Nous travaillons avec des auditeurs indépendants qui garantissent l'intégrité de nos états financiers et processus. Nous avons le soutien d'un cabinet juridique concernant la gestion des données et la confidentialité : vos données, comme celles des enfants, sont des données importantes à conserver avec soin. Nous prenons au sérieux les contributions de tous les membres et donateurs qui peuvent nous aider à nous améliorer pour atteindre nos objectifs statutaires."
+  
+  accessibility_title: "Accessibilité des informations"
+  accessibility_text: "Tous nos documents, des budgets aux rapports de projets, peuvent être demandés et seront bientôt accessibles en ligne. Nous croyons que chaque supporter a le droit de savoir en détail comment sa contribution est utilisée pour atteindre nos objectifs humanitaires."
+  
+  cta_part1: "Si tout cela vous plaît et que vous souhaitez soutenir l'association plus directement, envisagez de"
+  cta_link: "devenir membre"
+  
+  thanks: "Merci d'avance !"

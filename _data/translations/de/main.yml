@@ -1,0 +1,90 @@
+# Navigation
+nav:
+  home: "Startseite"
+  projects: "Projekte"
+  history: "Unsere Geschichte"
+  volunteers: "Mitglieder & Freiwillige"
+  blog: "Blog"
+
+# Buttons
+buttons:
+  donate: "Jetzt spenden"
+  learn_more: "Mehr erfahren!"
+  close: "Schließen"
+  save: "Speichern"
+  copy: "Kopieren"
+  copied: "Kopiert!"
+  support: "Unterstützen"
+  subscribe_now: "Jetzt anmelden"
+  discover_how: "Erfahren Sie wie"
+  read_article: "Artikel lesen"
+
+# Footer
+footer:
+  contact: "Kontakt"
+  privacy: "Datenschutzrichtlinie"
+  cookies: "Cookie-Richtlinie"
+  transparency: "Transparenz"
+  card: "Karte"
+  donate_online: "Online spenden"
+  information: "Informationen"
+  cookie_policy: "Cookie-Richtlinie"
+  privacy_settings: "Ihre Datenschutzeinstellungen"
+  fiscal_benefits: "Steuervorteile"
+  documents: "Dokumente"
+  statute: "Satzung"
+  runts_registration: "RUNTS-Registrierung"
+  regulation: "Regelung und Ethikkodex"
+  membership_form: "Mitgliedsantragsformular"
+  addressed_to: "Adressiert an:"
+
+# Cookie consent modal
+cookies_modal:
+  title: "Cookie-Einwilligung"
+  description: "Wir verwenden Cookies, einschließlich Cookies von Drittanbietern, um Ihre Erfahrung auf unserer Website zu verbessern. Speichern Sie Ihre Einstellungen und wählen Sie, ob Sie allen Cookies zustimmen möchten, oder schließen Sie dieses Banner, um nur mit technischen Cookies fortzufahren."
+  technical_cookies: "Technische Cookies (immer aktiv)"
+  marketing_cookies: "Marketing-Cookies"
+
+# Donate modal
+donate_modal:
+  title: "Jetzt spenden"
+  bank_transfer: "Banküberweisung"
+  bank_transfer_description: "Helfen Sie uns, Transaktionsgebühren zu sparen. Machen Sie eine direkte Überweisung."
+  causale: "Verwendungszweck"
+  or_use_card: "Oder verwenden Sie Ihre Karte, indem Sie auf die Schaltfläche unten klicken"
+  donate_5x1000: "Spenden Sie Ihren 5x1000"
+  fiscal_code_instruction: "Geben Sie im entsprechenden Feld die Nummer ein"
+
+# Distance support modal
+support_modal:
+  title: "Jetzt spenden"
+  description_1: "Überlegen Sie sorgfältig, welchen Betrag Sie bereit sind, monatlich zu unterstützen. Fahren Sie dann mit der ersten Zahlung über die Schaltfläche unten fort und geben Sie den Betrag und den Namen des Kindes in die entsprechenden Felder ein."
+  description_2: "Sobald wir Ihre erste Unterstützung erhalten haben, wird sich unser Team in Kürze mit Ihnen in Verbindung setzen, um Ihnen alle weiteren Informationen zu geben."
+  child_name: "Name des zu unterstützenden Kindes"
+
+# 5x1000 section
+five_per_thousand:
+  title: "Spenden Sie Ihren 5x1000"
+  instruction: "Geben Sie im entsprechenden Feld die Nummer ein"
+
+# Blog call to action
+blog_cta:
+  become_member:
+    title: "Mitglied werden"
+    description: "Mit nur 40€ pro Jahr unterstützen Sie den Verein und nehmen an Entscheidungen über zukünftige Projekte teil."
+  participate:
+    title: "Nehmen Sie an unseren Projekten teil"
+    description: "Verschiedene Möglichkeiten, wie Sie im Leben eines Kindes und seiner Familie Früchte tragen können."
+  donate:
+    title: "Machen Sie eine Spende"
+    description: "Unterstützen Sie den Verein und seine Projekte mit einer Spende. Sie können entscheiden, wohin sie gehen soll, einfach"
+    contact_us: "kontaktieren Sie uns"
+
+# Common
+common:
+  read_more: "Mehr lesen"
+  back: "Zurück"
+  share: "Teilen"
+  years_old: "Jahre alt"
+  people: "Personen"
+  per_month: "pro Monat garantieren"

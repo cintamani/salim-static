@@ -1,0 +1,17 @@
+# Our Story page
+page:
+  title: "Verein Salim ODV - Unsere Geschichte"
+  description: "Entdecken Sie die Geschichte des Vereins Salim ODV"
+
+header:
+  title: "Unsere Geschichte"
+  subtitle: "Wie alles begann"
+
+content:
+  intro: "Der Verein Salim ODV wurde 2023 aus dem Wunsch von Jessica und einer Gruppe von Freunden geboren, das Leben von Kindern und Familien in Kenia zu verändern."
+  jessica_title: "Jessica und Salimu"
+  jessica_text: "Jessica lebt seit mehreren Jahren in Kenia mit ihrem Mann Salimu. Zusammen begannen sie, den Familien des Dorfes Chitsanze, etwa 60 km von Mombasa entfernt, zu helfen."
+  association_title: "Die Gründung des Vereins"
+  association_text: "Im Jahr 2023 beschlossen Jessica und eine Gruppe italienischer Freunde, ihr Engagement zu formalisieren, indem sie den Verein Salim ODV gründeten, eine beim RUNTS registrierte Freiwilligenorganisation."
+  mission_title: "Unsere Mission"
+  mission_text: "Unsere Mission ist es, die Lebensbedingungen von Kindern und Familien in Kenia zu verbessern, indem wir Nahrung, Bildung und medizinische Versorgung für diejenigen garantieren, die sie am meisten benötigen."

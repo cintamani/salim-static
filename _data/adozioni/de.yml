@@ -1,0 +1,99 @@
+
+- nome: "Happy N."
+  eta: 14
+  descrizione: Happy (2010) ist Waise, sie hat ihren Vater verloren und lebt in einem Lehmhaus mit Blechdach zusammen mit ihren 9 Geschwistern und ihrer Mutter, die Bäuerin ist. Ein älterer Bruder arbeitet.
+  foto:
+    src: "/assets/images/foto/sostegni/06-Happy.jpg"
+    alt: "14-jähriges Mädchen"
+  casa: 11 Personen
+  educazione: 6. Klasse
+  regione: Kilifi
+  esigenze_mediche: nein
+
+- nome: "Mussa"
+  eta: 2
+  descrizione: "Mussa ist der Jüngste von 8 Geschwistern. Er lebt zu Hause mit seiner Mutter und seinem Vater, der als Arbeiter arbeitet: Er arbeitet hart, aber sein Gehalt reicht nicht für die Bedürfnisse aller."
+  foto:
+    src: "/assets/images/foto/sostegni/10-Mussa.jpg"
+    alt: "2-jähriger Junge"
+  casa: 10 Personen
+  educazione: noch zu jung
+  regione: Kwale
+  esigenze_mediche: nein
+
+- nome: "Abgael"
+  eta: 10
+  descrizione: Abgael ist Waise, sie hat ihren Vater verloren und ihre Mutter ist Bäuerin. Sie lebt zusammen mit ihr und 5 anderen Schwestern, aber zu Hause haben sie nichts, nicht einmal Matratzen zum Schlafen.
+  foto:
+    src: "/assets/images/foto/sostegni/11-Abgael.jpg"
+    alt: "10-jähriges Mädchen"
+  casa: 7 Personen
+  educazione: 4. Klasse
+  regione: Kilifi
+  esigenze_mediche: Medizinische Bedürfnisse
+
+- nome: "Shuraim"
+  eta: 2
+  descrizione: "Shuraim lebt zusammen mit seinem kleinen Bruder und seinen Eltern in einem sehr kleinen Haus aus Lehm und Stroh. Die Mutter arbeitet nicht und der Vater ist Religionslehrer, der nur durch Spenden unterstützt wird."
+  foto:
+    src: "/assets/images/foto/sostegni/13-Shuraim.jpg"
+    alt: "2-jähriger Junge"
+  casa: 4 Personen
+  educazione: noch zu jung
+  regione: Kwale
+  esigenze_mediche: nein
+
+- nome: "Steven"
+  eta: etwa 13
+  descrizione: "Steven hat beide Eltern vor mehreren Jahren verloren, und seine Geburtsurkunde ging verloren. Er hat zwei Brüder, aber sie leben getrennt, jeder bei einem anderen Verwandten. Er lebt zusammen mit 6 anderen Cousins bei einer Tante, die sich um das Hüten von Ziegen und Kühen kümmert. Sie schlafen alle auf dem Boden auf Kartonteilen."
+  foto:
+    src: "/assets/images/foto/sostegni/16-Steven.jpg"
+    alt: "13-jähriger Junge"
+  casa: 8 Personen
+  educazione: 6. Klasse
+  regione: Kilifi
+  esigenze_mediche: nein
+
+- nome: "Ali"
+  eta: 6
+  descrizione: "Ali lebt in einer Hütte aus Blech und Lehm zusammen mit 5 anderen Geschwistern und seinen Eltern. Die Mutter hackt Land für andere Menschen und der Vater bereitet Mandazi zu und verkauft sie am Straßenrand, typische frittierte süße Brötchen. Seine Familie tut alles, um ihm Essen und Bildung zu garantieren, aber sie können die Bedürfnisse der ganzen Familie nicht decken."
+  foto:
+    src: "/assets/images/foto/sostegni/18-Ali.jpg"
+    alt: "6-jähriger Junge"
+  casa: 8 Personen
+  educazione: 2. Kindergartenjahr
+  regione: Kwale
+  esigenze_mediche: nein
+
+- nome: "Husna"
+  eta: 2
+  descrizione: "Dieses süße Mädchen lebt zusammen mit ihrer Schwester, ihrer Mutter und ihren Großeltern in einem bescheidenen Haus aus Lehm und Blech."
+  foto:
+    src: "/assets/images/foto/sostegni/20-Husna.jpg"
+    alt: "2-jähriges Mädchen"
+  casa: 5 Personen
+  educazione: noch zu jung
+  regione: Lunguma
+  esigenze_mediche: nein
+
+- nome: "Penina"
+  eta: 2
+  descrizione: "Peninas große Familie erhält sich ausschließlich durch die Gelegenheitsarbeit des Vaters, der von Tag zu Tag lebt, indem er ein Motorradtaxi fährt, das er jedes Mal mietet, wenn sich die Gelegenheit bietet, jemanden mitzunehmen."
+  foto:
+    src: "/assets/images/foto/sostegni/19-Penina.jpg"
+    alt: "2-jähriges Mädchen"
+  casa: 8 Personen
+  educazione: noch zu jung
+  regione: Lunguma
+  esigenze_mediche: nein
+
+- nome: "Mwanalima"
+  eta: 4
+  descrizione: "Mwanalimas Familie ist sehr arm, sie leben in einem unvollendeten Haus und haben praktisch nichts. Ihre Situation wird dadurch verschlimmert, dass ihre Mutter undiagnostizierte psychische Probleme hat, und das Mädchen beginnt, die gleichen Probleme zu zeigen."
+  foto:
+    src: "/assets/images/foto/sostegni/21-Mwanalima.jpeg"
+    alt: "4-jähriges Mädchen"
+  casa: 5 Personen
+  educazione: noch zu jung
+  regione: Kwale
+  esigenze_mediche: Ja
