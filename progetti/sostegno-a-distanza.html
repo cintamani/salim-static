@@ -6,6 +6,8 @@ permalink: /progetti/sostegno-a-distanza/
 description: Sostegno a distanza per le famiglie di Salim ODV
 keywords: progetti, sostegni a distanza, sostegno a distanza, famiglie, Salim ODV, associazione salim
 ---
+{% assign s = site.data.translations[site.active_lang].sostegno_a_distanza %}
+{% assign t = site.data.translations[site.active_lang].main %}
 
 <div class="m-2 m-md-3 m-lg-5 pb-5">
   <div class="bd-main order-1">
@@ -13,85 +15,79 @@ keywords: progetti, sostegni a distanza, sostegno a distanza, famiglie, Salim OD
       <div class="container-fluid py-5">
         <div class="row row-cols-md-2 row-cols-1">
           <div class="col pb-md-0 pb-3">
-            <h1 class="display-1 ">Sostegni a distanza</h1>
-            <h2 class="display-7 fw-bold lh-base">Vorresti fare la differenza nella vita di un bambino e della sua famiglia?
-              Diventa un sostenitore!
+            <h1 class="display-1 ">{{ s.header.title }}</h1>
+            <h2 class="display-7 fw-bold lh-base">
+              {{ s.header.subtitle }}
             </h2>
           </div>
           <div class="col p-0 px-lg-5">
-            <img src="/assets/images/foto/sostegni_distanza.jpg" alt="Sostegni a distanza" class="card-img-top img-fluid">
+            <img src="/assets/images/foto/sostegni_distanza.jpg" alt="{{ s.header.title }}" class="card-img-top img-fluid">
           </div>
         </div>
       </div>
     </div>
     <p class="fs-4">
-      Scorri la pagina per vedere i bambini in cerca di un sostenitore e leggere le loro storie.
-      Se trovi qualcuno che tocca il tuo cuore, inizia oggi un sostegno a distanza.
+      {{ s.content.intro_p1 }}
     </p>
     <p class="fs-4">
-      Puoi scegliere fra le seguenti due quote. Tieni presente che i beni consegnati vengono calibrati in base alle reali necessità del bambino
-      e della sua famiglia, cercando di variare l'offerta di cibo per tentare di sopperire ad eventuali carenze nutritive.
-      Riconvertiamo in cibo le quote relative a medicinali e istruzione nel caso non vengano utilizzate per intero.
+      {{ s.content.intro_p2 }}
     </p>
 
     <div class="row row-cols-2 row-cols-xs-1">
       <div class="col">
         <div class="card mb-4 rounded-3 border-secondary shadow-sm border-primary">
           <div class="card-header text-bg-secondary text-white border-primary py-3">
-            <h1 class="card-title pricing-card-title">40€<small class="fw-light"> al mese garantiscono:</small></h1>
+            <h1 class="card-title pricing-card-title">{{ s.content.plan_40.price }}<small class="fw-light"> {{ s.content.plan_40.monthly }}</small></h1>
           </div>
           <div class="card-body">
             <ul class="list-unstyled mt-3 fs-5 mb-4">
-              <li>Cibo</li>
-              <li>Prodotti per igiene e pulizia</li>
-              <li>Vestiario</li>
-              <li>Medicinali e prima assistenza medica</li>
+              {% for item in s.content.plan_40.items %}
+                <li>{{ item }}</li>
+              {% endfor %}
             </ul>
-            <!-- <button type="button" class="w-100 btn btn-lg btn-primary"> ? ? eh, poi? ?</button> -->
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card mb-4 border border-primary rounded-3 shadow-sm">
           <div class="card-header py-3 text-bg-primary text-white">
-            <h1 class="card-title pricing-card-title">50€<small class="fw-light"> al mese garantiscono:</small></h1>
+            <h1 class="card-title pricing-card-title">{{ s.content.plan_50.price }}<small class="fw-light"> {{ s.content.plan_50.monthly }}</small></h1>
           </div>
           <div class="card-body">
             <ul class="list-unstyled mt-3 fs-5 mb-4">
-              <li>Cibo</li>
-              <li>Prodotti per igiene e pulizia</li>
-              <li>Vestiario</li>
-              <li>Medicinali e prima assistenza medica</li>
-              <li><strong>+ Tasse scuola pubblica primaria</strong></li>
+              {% for item in s.content.plan_50.items %}
+                <li>{{ item }}</li>
+              {% endfor %}
+              <li><strong>{{ s.content.plan_50.plus_education }}</strong></li>
             </ul>
           </div>
         </div>
       </div>
     </div>
       <p class="fs-4">
-      Alle quote sopra indicate è possibile aggiungere le seguenti opzioni:
+      {{ s.content.options_intro }}
       </p>
       <p class="fs-4">
-      <strong>Opzione "Più igiene"</strong>: fornisci un pacchetto di 14 assorbenti al costo di 2€.
+      <strong>{{ s.content.option_hygiene }}</strong>: {{ s.content.option_hygiene_desc }}
       </p>
       <p class="fs-4">
-      <strong>Opzione "Compleanno"</strong>: dona liberamente per il suo giorno speciale! Ti aiuteremo a scegliere il regalo più adatto in base alle sue reali esigenze.
+      <strong>{{ s.content.option_birthday }}</strong>: {{ s.content.option_birthday_desc }}
       </p>
       <p class="fs-4">
-      <strong>Grazie sin da ora per il tuo impegno!</strong>
+      <strong>{{ s.content.thanks }}</strong>
       </p>
-    <hr/>
+    <hr>
 
     <div class="album py-5">
       <div class="container">
         <div class="row row-cols-1 row-cols-lg-4 row-cols-md-3 row-cols-sm-2 g-3">
-          {% for item in site.data.adozioni %}
+          {% for item in site.data.adozioni[site.active_lang] %}
             <div class="col">
               <div class="card shadow border-secondary overflow-x-hidden">
-                <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="card-img-top"></img>
+                <img src="{{ item.foto.src }}" alt="{{ item.foto.alt }}" class="card-img-top">
                 <div class="card-header bg-secondary text-white">
                   <span class="fs-4">
-                    {{ item.nome }} - {{ item.eta }} anni
+                    {{ item.nome }} - {{ item.eta }} {{ s.content.years }}
                   </span>
                 </div>
                 <div class="card-body">
@@ -99,16 +95,16 @@ keywords: progetti, sostegni a distanza, sostegno a distanza, famiglie, Salim OD
                     <div class="col">
                       {% if item.casa %}
                         <div>
-                          <img src="/assets/images/sostegni/house.svg" alt="Esigenze mediche" height="16" width="16"
-                            class="d-inline-block align-text-center"></img>
+                          <img src="/assets/images/sostegni/house.svg" alt="{{ s.header.title }}" height="16" width="16"
+                            class="d-inline-block align-text-center">
                           {{ item.casa }}
                         </div>
                       {% endif %}
 
                       {% if item.regione %}
                         <div>
-                          <img src="/assets/images/sostegni/pin.svg" alt="Esigenze mediche" height="16" width="16"
-                            class="d-inline-block align-text-center"></img>
+                          <img src="/assets/images/sostegni/pin.svg" alt="{{ s.header.title }}" height="16" width="16"
+                            class="d-inline-block align-text-center">
                           {{ item.regione }}
                         </div>
                       {% endif %}
@@ -116,29 +112,29 @@ keywords: progetti, sostegni a distanza, sostegno a distanza, famiglie, Salim OD
                     <div class="col">
                       {% if item.educazione %}
                         <div>
-                          <img src="/assets/images/sostegni/book.svg" alt="Esigenze mediche" height="16" width="16"
-                            class="d-inline-block align-text-center"></img>
+                          <img src="/assets/images/sostegni/book.svg" alt="{{ s.header.title }}" height="16" width="16"
+                            class="d-inline-block align-text-center">
                           {{ item.educazione }}
                         </div>
                       {% endif %}
                       {% if item.esigenze_mediche %}
                         <div>
-                          <img src="/assets/images/sostegni/medical-cross.svg" alt="Esigenze mediche" height="16" width="16"
-                            class="d-inline-block align-text-center"></img>
+                          <img src="/assets/images/sostegni/medical-cross.svg" alt="{{ s.header.title }}" height="16" width="16"
+                            class="d-inline-block align-text-center">
                           {{ item.esigenze_mediche }}
                         </div>
                       {% endif %}
                     </div>
                   </div>
                   {% if item.descrizione %}
-                    <hr/>
+                    <hr>
                     <p class="card-text">
                       {{ item.descrizione }}
                     </p>
                   {% endif %}
-                  <hr/>
+                  <hr>
                   {% assign handle = "DonateAdozioneMensile" | append: item.nome %}
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#DonateAdozioneMensile{{item.nome}}" class="btn btn-light">Sostieni {{ item.nome }}</button>
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#DonateAdozioneMensile{{item.nome}}" class="btn btn-light">{{ s.content.support_button }} {{ item.nome }}</button>
                   {%
                     include donate_sostegno_modal.html
                       handle=handle
@@ -150,6 +146,7 @@ keywords: progetti, sostegni a distanza, sostegno a distanza, famiglie, Salim OD
               </div>
             </div>
           {% endfor %}
+        </div>
       </div>
     </div>
   </div>

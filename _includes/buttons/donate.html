@@ -1,3 +1,4 @@
+{% assign t = site.data.translations[site.active_lang].main %}
 <button
   type="button"
   class="btn {% if include.style %}{{include.style}}{% else %}btn-outline-warning{% endif %} rounded-pill"
@@ -5,5 +6,5 @@
   data-bs-target="#DonateNowModal"
 >
   {{include.additional}}
-  Dona Ora
+  {{ t.buttons.donate }}
 </button>

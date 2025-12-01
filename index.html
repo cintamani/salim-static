@@ -5,6 +5,7 @@ lang: it
 permalink: /
 ---
 
+{% assign h = site.data.translations[site.active_lang].home %}
 <div data-bs-spy="scroll" data-bs-target="#menu-bar" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" tabindex="0">
   <div data-jarallax data-speed="0.2" class="jarallax" data-target-section id="home">
     <img class="jarallax-img" src="/assets/images/sfondo_strada.webp" alt="">
@@ -14,8 +15,7 @@ permalink: /
         <div class="row justify-content-center">
           <div class="col-12 col-md-9 col-lg-7 text-center">
             <h1 class="text-white display-5 fw-bold">
-              Vuoi essere <i class="text-highlight">sicuro</i> che la tua donazione stia <u
-                class="text-highlight">portando frutto</u> nella vita di qualcuno?
+              {{ h.hero.line1 }}
             </h1>
           </div>
         </div>
@@ -26,13 +26,13 @@ permalink: /
         <div class="row justify-content-center">
           <div class="col-12 col-md-9 col-lg-7 text-center">
             <h1 class="text-white display-5 fw-bold">
-              Ora puoi <u class="text-highlight">vedere chiaramente</u> </br>
-              come viene speso <u class="text-highlight">ogni euro</u> </br>
-              che doni grazie a </br>
-              <u class="text-highlight">foto</u> e <u class="text-highlight">resoconti mensili</u>.
+              {{ h.hero.line2_part1 }} <br>
+              {{ h.hero.line2_part2 }} <br>
+              {{ h.hero.line2_part3 }} <br>
+              {{ h.hero.line2_part4 }}
             </h1>
             <a class="display-5 fw-bold btn btn-warning btn-lg mt-2" role="button" href="trasparenza">
-              La nostra missione di trasparenza
+              {{ h.hero.transparency_btn }}
             </a>
           </div>
         </div>
@@ -45,11 +45,11 @@ permalink: /
   </div>
 
   <div data-jarallax data-speed="0.2" class="jarallax py-5" data-target-section id="la-storia">
-    <img class="jarallax-img" src="/assets/images/foto/jessica_bimbi.webp" alt="" />
+    <img class="jarallax-img" src="/assets/images/foto/jessica_bimbi.webp" alt="">
     {% include home/la_storia.html %}
   </div>
   <div data-jarallax data-speed="0.2" class="jarallax pb-5" data-target-section id="volontari">
-    <img class="jarallax-img" src="/assets/images/foto/jessica_bimbi.webp" alt="" />
+    <img class="jarallax-img" src="/assets/images/foto/jessica_bimbi.webp" alt="">
     {% include home/soci_e_volontari.html %}
     <!-- {% include home/5x1000.html %} -->
   </div>

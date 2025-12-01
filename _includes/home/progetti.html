@@ -1,3 +1,5 @@
+{% assign t = site.data.translations[site.active_lang].main %}
+{% assign p = site.data.translations[site.active_lang].progetti %}
 <div class="justify-content-center py-5">
   <div class="mx-3 my-5 row row-cols-1 row-cols-sm-2 row-cols-md-3">
     <div class="col">
@@ -5,24 +7,22 @@
         <div class="card">
           <img
             src="/assets/images/foto/sostegni_distanza.jpg"
-            alt="Sostegni a distanza"
+            alt="{{ p.distance_support.title }}"
             class="card-img-top img-fluid"
           >
 
           <div class="card-img-overlay bg-black bg-opacity-25">
-            <h1 class="text-white display-5 fw-bold">SOSTEGNI A DISTANZA</h1>
+            <h1 class="text-white display-5 fw-bold">{{ p.distance_support.title }}</h1>
           </div>
         </div>
 
         <div class="card-body">
           <p class="card-text">
-            Vorresti fare la differenza nella vita di un bambino e della sua una
-            famiglia? Diventa sostenitore! Con quote di 40 o 50 euro mensili
-            puoi cambiare sostanzialmente la vita di un bambino.
+            {{ p.distance_support.description }}
           </p>
 
           <a class="btn btn-primary" href="/progetti/sostegno-a-distanza">
-            Scopri di piú!
+            {{ t.buttons.learn_more }}
           </a>
         </div>
       </div>
@@ -33,21 +33,18 @@
         <div class="card">
           <img
             src="/assets/images/foto/progetto_animali.jpg"
-            alt="Progetto animali"
+            alt="{{ p.animals.title }}"
             class="card-img-top img-fluid"
           >
 
           <div class="card-img-overlay bg-black bg-opacity-25">
-            <h1 class="text-white display-5 fw-bold">PROGETTO ANIMALI</h1>
+            <h1 class="text-white display-5 fw-bold">{{ p.animals.title }}</h1>
           </div>
         </div>
 
         <div class="card-body">
           <p class="card-text">
-            Fornisci un animale da cortile ad una famiglia consentendo loro di
-            avere latte fresco, uova e carne in maniera semplice e diretta. Li
-            aiuterai ad autosostentarsi e ad imparare a gestire le proprie
-            risorse in maniera più consapevole.
+            {{ p.animals.description }}
           </p>
 
           <div class="btn-group" role="group">
@@ -56,7 +53,7 @@
               href="/progetti/progetto-animali"
               disabled
             >
-              Scopri di piú!
+              {{ t.buttons.learn_more }}
             </a>
           </div>
         </div>
@@ -68,21 +65,18 @@
         <div class="card">
           <img
             src="/assets/images/foto/scuola.jpg"
-            alt="ISTRUZIONE"
+            alt="{{ p.education.title }}"
             class="card-img-top img-fluid"
           >
 
           <div class="card-img-overlay bg-black bg-opacity-25">
-            <h1 class="text-white display-5 fw-bold">ISTRUZIONE</h1>
+            <h1 class="text-white display-5 fw-bold">{{ p.education.title }}</h1>
           </div>
         </div>
 
         <div class="card-body">
           <p class="card-text">
-            Crediamo che la chiave per il futuro delle nuove generazioni sia
-            l’istruzione: investi nella vita di coloro che non potrebbero mai
-            studiare ma hanno le potenzialità di cambiare le sorti del loro
-            paese.
+            {{ p.education.description }}
           </p>
 
           <a
@@ -90,29 +84,10 @@
             href="/progetti/progetto-istruzione"
             disabled
           >
-            Scopri di piú!
+            {{ t.buttons.learn_more }}
           </a>
         </div>
       </div>
     </div>
-
-    <!--
-  <div class="col mt-3 mt-lg-0">
-  <div class="card shadow-sm">
-  <div class="card">
-  <img src="/assets/images/foto/kirifi.jpg" alt="PROGETTO KILIFI" class="card-img-top img-fluid" />
-  <div class="card-img-overlay bg-black bg-opacity-25">
-  <h1 class="text-white display-5 fw-bold">PROGETTO KILIFI</h1>
-  </div>
-  </div>
-  <div class="card-body">
-  <p class="card-text">
-  Facciamo insieme la differenza nella vita di bambini orfani. Aiutaci a raggiungerli e soddisfare i loro bisogni primari.
-  </p>
-  <a class="btn btn-primary" href="/progetti/progetto-kilifi" disabled>Scopri di piú!</a>
-  </div>
-  </div>
-  </div>
--->
   </div>
 </div>

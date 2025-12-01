@@ -1,0 +1,29 @@
+# Progetto Animali page
+page:
+  title: "Associazione Salim ODV - Progetti - Animali da cortile"
+  description: "Associazione Salim ODV - Progetto Animali da cortile - Una raccolta fondi per l'acquisto di animali da cortile"
+
+header:
+  title: "Progetto animali"
+  subtitle: "L'opportunità non soltanto di mangiare, ma di iniziare a pensare oltre."
+
+content:
+  main_title: "Dona un animale, cambia una vita"
+  p1: "Chi possiede un animale sa benissimo a cosa ci riferiamo. La gioia che un cucciolo può portare in una casa è qualcosa di indescrivibile. E quando questo animale, introdotto in una famiglia povera, diventa anche fonte di sostentamento perchè fornisce latte o uova, la gioia si moltiplica. Il progetto però non si ferma qui. Vogliamo con questo dono instillare nelle famiglie kenyote l'idea che anche una, o meglio due paperette possano diventare una risorsa. Purtroppo nella zona dove operiamo, la gente vive alla giornata, non riuscendo nemmeno a pensare a cosa potrebbe scegliere di mangiare l'indomani a colazione. Fornire un animale in una situazione del genere significa consentire alle persone di aprire la mente e provare a vedere se l'allevamento, anche di pochi animali, possa essere un'opportunità per migliorare la propria condizione."
+  options_title: "Le opzioni proposte"
+  options_intro: "Considerando lo spazio necessario per allevarli, e l'impegno in termini di cibo e di acqua che richiedono (teniamo presente che in kenya non piove per circa 9 mesi l'anno), vi proproniamo di supportare l'acquisto di:"
+  goat: "Capra"
+  goat_price: "80 euro"
+  chicken: "Gallina o pollo"
+  chicken_price: "25 euro"
+  duck: "Papera"
+  duck_price: "20 euro"
+  purchase_info: "Acquistiamo l'animale scelto tra quelli disponibili nei villaggi circostanti, supportando così l'economia locale. Il costo di acquisto di ciascun animale può variare in base a diversi fattori: il sesso, la razza, la stazza... Quello indicato è un prezzo massimo: i fondi rimanenti verranno impiegati per fornire alla famiglia una razione iniziale di cibo per gli animali stessi."
+  cta_title: "Fai la differenza oggi!"
+  cta_text: "La tua donazione può trasformare la vita di una famiglia. Clicca sul pulsante qui sotto per seguire le istruzioni e effettuare la tua donazione."
+  thanks: "Grazie per il tuo prezioso sostegno!"
+
+cards:
+  donate_chicken: "Dona una gallina"
+  donate_duck: "Dona una papera"
+  donate_goat: "Dona una capra"

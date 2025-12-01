@@ -1,0 +1,52 @@
+# Soci e Volontari page
+page:
+  title: "Associazione Salim ODV - Diventare soci"
+  description: "Unisciti a noi e diventa socio o volontario dell'associazione Salim ODV"
+
+header:
+  title: "Soci e volontari"
+  subtitle1: "Desideri essere parte della nostra squadra in qualche maniera?"
+  subtitle2: "Allora sei già parte di Salim ODV!"
+
+how_to_help:
+  title: "Come puoi aiutare"
+  intro: "La nostra associazione prevede due tipologie di socio."
+  supporter:
+    title: "Socio Sostenitore"
+    description: "è colui che sceglie di dedicare risorse economiche per sostenere il lavoro dell'associazione, condivide il suo know how per farla crescere e dedica tempo nel far conoscere la realtà ad altre persone;"
+  volunteer:
+    title: "Socio Volontario"
+    description: "è colui che \"si sporca le mani\", che sceglie di mettersi in prima persona a disposizione dell'associazione per fare praticamente quello che c'è da fare, rendendosi utile anche in trasferta per periodi più o meno lunghi."
+
+kenya_volunteer:
+  title: "Unisciti a noi come volontario in Kenya!"
+  intro: "Vuoi fare un'esperienza di volontariato che ti cambi la vita? Il villaggio di Chitsanze, a circa 60 km da Mombasa, ti aspetta! Insieme a Jessica e suo marito Salimu, potrai vivere una realtà unica, facendo la differenza nella vita di tanti bambini e famiglie locali."
+  what_can_you_do: "Cosa puoi fare con noi?"
+  activities:
+    - "Giocare con i bambini: Aiutali a crescere, imparare e divertirsi!"
+    - "Curare orto e animali: Contribuisci a mantenere l'agricoltura sostenibile, che supporta il villaggio."
+    - "Supporto scolastico: Aiuta i bambini con i compiti e prepara attività educative."
+    - "Distribuzione di cibo: Partecipa alla pianificazione e distribuzione dei pasti per i bambini a sostegno a distanza e alle famiglie locali."
+  map_caption: "Dove trovare il villaggio. In alto una mappa del Kenya mostra dove si trova Mombasa. In basso, il villaggio di Chitsanze, dove opera l'associazione tramite Jessica e suo marito Salimu"
+
+costs:
+  title: "Costi da sostenere per il soggiorno"
+  items:
+    - "Il costo del viaggio aereo dall'Italia a Mombasa"
+    - "10€ al giorno per vitto, alloggio, acqua potabile, elettricità e gas"
+    - "70€ a tratta per il trasporto dall'aeroporto internazionale di Mombasa al villaggio (140€ andata e ritorno)"
+    - "Quota associativa annuale di 40€"
+
+become_supporter:
+  title: "Diventa socio sostenitore"
+  p1: "Per noi TU sei un bene enorme, proprio come ogni vita che decidiamo con impegno di sostenere. Ciascun membro dell'associzione ha un valore intrinseco e potenziale del quale ci rendiamo conto solo quando iniziamo a lavorare insieme. Ogni persona è unica, porta con sè una storia, del sapere, delle esperienze uniche... e tutto questo è oro."
+  p2_part1: "Se hai il desiderio di diventare socio dell'associazione, ti invitiamo a leggere lo"
+  p2_part2: "e il"
+  p2_part3: "per sapere gli scopi, la visione e come opera Salim ODV. Dopo scarica il"
+  p2_part4: ", compilalo e invialo a"
+  p2_part5: "insieme ad una tua presentazione."
+  p3: "Ti contatteremo per parlare con te ed aiutarti ad essere un valido supporto per l'intero progetto."
+  thanks: "Grazie sin da ora!"
+  statute: "statuto"
+  regulations: "regolamento interno e codice etico"
+  application_form: "modulo di iscrizione"

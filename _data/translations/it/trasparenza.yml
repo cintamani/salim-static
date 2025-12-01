@@ -1,0 +1,31 @@
+# Trasparenza page
+page:
+  title: "Associazione Salim ODV - Trasparenza"
+  description: "La trasparenza è il valore senza il quale non può esserci fiducia. Scopri come garantiamo la trasparenza e la correttezza nei nostri progetti."
+
+header:
+  title: "Trasparenza:"
+  subtitle: "il valore senza il quale non può esserci fiducia."
+
+content:
+  intro_p1: "La trasparenza non è solo una formalità per noi: è il mezzo attraverso il quale possiamo creare una relazione di fiducia duratura con chi crede nel nostro lavoro. Solo mostrando chiaramente come gestiamo le risorse e quali risultati otteniamo, possiamo mantenere la credibilità e l'impegno verso le persone che aiutiamo e verso chi ci supporta."
+  intro_p2: "Con Salim ODV, sai sempre dove vanno le tue donazioni, e puoi vedere in prima persona l'impatto positivo che stai generando nel mondo."
+  
+  how_title: "Come garantiamo la trasparenza"
+  
+  reporting_title: "Rendicontazione dettagliata"
+  reporting_text: "Ogni progetto che portiamo avanti viene documentato in modo accurato. Forniamo aggiornamenti mensili personalizzati per ogni sostenitore che prende a carico dei bambini regolarmente, e produciamo rapporti finanziari e documentati fotograficamente che mostrano chiaramente come sono stati impiegati i fondi ricevuti per ogni progetto. I bilanci annuali e le relazioni dei nostri progetti sono disponibili per tutti i nostri sostenitori."
+  
+  communication_title: "Comunicazione continua con i donatori"
+  communication_text: "Per noi, i donatori non sono solo finanziatori, ma veri e propri partner nel cambiamento. Manteniamo un dialogo costante con chi ci sostiene, fornendo feedback puntuali e rispondendo a ogni domanda o richiesta di chiarimento. Ogni donazione, grande o piccola, è valorizzata e monitorata, per dimostrare l'impatto concreto che ha sulle vite delle persone che aiutiamo."
+  
+  audit_title: "Verifiche esterne e internal audit"
+  audit_text: "Ci sottoponiamo regolarmente a verifiche esterne per assicurarci che la gestione delle risorse sia conforme agli standard di trasparenza e correttezza. Lavoriamo con revisori contabili indipendenti che garantiscono l'integrità dei nostri bilanci e processi. Abbiamo il supporto di uno studio legale per quanto riguarda la gestione dei dati e della privacy: i vostri dati come quelli dei bambini sono dati importanti da custodire con cura. Prendiamo in seria considerazione gli input di tutti gli associati e donatori che possano aiutarci a migliorare nel raggiungere gli obiettivi statutari."
+  
+  accessibility_title: "Accessibilità delle informazioni"
+  accessibility_text: "Tutti i nostri documenti, dai bilanci ai rapporti di progetto, sono richiedibili e saranno presto accessibili online. Crediamo che ogni sostenitore abbia il diritto di conoscere in dettaglio come il suo contributo viene utilizzato per realizzare i nostri obiettivi umanitari."
+  
+  cta_part1: "Se tutto questo ti sta piacendo e vorresti sostenere in maniera più diretta l'associazione, valuta di"
+  cta_link: "diventare socio"
+  
+  thanks: "Grazie sin da ora!"

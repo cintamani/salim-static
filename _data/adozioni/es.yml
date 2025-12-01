@@ -1,0 +1,99 @@
+
+- nome: "Happy N."
+  eta: 14
+  descrizione: Happy (2010) es huérfana de padre y vive en una casa de tierra con techo de lámina junto con sus 9 hermanos y su mamá que es agricultora. Un hermano mayor trabaja.
+  foto:
+    src: "/assets/images/foto/sostegni/06-Happy.jpg"
+    alt: "Niña de 14 años"
+  casa: 11 personas
+  educazione: 6° primaria
+  regione: Kilifi
+  esigenze_mediche: no
+
+- nome: "Mussa"
+  eta: 2
+  descrizione: "Mussa es el menor de 8 hermanos. Vive en casa con su mamá y su papá que trabaja como obrero: trabaja duro, pero su salario no es suficiente para las necesidades de todos."
+  foto:
+    src: "/assets/images/foto/sostegni/10-Mussa.jpg"
+    alt: "niño de 2 años"
+  casa: 10 personas
+  educazione: aún es pequeño
+  regione: Kwale
+  esigenze_mediche: no
+
+- nome: "Abgael"
+  eta: 10
+  descrizione: Abgael es huérfana de padre y su mamá es agricultora. Vive junto a ella y a otras 5 hermanas, pero en casa no tienen nada, ni siquiera colchones para dormir.
+  foto:
+    src: "/assets/images/foto/sostegni/11-Abgael.jpg"
+    alt: "niña de 10 años"
+  casa: 7 personas
+  educazione: 4° primaria
+  regione: Kilifi
+  esigenze_mediche: Necesidades médicas
+
+- nome: "Shuraim"
+  eta: 2
+  descrizione: "Shuraim vive junto con su hermanito y sus padres en una casita muy pequeña hecha de tierra y paja. La mamá no trabaja y el papá es un maestro de religión que se sostiene solo con donaciones."
+  foto:
+    src: "/assets/images/foto/sostegni/13-Shuraim.jpg"
+    alt: "niño de 2 años"
+  casa: 4 personas
+  educazione: aún es pequeño
+  regione: Kwale
+  esigenze_mediche: no
+
+- nome: "Steven"
+  eta: aproximadamente 13
+  descrizione: "Steven perdió a ambos padres hace varios años, y su certificado de nacimiento se perdió. Tiene dos hermanos pero viven separados, cada uno con un pariente diferente. Él vive junto con otros 6 primos con una tía que se encarga de llevar a pastar cabras y vacas. Todos duermen en el suelo sobre pedazos de cartón."
+  foto:
+    src: "/assets/images/foto/sostegni/16-Steven.jpg"
+    alt: "niño de 13 años"
+  casa: 8 personas
+  educazione: 6° primaria
+  regione: Kilifi
+  esigenze_mediche: no
+
+- nome: "Ali"
+  eta: 6
+  descrizione: "Ali vive en una barraca de lámina y tierra junto con otros 5 hermanos y sus padres. La mamá trabaja la tierra para otras personas y el papá prepara y vende en los lados de la carretera los Mandazi, típicos panecillos dulces fritos. Su familia hace de todo para garantizarle comida y educación pero no llegan a cubrir las necesidades de toda la familia."
+  foto:
+    src: "/assets/images/foto/sostegni/18-Ali.jpg"
+    alt: "niño de 6 años"
+  casa: 8 personas
+  educazione: 2° de jardín de infantes
+  regione: Kwale
+  esigenze_mediche: no
+
+- nome: "Husna"
+  eta: 2
+  descrizione: "Esta dulce niña vive junto con su hermana, su madre y sus abuelos, en una humilde casa hecha de tierra y lámina."
+  foto:
+    src: "/assets/images/foto/sostegni/20-Husna.jpg"
+    alt: "niña de 2 años"
+  casa: 5 personas
+  educazione: aún es pequeña
+  regione: Lunguma
+  esigenze_mediche: no
+
+- nome: "Penina"
+  eta: 2
+  descrizione: "La numerosa familia de Penina se sostiene exclusivamente con el trabajo ocasional del papá que vive al día conduciendo el mototaxi que cada vez alquila apenas se le presenta la posibilidad de llevar a alguien."
+  foto:
+    src: "/assets/images/foto/sostegni/19-Penina.jpg"
+    alt: "niña de 2 años"
+  casa: 8 personas
+  educazione: aún es pequeña
+  regione: Lunguma
+  esigenze_mediche: no
+
+- nome: "Mwanalima"
+  eta: 4
+  descrizione: "La familia de Mwanalima es muy pobre, viven en una casa sin terminar, sin tener de hecho nada. Su situación se agrava por el hecho de que su mamá tiene problemas mentales no bien diagnosticados, y la niña empieza a manifestar los mismos problemas."
+  foto:
+    src: "/assets/images/foto/sostegni/21-Mwanalima.jpeg"
+    alt: "niña de 4 años"
+  casa: 5 personas
+  educazione: aún es pequeña
+  regione: Kwale
+  esigenze_mediche: Sí

@@ -1,0 +1,22 @@
+# Education Project page
+page:
+  title: "Salim ODV Association - Projects - Education"
+  description: "Salim ODV Association - Education Project - Support for children's education"
+
+header:
+  title: "Education Project"
+  subtitle: "Help us create a stable fund dedicated to education, from elementary school to university!"
+
+content:
+  main_title: "Let's create a future for young people by supporting them now!"
+  p1: "With the help of Jessica and local teachers, we are identifying children and young people who have the <strong>potential</strong> to achieve great results in their academic and professional lives. To these children and young people, we would like to give the opportunity to grow and study without burdening their already struggling families, allowing your gift to have a certain impact on the life of someone who will not waste the opportunity offered to them."
+  p2: "Join us and make a difference today, and invest in the new generation of leaders and professionals!"
+  info_title: "Some more information"
+  info_p1: "Kenya nominally boasts a good level of general literacy: a 2022 estimate reports that 83% of young people over 15 can read and write. The reality, which Jessica experiences firsthand every day, is that the literacy level can vary considerably."
+  info_p2: "Many children in the villages we reach cannot access elementary school: the requirement to purchase uniforms and closed black shoes represents an expense that many families cannot afford, causing delays in school enrollment and, consequently, a negative impact on children's learning abilities."
+  secondary_title: "Secondary schools and university: an insurmountable economic obstacle."
+  secondary_p1: "Costs increase dramatically when young people move on to secondary school. While elementary schools require an average expenditure of 30-40 euros per year excluding materials and uniforms, secondary schools can cost up to 700 euros, not counting teaching materials, uniforms, and books. This economic gap excludes many young people from continuing their studies, letting their ambitions fade away."
+  secondary_p2: "Accessing university in Kenya is extremely difficult: you need to have achieved the highest grades in all subjects at the end of secondary school. Even for those who pass this tough selection, the costs of off-campus living, university fees, and school materials represent an additional barrier. Universities are concentrated in major cities, like Nairobi, forcing many students to relocate, with expenses that very few families can afford."
+  fund_title: "The stable fund"
+  fund_p1: "The idea of establishing a stable fund dedicated to supporting the most deserving students responds to the specific needs of high-potential young people in disadvantaged contexts. Together we can ensure that context no longer constitutes a determining factor for the personal, professional, and economic development of those who would like to succeed in life!"
+  fund_p2: "With a simple <strong>one-time voluntary contribution</strong>, you will help us launch this project!"

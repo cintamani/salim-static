@@ -1,0 +1,99 @@
+
+- nome: "Happy N."
+  eta: 14
+  descrizione: Happy (2010) is an orphan who lost her father and lives in a mud house with a tin roof together with her 9 siblings and her mother who is a farmer. One older brother works.
+  foto:
+    src: "/assets/images/foto/sostegni/06-Happy.jpg"
+    alt: "14-year-old girl"
+  casa: 11 people
+  educazione: 6th grade
+  regione: Kilifi
+  esigenze_mediche: no
+
+- nome: "Mussa"
+  eta: 2
+  descrizione: "Mussa is the youngest of 8 siblings. He lives at home with his mother and father who works as a laborer: he works hard, but his salary is not enough for everyone's needs."
+  foto:
+    src: "/assets/images/foto/sostegni/10-Mussa.jpg"
+    alt: "2-year-old boy"
+  casa: 10 people
+  educazione: still too young
+  regione: Kwale
+  esigenze_mediche: no
+
+- nome: "Abgael"
+  eta: 10
+  descrizione: Abgael is an orphan who lost her father and her mother is a farmer. She lives together with her and 5 other sisters, but at home they have nothing, not even mattresses to sleep on.
+  foto:
+    src: "/assets/images/foto/sostegni/11-Abgael.jpg"
+    alt: "10-year-old girl"
+  casa: 7 people
+  educazione: 4th grade
+  regione: Kilifi
+  esigenze_mediche: Medical needs
+
+- nome: "Shuraim"
+  eta: 2
+  descrizione: "Shuraim lives together with his little brother and his parents in a very small house made of mud and straw. The mother doesn't work and the father is a religion teacher supported only by donations."
+  foto:
+    src: "/assets/images/foto/sostegni/13-Shuraim.jpg"
+    alt: "2-year-old boy"
+  casa: 4 people
+  educazione: still too young
+  regione: Kwale
+  esigenze_mediche: no
+
+- nome: "Steven"
+  eta: about 13
+  descrizione: "Steven lost both parents several years ago, and his birth certificate was lost. He has two brothers but they live separately, each with a different relative. He lives together with 6 other cousins with an aunt who takes care of grazing goats and cows. They all sleep on the floor on pieces of cardboard."
+  foto:
+    src: "/assets/images/foto/sostegni/16-Steven.jpg"
+    alt: "13-year-old boy"
+  casa: 8 people
+  educazione: 6th grade
+  regione: Kilifi
+  esigenze_mediche: no
+
+- nome: "Ali"
+  eta: 6
+  descrizione: "Ali lives in a tin and mud shack together with 5 other siblings and his parents. The mother hoes land for other people and the father prepares and sells Mandazi on the roadside, typical fried sweet buns. His family does everything to guarantee him food and education but they can't cover the needs of the whole family."
+  foto:
+    src: "/assets/images/foto/sostegni/18-Ali.jpg"
+    alt: "6-year-old boy"
+  casa: 8 people
+  educazione: 2nd year kindergarten
+  regione: Kwale
+  esigenze_mediche: no
+
+- nome: "Husna"
+  eta: 2
+  descrizione: "This sweet girl lives together with her sister, her mother, and her grandparents, in a humble house made of mud and tin."
+  foto:
+    src: "/assets/images/foto/sostegni/20-Husna.jpg"
+    alt: "2-year-old girl"
+  casa: 5 people
+  educazione: still too young
+  regione: Lunguma
+  esigenze_mediche: no
+
+- nome: "Penina"
+  eta: 2
+  descrizione: "Penina's large family sustains itself exclusively with the occasional work of the father who lives day by day driving a motorcycle taxi that he rents each time the opportunity to take someone arises."
+  foto:
+    src: "/assets/images/foto/sostegni/19-Penina.jpg"
+    alt: "2-year-old girl"
+  casa: 8 people
+  educazione: still too young
+  regione: Lunguma
+  esigenze_mediche: no
+
+- nome: "Mwanalima"
+  eta: 4
+  descrizione: "Mwanalima's family is very poor, they live in an unfinished house, having practically nothing. Their situation is aggravated by the fact that their mother has undiagnosed mental problems, and the girl is starting to show the same problems."
+  foto:
+    src: "/assets/images/foto/sostegni/21-Mwanalima.jpeg"
+    alt: "4-year-old girl"
+  casa: 5 people
+  educazione: still too young
+  regione: Kwale
+  esigenze_mediche: Yes

@@ -1,32 +1,33 @@
+{% assign t = site.data.translations[site.active_lang].main %}
+
 <div id="cookieConsentModal" class="modal fade" tabindex="-1">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header text-white">
-        <h5 class="modal-title">Consenso Cookies</h5>
+        <h5 class="modal-title">{{ t.cookies_modal.title }}</h5>
       </div>
       <div class="modal-body">
         <p>
-          Utilizziamo cookies, anche di terza parte, per migliorare la tua esperienza sul nostro sito.
-          Salva le tue preferenze e scegli se acconsentire a tutti i cookie, oppure chiudi questo banner per continuare solo con i cookie tecnici.
+          {{ t.cookies_modal.description }}
         </p>
         <div class="form-check form-switch mb-3">
           <input class="form-check-input" type="checkbox" id="necessaryCookies" checked disabled>
-          <label class="form-check-label" for="necessaryCookies">Cookies tecnici (sempre attivi)</label>
+          <label class="form-check-label" for="necessaryCookies">{{ t.cookies_modal.technical_cookies }}</label>
         </div>
         <div class="form-check form-switch">
           <input class="form-check-input" type="checkbox" id="marketingCookies">
-          <label class="form-check-label" for="marketingCookies">Cookies con fini di marketing</label>
+          <label class="form-check-label" for="marketingCookies">{{ t.cookies_modal.marketing_cookies }}</label>
         </div>
       </div>
 
       <div class="modal-footer justify-content-between">
         <div>
-          <a href="/cookie_policy.html" class="btn btn-link me-3">Politica dei Cookie</a>
-          <a href="/privacy_policy.html" class="btn btn-link p-0">Privacy Policy</a>
+          <a href="/cookie_policy.html" class="btn btn-link me-3">{{ t.footer.cookie_policy }}</a>
+          <a href="/privacy_policy.html" class="btn btn-link p-0">{{ t.footer.privacy }}</a>
         </div>
         <div>
-          <button type="button" class="btn btn-primary" id="savePreferences">Salva</button>
-          <button type="button" class="btn btn-primary" data-bs-dismiss="modal" aria-label="Close">Chiudi</button>
+          <button type="button" class="btn btn-primary" id="savePreferences">{{ t.buttons.save }}</button>
+          <button type="button" class="btn btn-primary" data-bs-dismiss="modal" aria-label="Close">{{ t.buttons.close }}</button>
         </div>
       </div>
     </div>
@@ -35,6 +36,6 @@
 
 <div id="cookieConsentMinimized" class="mb-3 position-fixed bottom-0 end-0 bg-primary text-white rounded-start shadow transition-margin" style="display: none; cursor: pointer; margin-right: -110px; width: 120px; transition: margin-right 0.3s ease;">
   <div class="p-3">
-    <small>Consenso Cookies</small>
+    <small>{{ t.cookies_modal.title }}</small>
   </div>
 </div>

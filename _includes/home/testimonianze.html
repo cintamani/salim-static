@@ -9,7 +9,7 @@
       aria-current="true"></button>
   </div>
   <div class="carousel-inner">
-    {% for item in site.data.testimonianze %}
+    {% for item in site.data.testimonianze[site.active_lang] %}
       <div class="carousel-item {% if forloop.first == true %}active{% endif %} bg-white bg-opacity-75 px-5 pt-5 pb-3">
         <div class="row">
           <figure class="col-xs-12 d-sm-none">

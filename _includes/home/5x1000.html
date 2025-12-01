@@ -1,13 +1,15 @@
+{% assign t = site.data.translations[site.active_lang].main %}
+
 <div class="p-5 mb-3 text-center bg-body-tertiary rounded-3">
   <svg class="align-middle icon-heart-handshake bi mt-4 mb-3" width="100" height="100">
     <use xlink:href="/assets/images/icons/sprite.svg#heart-handshake"></use>
   </svg>
 
-  <h1 class="text-body-emphasis">Dona il tuo 5x1000</h1>
+  <h1 class="text-body-emphasis">{{ t.five_per_thousand.title }}</h1>
   <p class="col-lg-8 mx-auto fs-3 text-muted">
-    Inserisci nell'apposito campo il numero <em>9010 1180 587</em>
+    {{ t.five_per_thousand.instruction }} <em>9010 1180 587</em>
     <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy" data-clipboard-text="90101180587">
-      <i data-bs-toggle="tooltip" data-bs-title="Copia" class="bi bi-clipboard"></i>
+      <i data-bs-toggle="tooltip" data-bs-title="{{ t.buttons.copy }}" class="bi bi-clipboard"></i>
     </a>
   </p>
 </div>

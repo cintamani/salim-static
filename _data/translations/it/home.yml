@@ -1,0 +1,31 @@
+# Homepage hero section
+hero:
+  line1: "Vuoi essere <i class=\"text-highlight\">sicuro</i> che la tua donazione stia <u class=\"text-highlight\">portando frutto</u> nella vita di qualcuno?"
+  line2_part1: "Ora puoi <u class=\"text-highlight\">vedere chiaramente</u>"
+  line2_part2: "come viene speso <u class=\"text-highlight\">ogni euro</u>"
+  line2_part3: "che doni grazie a"
+  line2_part4: "<u class=\"text-highlight\">foto</u> e <u class=\"text-highlight\">resoconti mensili</u>."
+  transparency_btn: "La nostra missione di trasparenza"
+
+# Story preview section
+story_preview:
+  title: "Una storia d'amore lunga più di 10 anni..."
+  caption: "Jessica e Salim, 2014"
+  p1: "Salim è il nome del primo bambino che Jessica Donadio, una giovanissima ragazza romana in visita in Kenya, tenne in braccio nel lontano 2014."
+  p2: "Dall'epoca, nel cuore di Jessica si è acceso un amore profondo per questo popolo, e nel tempo ha iniziato a mettere in comunicazione i bisogni della popolazione locale con le disponibilità finanziarie di persone sparse in Italia e nel mondo."
+  p3: "Più di 80 persone, in Europa, America e Australia hanno già scelto di fidarsi della trasparenza e della serietà di Jessica. Negli ultimi anni diverse persone hanno deciso di andare a vedere in prima persona il lavoro duro e la dedizione con cui ogni aspetto di questa opera viene portato avanti da Jessica e da suo marito Salimu, e negli ultimi due anni si è formato un team di supporto a questa realtà..."
+
+# Volunteers section
+volunteers_section:
+  main_title: "Se il nostro lavoro ti piace, sostieni l'intera associazione!"
+  become_member:
+    title: "DIVENTA SOCIO"
+    description: "Sostieni la nostra attività oppure mettiti in gioco personalmente e diventa un <b class=\"text-secondary\">volontario</b>"
+  fiscal:
+    title: "AGEVOLAZIONI FISCALI"
+    description: "Sostienici attraverso i tuoi contributi detraibili e deducibili dalle tasse!"
+  partner:
+    title: "DIVENTA PARTNER"
+    description: "Hai una azienda e pensi che il tuo lavoro possa essere utile alla causa di Salim ODV? Insieme possiamo andare più lontano!"
+  donate_5x1000: "Dona il tuo 5x1000"
+  fiscal_code_instruction: "Inserisci nell'apposito campo il numero"

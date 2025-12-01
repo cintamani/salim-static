@@ -1,3 +1,4 @@
+{% assign t = site.data.translations[site.active_lang].main %}
 <nav class="{% if page.url != "/" %} custom-bg-colour {% endif %}  navbar navbar-expand-md navbar-togglable fixed-top" aria-label="Salim ODV" id="menu-bar">
   <div class="container">
     <a class="navbar-brand justify-content-md-start me-2" href="/#">
@@ -11,25 +12,29 @@
     <div class="collapse navbar-collapse d-md-flex justify-content-md-end mt-3" id="navbarSalimOdv">
       <ul class="navbar-nav">
         {% assign stripped_url = page.url | remove_first: '/' | split: '/' | first | remove: '.html' %}
-        {% for item in site.data.nav_links %}
-          {% assign stripped_item_url = item.url | remove_first: '/' | remove_first: '#' %}
-          <li class="nav-item">
-            <a
-              class="nav-link {% if stripped_url != '' and stripped_url == stripped_item_url and page.url != "/" %} active {% endif %}"
-              href="{% if page.url == "/" %}/#{{item.name}}{% else %}{{item.url}}{% endif %}"
-              data-target="{{item.name}}"
-            >
-              {{item.label}}
-            </a>
-          </li>
-        {% endfor %}
         <li class="nav-item">
-          <a
-            class="nav-link {% if stripped_url == 'blog' %} active {% endif %}"
-            href="/blog"
-            data-target="blog"
-          >
-            Blog
+          <a class="nav-link" href="{% if page.url == "/" %}/#home{% else %}/{% endif %}" data-target="home">
+            {{ t.nav.home }}
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{% if page.url == "/" %}/#progetti{% else %}/#progetti{% endif %}" data-target="progetti">
+            {{ t.nav.projects }}
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if stripped_url == 'la-storia' %} active {% endif %}" href="/la-storia" data-target="la-storia">
+            {{ t.nav.history }}
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if stripped_url == 'soci-e-volontari' %} active {% endif %}" href="/soci-e-volontari" data-target="volontari">
+            {{ t.nav.volunteers }}
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if stripped_url == 'blog' %} active {% endif %}" href="/blog" data-target="blog">
+            {{ t.nav.blog }}
           </a>
         </li>
       </ul>

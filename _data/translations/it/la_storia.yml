@@ -1,0 +1,28 @@
+# La Storia page
+page:
+  title: "Associazione Salim ODV - La Storia / Chi siamo"
+  description: "Scopri la storia dell'associazione Salim ODV e come è nata"
+
+header:
+  title: "Una storia d'amore lunga più di 10 anni"
+  subtitle: "Un piccolo seme cresciuto negli anni che ora sostiene più di 80 bambini e le loro famiglie"
+  caption: "Jessica e Salim, 2014"
+
+content:
+  p1: "Salim è il nome del primo bambino che Jessica Donadio, una giovanissima ragazza romana in visita in Kenya, tenne in braccio nel lontano 2014. Dall'epoca, nel cuore di Jessica si è acceso un amore profondo per questo popolo, e nel tempo ha iniziato a mettere in comunicazione i bisogni della popolazione locale con le disponibilità finanziarie di persone sparse in Italia e nel mondo."
+  p2: "Più di 80 persone, in Europa, America e Australia hanno già scelto di fidarsi della trasparenza e della serietà di Jessica. Negli ultimi anni diverse persone hanno deciso di andare a vedere in prima persona il lavoro duro e la dedizione con cui ogni aspetto di questa opera viene portato avanti da Jessica e da suo marito Salimu, e negli ultimi due anni si è formato un team di supporto a questa realtà, formato da esperti di IT, comunicazione, avvocati, e appassionati che hanno portato alla fondazione di questa associazione nel giugno del 2024."
+  p3: "L'associazione ora vuole continuare il lavoro iniziato da Jessica, con le stesse caratteristiche di trasparenza e affidabilità: ogni mese, per ogni donazione ricevuta, viene inviato un resoconto dettagliato di come ogni euro viene speso, con foto annessa riguardante la consegna o la fruizione del servizio."
+  p4: "Così potrai <strong>essere sicuro che il tuo gesto stia portando il frutto che deve</strong>."
+
+founders:
+  title: "Soci fondatori"
+  photo_caption: "Da sinistra: Sara, Carlo, Valentina, Jessica, Piercarlo, Simona. Roma, 2024"
+  intro: "Il team che vedete nella foto è stato personalmente scelto da Jessica (manca in foto solo la webmaster)."
+  location: "Non siamo vicini geograficamente: siamo dislocati nel <strong>nord e centro Italia, Spagna e Kenya</strong>, ma questo per noi non costituisce un problema. Sebbene siamo tutti diversi, ci accomuna un unico, forte, scopo: <strong>permettere ai piccoli gesti di tramutarsi in frutti!</strong>"
+  sara: "<strong>Sara</strong> - la presidente. Esperta in comunicazione, e con anni di lavoro in ambito radiofonico sia come speaker che in amministrazione, è colei che sta dietro a tutta la burocrazia, la comunicazione e che tiene le fila del progetto."
+  carlo: "<strong>Carlo</strong> - il tesoriere. Gestisce da molti anni una libreria e ha alle spalle un passato nei backstage televisivi come operatore; metodico, organizzato e con un'ottima dimestichezza con le valute, è la persona giusta per gestire la parte economica."
+  valentina: "<strong>Valentina</strong> - la segretaria. Addetta alla vendita nel settore food, è la nostra addetta alla gestione di tutto ciò che concerne la vita associativa: soci, iscrizioni, registrazioni, volontari, verbali eccetera..."
+  jessica: "<strong>Jessica</strong> - la vicepresidente. E' colei che ha dato vita a tutto il progetto portandolo avanti per anni in autonomia, e rappresenta la mano operativa dell'associazione in Kenya, ma di fatto è dietro ad ogni idea e pensiero di sviluppo presente e futuro."
+  piercarlo: "<strong>Piercarlo</strong> - il consigliere. Porta avanti la sua azienda agricola, ha a cuore lo sviluppo del territorio e non vediamo l'ora di vederlo all'opera per far fiorire le argillose terre keniote che hanno acqua solo due mesi l'anno... una bella sfida!"
+  simona: "<strong>Simona</strong> - il consigliere. Precisa e scrupolosa impiegata amministrativa, è colei che gestisce la mole di dati, foto, informazioni che l'associazione si trova a dover maneggiare, nonchè la persona responsabile di Whatsapp."
+  cintamani: "<strong>Cintamani</strong> - il consigliere e webmaster. Frizzante ed energica, con più di 15 anni di esperienza nel settore web e IT, è colei che sta dietro al sito e a tutti i sistemi informatici che seguiranno nei mesi a venire."

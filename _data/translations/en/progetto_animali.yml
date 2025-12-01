@@ -1,0 +1,29 @@
+# Animal Project page
+page:
+  title: "Salim ODV Association - Projects - Farm Animals"
+  description: "Salim ODV Association - Farm Animals Project - A fundraiser for purchasing farm animals"
+
+header:
+  title: "Animal Project"
+  subtitle: "The opportunity not only to eat, but to start thinking beyond."
+
+content:
+  main_title: "Donate an animal, change a life"
+  p1: "Anyone who owns an animal knows exactly what we mean. The joy that a pet can bring to a home is indescribable. And when this animal, introduced to a poor family, also becomes a source of sustenance because it provides milk or eggs, the joy multiplies. But the project doesn't stop there. With this gift, we want to instill in Kenyan families the idea that even one, or better yet two ducklings, can become a resource. Unfortunately, in the area where we operate, people live day to day, unable to even think about what they might choose to eat for breakfast tomorrow. Providing an animal in such a situation means allowing people to open their minds and try to see if raising even a few animals could be an opportunity to improve their condition."
+  options_title: "Available options"
+  options_intro: "Considering the space needed to raise them, and the commitment in terms of food and water they require (keep in mind that in Kenya it doesn't rain for about 9 months a year), we propose you support the purchase of:"
+  goat: "Goat"
+  goat_price: "80 euros"
+  chicken: "Hen or chicken"
+  chicken_price: "25 euros"
+  duck: "Duck"
+  duck_price: "20 euros"
+  purchase_info: "We purchase the chosen animal from those available in the surrounding villages, thus supporting the local economy. The purchase cost of each animal can vary based on several factors: sex, breed, size... The indicated price is a maximum: any remaining funds will be used to provide the family with an initial supply of food for the animals themselves."
+  cta_title: "Make a difference today!"
+  cta_text: "Your donation can transform a family's life. Click the button below to follow the instructions and make your donation."
+  thanks: "Thank you for your precious support!"
+
+cards:
+  donate_chicken: "Donate a chicken"
+  donate_duck: "Donate a duck"
+  donate_goat: "Donate a goat"

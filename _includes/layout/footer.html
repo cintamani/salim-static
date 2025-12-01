@@ -1,3 +1,4 @@
+{% assign t = site.data.translations[site.active_lang].main %}
   <footer class="bd-footer text-white footer-bg-colour px-3" data-target-section id="footer">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4">
       <div class="col py-3 ps-4">
@@ -10,9 +11,9 @@
             06 2019 9236
           </p>
           <a class="h5" href="https://wa.me/390620199236" target="_blank">
-            <img class="align-top me-1" src="/assets/images/Digital_Glyph_Green.png" alt="whatsapp" height="20px"></img>06 2019 9236
+            <img class="align-top me-1" src="/assets/images/Digital_Glyph_Green.png" alt="whatsapp" height="20px">06 2019 9236
           </a>
-          <!-- <div class="dropdown mt-3">
+          <div class="dropdown mt-3">
             <button class="btn btn-light dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
               {% if site.active_lang == "it" %}
                 <img src="/assets/images/flags/it.svg" alt="Italiano" width="20" height="20" class="me-1">
@@ -48,7 +49,7 @@
                 </a>
               </li>
             </ul>
-          </div> -->
+          </div>
         </div>
       </div>
 
@@ -62,10 +63,10 @@
               </svg>IT 95Q0 6230 5106 1000 0469 459 56
             </button>
           </p>
-          <p class="h3 mt-3 text-warning">Carta</p>
+          <p class="h3 mt-3 text-warning">{{ t.footer.card }}</p>
           <p class="h6">
             <button type="button" class="btn btn-link p-0 link-light" data-bs-toggle="modal" data-bs-target="#DonateNowModal">
-              <i class="bi-credit-card me-1"></i>Dona online
+              <i class="bi-credit-card me-1"></i>{{ t.footer.donate_online }}
             </button>
           </p>
         </div>
@@ -73,41 +74,41 @@
 
       <div class="col ps-4 py-0 py-sm-3">
         <div class="d-none d-sm-block">
-          <p class="h3 text-warning">Informazioni</p>
+          <p class="h3 text-warning">{{ t.footer.information }}</p>
           <p class="h6">
-            <a class="link-light" href="/cookie_policy.html">Politica dei Cookie</a>
+            <a class="link-light" href="/cookie_policy.html">{{ t.footer.cookie_policy }}</a>
           </p>
           <p class="h6">
-            <a class="link-light" href="/privacy_policy.html">Privacy policy</a>
+            <a class="link-light" href="/privacy_policy.html">{{ t.footer.privacy }}</a>
           </p>
           <p class="h6">
-            <a class="link-light" data-open-cookie-consent="true" href="#">Le tue impostazioni sulla privacy</a>
+            <a class="link-light" data-open-cookie-consent="true" href="#">{{ t.footer.privacy_settings }}</a>
           </p>
           {% if site.active_lang == "it" %}
             <p class="h6">
-              <a class="link-light" href="/agevolazioni_fiscali.html">Agevolazioni fiscali</a>
+              <a class="link-light" href="/agevolazioni_fiscali.html">{{ t.footer.fiscal_benefits }}</a>
             </p>
           {% endif %}
         </div>
         <div class="d-block d-sm-none">
           <p class="h3 text-warning">
             <a class="text-warning" data-bs-toggle="collapse" href="#collapseInformazioni" role="button" aria-expanded="false" aria-controls="collapseInformazioni">
-              Informazioni
+              {{ t.footer.information }}
             </a>
           </p>
           <div class="collapse" id="collapseInformazioni">
             <p class="h6">
-              <a class="link-light" href="/cookie_policy.html">Politica dei Cookie</a>
+              <a class="link-light" href="/cookie_policy.html">{{ t.footer.cookie_policy }}</a>
             </p>
             <p class="h6">
-              <a class="link-light" href="/privacy_policy.html">Privacy policy</a>
+              <a class="link-light" href="/privacy_policy.html">{{ t.footer.privacy }}</a>
             </p>
             <p class="h6">
-              <a class="link-light" data-open-cookie-consent="true" href="#">Le tue impostazioni sulla privacy</a>
+              <a class="link-light" data-open-cookie-consent="true" href="#">{{ t.footer.privacy_settings }}</a>
             </p>
             {% if site.active_lang == "it" %}
               <p class="h6">
-                <a class="link-light" href="/agevolazioni_fiscali.html">Agevolazioni fiscali</a>
+                <a class="link-light" href="/agevolazioni_fiscali.html">{{ t.footer.fiscal_benefits }}</a>
               </p>
             {% endif %}
           </div>
@@ -115,53 +116,53 @@
       </div>
       <div class="col ps-4 ps-sm-0 py-2 py-sm-3">
         <div class="d-none d-sm-block">
-          <p class="h3 text-warning">Documenti</p>
+          <p class="h3 text-warning">{{ t.footer.documents }}</p>
           <p class="h6">
             <a class="link-light" href="/assets/statuto.pdf" download>
-              <i class="me-1 bi bi-download me-1"></i>Statuto
+              <i class="me-1 bi bi-download me-1"></i>{{ t.footer.statute }}
             </a>
           </p>
           <p class="h6">
             <a class="link-light" href="/assets/registrazione_runts.pdf" download>
-              <i class="me-1 bi bi-download me-1"></i>Registrazione RUNTS
+              <i class="me-1 bi bi-download me-1"></i>{{ t.footer.runts_registration }}
             </a>
           </p>
           <p class="h6">
             <a class="link-light" href="/assets/regolamento.pdf" download>
-              <i class="me-1 bi bi-download me-1"></i>Regolamento e codice etico
+              <i class="me-1 bi bi-download me-1"></i>{{ t.footer.regulation }}
             </a>
           </p>
           <p class="h6">
             <a class="link-light" href="/assets/ammissione_a_socio.pdf" download>
-              <i class="me-1 bi bi-download me-1"></i>Modulo di iscrizione a socio
+              <i class="me-1 bi bi-download me-1"></i>{{ t.footer.membership_form }}
             </a>
           </p>
         </div>
         <div class="d-block d-sm-none">
           <p class="h3 text-warning">
             <a class="text-warning" data-bs-toggle="collapse" href="#collapseDocumenti" role="button" aria-expanded="false" aria-controls="collapseDocumenti">
-              Documenti
+              {{ t.footer.documents }}
             </a>
           </p>
           <div class="collapse" id="collapseDocumenti">
             <p class="h6">
               <a class="link-light" href="/assets/statuto.pdf" download>
-                <i class="me-1 bi bi-download me-1"></i>Statuto
+                <i class="me-1 bi bi-download me-1"></i>{{ t.footer.statute }}
               </a>
             </p>
             <p class="h6">
               <a class="link-light" href="/assets/registrazione_runts.pdf" download>
-                <i class="me-1 bi bi-download me-1"></i>Registrazione RUNTS
+                <i class="me-1 bi bi-download me-1"></i>{{ t.footer.runts_registration }}
               </a>
             </p>
             <p class="h6">
               <a class="link-light" href="/assets/regolamento.pdf" download>
-                <i class="me-1 bi bi-download me-1"></i>Regolamento e codice etico
+                <i class="me-1 bi bi-download me-1"></i>{{ t.footer.regulation }}
               </a>
             </p>
             <p class="h6">
               <a class="link-light" href="/assets/ammissione_a_socio.pdf" download>
-                <i class="me-1 bi bi-download me-1"></i>Modulo di iscrizione a socio
+                <i class="me-1 bi bi-download me-1"></i>{{ t.footer.membership_form }}
               </a>
             </p>
           </div>
@@ -169,7 +170,7 @@
       </div>
     </div>
     <div class="row row-cols-1">
-      <hr class="text-white border-3 border-light mb-3"/>
+      <hr class="text-white border-3 border-light mb-3">
       <div class="d-flex mb-2 px-4 flex-sm-row flex-column">
         <div class="me-2 mb-0 align-self-start align-self-sm-center flex-grow-1">
           <div class="d-none d-sm-flex flex-row">

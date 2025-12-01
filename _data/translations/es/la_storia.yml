@@ -1,0 +1,28 @@
+# Nuestra Historia page
+page:
+  title: "Asociación Salim ODV - Nuestra Historia / Quiénes Somos"
+  description: "Descubre la historia de la asociación Salim ODV y cómo nació"
+
+header:
+  title: "Una historia de amor de más de 10 años"
+  subtitle: "Una pequeña semilla que ha crecido a lo largo de los años y ahora apoya a más de 80 niños y sus familias"
+  caption: "Jessica y Salim, 2014"
+
+content:
+  p1: "Salim es el nombre del primer niño que Jessica Donadio, una jovencísima chica romana de visita en Kenia, sostuvo en sus brazos en el lejano 2014. Desde entonces, en el corazón de Jessica se encendió un amor profundo por este pueblo, y con el tiempo comenzó a conectar las necesidades de la población local con las disponibilidades financieras de personas dispersas en Italia y el mundo."
+  p2: "Más de 80 personas en Europa, América y Australia ya han elegido confiar en la transparencia y seriedad de Jessica. En los últimos años, varias personas han decidido ir a ver en primera persona el trabajo duro y la dedicación con la que cada aspecto de esta obra es llevado adelante por Jessica y su esposo Salimu, y en los últimos dos años se ha formado un equipo de apoyo a esta realidad, formado por expertos en IT, comunicación, abogados y entusiastas que llevaron a la fundación de esta asociación en junio de 2024."
+  p3: "La asociación ahora quiere continuar el trabajo iniciado por Jessica, con las mismas características de transparencia y fiabilidad: cada mes, por cada donación recibida, se envía un informe detallado de cómo se gasta cada euro, con una foto adjunta de la entrega o uso del servicio."
+  p4: "Así podrás <strong>estar seguro de que tu gesto está dando los frutos que debe</strong>."
+
+founders:
+  title: "Socios Fundadores"
+  photo_caption: "De izquierda a derecha: Sara, Carlo, Valentina, Jessica, Piercarlo, Simona. Roma, 2024"
+  intro: "El equipo que ves en la foto fue elegido personalmente por Jessica (solo falta la webmaster en la foto)."
+  location: "No estamos cerca geográficamente: estamos distribuidos en el <strong>norte y centro de Italia, España y Kenia</strong>, pero esto no es un problema para nosotros. Aunque todos somos diferentes, compartimos un único y fuerte propósito: <strong>¡convertir los pequeños gestos en frutos!</strong>"
+  sara: "<strong>Sara</strong> - la presidenta. Experta en comunicación, con años de trabajo en radio como locutora y en administración, es quien está detrás de toda la burocracia, la comunicación y quien mantiene unido el proyecto."
+  carlo: "<strong>Carlo</strong> - el tesorero. Ha gestionado una librería durante muchos años y tiene experiencia en los backstages televisivos como operador; metódico, organizado y con excelente familiaridad con las divisas, es la persona adecuada para gestionar la parte económica."
+  valentina: "<strong>Valentina</strong> - la secretaria. Asistente de ventas en el sector alimentario, es nuestra encargada de gestionar todo lo relacionado con la vida asociativa: socios, inscripciones, registros, voluntarios, actas, etc."
+  jessica: "<strong>Jessica</strong> - la vicepresidenta. Es quien dio vida a todo el proyecto llevándolo adelante durante años de forma autónoma, y representa la mano operativa de la asociación en Kenia, pero de hecho está detrás de cada idea y pensamiento de desarrollo presente y futuro."
+  piercarlo: "<strong>Piercarlo</strong> - el consejero. Lleva adelante su granja, se preocupa por el desarrollo del territorio y estamos ansiosos por verlo trabajar para hacer florecer las tierras arcillosas de Kenia que solo tienen agua dos meses al año... ¡todo un desafío!"
+  simona: "<strong>Simona</strong> - la consejera. Empleada administrativa precisa y escrupulosa, es quien gestiona la masa de datos, fotos e información que la asociación tiene que manejar, además de ser la responsable de WhatsApp."
+  cintamani: "<strong>Cintamani</strong> - la consejera y webmaster. Chispeante y enérgica, con más de 15 años de experiencia en el sector web e IT, es quien está detrás del sitio web y todos los sistemas informáticos que vendrán en los próximos meses."

@@ -1,0 +1,22 @@
+# Proyecto Educación page
+page:
+  title: "Asociación Salim ODV - Proyectos - Educación"
+  description: "Asociación Salim ODV - Proyecto Educación - Apoyo a la educación de los niños"
+
+header:
+  title: "Proyecto Educación"
+  subtitle: "¡Ayúdanos a crear un fondo estable dedicado a la educación, desde primaria hasta la universidad!"
+
+content:
+  main_title: "¡Creemos juntos un futuro para los jóvenes apoyándolos ahora!"
+  p1: "Con la ayuda de Jessica y los docentes locales, estamos identificando a los niños y jóvenes que tienen el <strong>potencial</strong> para alcanzar grandes resultados en su vida académica y profesional. A estos niños y jóvenes, nos gustaría darles la oportunidad de crecer y estudiar sin tener que pesar sobre familias ya en dificultades, permitiendo que tu donación tenga un impacto seguro en la vida de alguien que no desperdiciará la oportunidad que se le ofrece."
+  p2: "¡Únete a nosotros y marca la diferencia hoy, e invierte en la nueva generación de líderes y profesionales!"
+  info_title: "Algo más de información"
+  info_p1: "Kenia, nominalmente, presume de un buen nivel de alfabetización general: una estimación de 2022 indica que el 83% de los jóvenes mayores de 15 años saben leer y escribir. La realidad, que Jessica experimenta de primera mano todos los días, es que el nivel de alfabetización puede variar considerablemente."
+  info_p2: "Muchos niños de los pueblos que alcanzamos no pueden acceder a la escuela primaria: la obligación de comprar uniformes y zapatos negros cerrados representa un gasto que muchas familias no pueden permitirse, causando retrasos en la inserción escolar y, en consecuencia, un impacto negativo en las capacidades de aprendizaje de los pequeños."
+  secondary_title: "Las escuelas secundarias y la universidad: un obstáculo económico insuperable."
+  secondary_p1: "Los costos aumentan drásticamente cuando los jóvenes pasan a la escuela secundaria. Si las escuelas primarias requieren un gasto medio de 30-40 euros al año sin contar materiales y uniformes, las secundarias pueden costar hasta 700 euros, sin considerar los materiales didácticos, los uniformes y los libros. Esta brecha económica excluye a muchos jóvenes de continuar sus estudios, dejando que sus ambiciones se desvanezcan."
+  secondary_p2: "Acceder a la universidad en Kenia es extremadamente difícil: es necesario haber obtenido las máximas calificaciones en todas las materias al final de la escuela secundaria. Incluso para quienes superan esta dura selección, los costos de manutención fuera de casa, tasas universitarias y materiales escolares representan una barrera adicional. Las universidades se concentran en las grandes ciudades, como Nairobi, obligando a muchos estudiantes a trasladarse, con gastos que muy pocas familias pueden permitirse."
+  fund_title: "El fondo estable"
+  fund_p1: "La idea de constituir un fondo estable dedicado al apoyo de los estudiantes más meritorios responde a las necesidades específicas de jóvenes con alto potencial en contextos desfavorecidos. ¡Juntos podemos hacer que el contexto ya no sea un factor determinante para el desarrollo personal, profesional y económico de aquellos que quisieran salir adelante en la vida!"
+  fund_p2: "Con una simple <strong>contribución libre única</strong>, ¡nos ayudarás a poner en marcha este proyecto!"

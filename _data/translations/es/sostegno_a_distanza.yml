@@ -1,0 +1,41 @@
+# Apoyo a distancia page
+page:
+  title: "Asociación Salim ODV - Proyectos - Apoyo a distancia"
+  description: "Apoyo a distancia para las familias de Salim ODV"
+
+header:
+  title: "Apoyo a distancia"
+  subtitle: "¿Te gustaría marcar la diferencia en la vida de un niño y su familia? ¡Conviértete en colaborador!"
+
+content:
+  intro_p1: "Desplázate por la página para ver a los niños que buscan un colaborador y leer sus historias. Si encuentras a alguien que toque tu corazón, comienza hoy un apoyo a distancia."
+  intro_p2: "Puedes elegir entre las siguientes dos cuotas. Ten en cuenta que los bienes entregados se calibran según las necesidades reales del niño y su familia, tratando de variar la oferta de alimentos para compensar posibles carencias nutricionales. Reconvertimos en alimentos las cuotas de medicamentos e instrucción en caso de que no se utilicen por completo."
+  
+  plan_40:
+    price: "40€"
+    monthly: "al mes garantizan:"
+    items:
+      - "Comida"
+      - "Productos de higiene y limpieza"
+      - "Ropa"
+      - "Medicamentos y primera asistencia médica"
+  
+  plan_50:
+    price: "50€"
+    monthly: "al mes garantizan:"
+    items:
+      - "Comida"
+      - "Productos de higiene y limpieza"
+      - "Ropa"
+      - "Medicamentos y primera asistencia médica"
+    plus_education: "+ Tasas de escuela pública primaria"
+  
+  options_intro: "A las cuotas anteriores se pueden añadir las siguientes opciones:"
+  option_hygiene: "Opción \"Más higiene\""
+  option_hygiene_desc: "proporciona un paquete de 14 compresas al costo de 2€."
+  option_birthday: "Opción \"Cumpleaños\""
+  option_birthday_desc: "¡dona libremente para su día especial! Te ayudaremos a elegir el regalo más adecuado según sus necesidades reales."
+  thanks: "¡Gracias de antemano por tu compromiso!"
+  
+  years: "años"
+  support_button: "Apoya"

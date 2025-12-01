@@ -1,0 +1,31 @@
+# Homepage hero section
+hero:
+  line1: "¿Quieres estar <i class=\"text-highlight\">seguro</i> de que tu donación está <u class=\"text-highlight\">dando frutos</u> en la vida de alguien?"
+  line2_part1: "Ahora puedes <u class=\"text-highlight\">ver claramente</u>"
+  line2_part2: "cómo se gasta <u class=\"text-highlight\">cada euro</u>"
+  line2_part3: "que donas gracias a"
+  line2_part4: "<u class=\"text-highlight\">fotos</u> e <u class=\"text-highlight\">informes mensuales</u>."
+  transparency_btn: "Nuestra misión de transparencia"
+
+# Story preview section
+story_preview:
+  title: "Una historia de amor de más de 10 años..."
+  caption: "Jessica y Salim, 2014"
+  p1: "Salim es el nombre del primer niño que Jessica Donadio, una jovencísima chica romana de visita en Kenia, sostuvo en sus brazos en el lejano 2014."
+  p2: "Desde entonces, en el corazón de Jessica se encendió un amor profundo por este pueblo, y con el tiempo comenzó a conectar las necesidades de la población local con las disponibilidades financieras de personas dispersas en Italia y el mundo."
+  p3: "Más de 80 personas en Europa, América y Australia ya han elegido confiar en la transparencia y seriedad de Jessica. En los últimos años, varias personas han decidido ir a ver en primera persona el trabajo duro y la dedicación con la que cada aspecto de esta obra es llevado adelante por Jessica y su esposo Salimu, y en los últimos dos años se ha formado un equipo de apoyo a esta realidad..."
+
+# Volunteers section
+volunteers_section:
+  main_title: "¡Si te gusta nuestro trabajo, apoya a toda la asociación!"
+  become_member:
+    title: "HAZTE SOCIO"
+    description: "Apoya nuestra actividad o ponte en juego personalmente y conviértete en <b class=\"text-secondary\">voluntario</b>"
+  fiscal:
+    title: "BENEFICIOS FISCALES"
+    description: "¡Apóyanos a través de tus contribuciones deducibles de impuestos!"
+  partner:
+    title: "HAZTE PARTNER"
+    description: "¿Tienes una empresa y piensas que tu trabajo podría ser útil para la causa de Salim ODV? ¡Juntos podemos llegar más lejos!"
+  donate_5x1000: "Dona tu 5x1000"
+  fiscal_code_instruction: "Ingresa en el campo correspondiente el número"

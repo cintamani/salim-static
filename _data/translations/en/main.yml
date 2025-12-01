@@ -1,0 +1,90 @@
+# Navigation
+nav:
+  home: "Home"
+  projects: "Projects"
+  history: "Our Story"
+  volunteers: "Members & Volunteers"
+  blog: "Blog"
+
+# Buttons
+buttons:
+  donate: "Donate Now"
+  learn_more: "Learn more!"
+  close: "Close"
+  save: "Save"
+  copy: "Copy"
+  copied: "Copied!"
+  support: "Support"
+  subscribe_now: "Subscribe now"
+  discover_how: "Discover how"
+  read_article: "Read article"
+
+# Footer
+footer:
+  contact: "Contact"
+  privacy: "Privacy Policy"
+  cookies: "Cookie Policy"
+  transparency: "Transparency"
+  card: "Card"
+  donate_online: "Donate online"
+  information: "Information"
+  cookie_policy: "Cookie Policy"
+  privacy_settings: "Your privacy settings"
+  fiscal_benefits: "Tax benefits"
+  documents: "Documents"
+  statute: "Statute"
+  runts_registration: "RUNTS Registration"
+  regulation: "Regulation and code of ethics"
+  membership_form: "Membership application form"
+  addressed_to: "Addressed to:"
+
+# Cookie consent modal
+cookies_modal:
+  title: "Cookie Consent"
+  description: "We use cookies, including third-party cookies, to improve your experience on our site. Save your preferences and choose whether to consent to all cookies, or close this banner to continue with only technical cookies."
+  technical_cookies: "Technical cookies (always active)"
+  marketing_cookies: "Marketing cookies"
+
+# Donate modal
+donate_modal:
+  title: "Donate now"
+  bank_transfer: "Bank transfer"
+  bank_transfer_description: "Help us save transaction fees. Make a direct transfer."
+  causale: "Reference"
+  or_use_card: "Or use your card by pressing the button below"
+  donate_5x1000: "Donate your 5x1000"
+  fiscal_code_instruction: "Enter in the appropriate field the number"
+
+# Distance support modal
+support_modal:
+  title: "Donate now"
+  description_1: "Carefully consider the amount you are willing to support monthly. Then proceed with the first payment through the button below, entering the amount and the child's name in the appropriate fields."
+  description_2: "Once we receive your first support, our staff will contact you shortly to provide you with all further information."
+  child_name: "Name of the child to support"
+
+# 5x1000 section
+five_per_thousand:
+  title: "Donate your 5x1000"
+  instruction: "Enter in the appropriate field the number"
+
+# Blog call to action
+blog_cta:
+  become_member:
+    title: "Become a Member"
+    description: "With just €40 per year you support the association and participate in decisions on future projects."
+  participate:
+    title: "Participate in our projects"
+    description: "Different ways you can bear fruit in the life of a child and their family."
+  donate:
+    title: "Make a donation"
+    description: "Support the association and its projects with a donation. You can decide where to allocate it, just"
+    contact_us: "contact us"
+
+# Common
+common:
+  read_more: "Read more"
+  back: "Back"
+  share: "Share"
+  years_old: "years old"
+  people: "people"
+  per_month: "per month guarantee"

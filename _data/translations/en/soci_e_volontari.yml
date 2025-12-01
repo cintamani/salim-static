@@ -1,0 +1,52 @@
+# Members & Volunteers page
+page:
+  title: "Salim ODV Association - Become a Member"
+  description: "Join us and become a member or volunteer of the Salim ODV association"
+
+header:
+  title: "Members and Volunteers"
+  subtitle1: "Do you want to be part of our team in some way?"
+  subtitle2: "Then you are already part of Salim ODV!"
+
+how_to_help:
+  title: "How you can help"
+  intro: "Our association provides for two types of members."
+  supporter:
+    title: "Supporting Member"
+    description: "is someone who chooses to dedicate financial resources to support the association's work, shares their know-how to help it grow, and dedicates time to spreading awareness about our reality;"
+  volunteer:
+    title: "Volunteer Member"
+    description: "is someone who \"gets their hands dirty\", who chooses to personally make themselves available to the association to practically do what needs to be done, being useful even on trips for longer or shorter periods."
+
+kenya_volunteer:
+  title: "Join us as a volunteer in Kenya!"
+  intro: "Do you want to have a life-changing volunteer experience? The village of Chitsanze, about 60 km from Mombasa, is waiting for you! Together with Jessica and her husband Salimu, you can experience a unique reality, making a difference in the lives of many children and local families."
+  what_can_you_do: "What can you do with us?"
+  activities:
+    - "Play with children: Help them grow, learn, and have fun!"
+    - "Take care of the garden and animals: Contribute to maintaining sustainable agriculture that supports the village."
+    - "School support: Help children with homework and prepare educational activities."
+    - "Food distribution: Participate in planning and distributing meals for sponsored children and local families."
+  map_caption: "Where to find the village. Above, a map of Kenya shows where Mombasa is located. Below, the village of Chitsanze, where the association operates through Jessica and her husband Salimu"
+
+costs:
+  title: "Costs for the stay"
+  items:
+    - "The cost of the flight from Italy to Mombasa"
+    - "€10 per day for food, accommodation, drinking water, electricity, and gas"
+    - "€70 per trip for transport from Mombasa International Airport to the village (€140 round trip)"
+    - "Annual membership fee of €40"
+
+become_supporter:
+  title: "Become a supporting member"
+  p1: "For us, YOU are an enormous asset, just like every life we commit to support. Each member of the association has an intrinsic and potential value that we only realize when we start working together. Every person is unique, brings their own story, knowledge, unique experiences... and all of this is gold."
+  p2_part1: "If you have the desire to become a member of the association, we invite you to read the"
+  p2_part2: "and the"
+  p2_part3: "to learn about the purposes, vision, and how Salim ODV operates. Then download the"
+  p2_part4: ", fill it out, and send it to"
+  p2_part5: "along with a presentation of yourself."
+  p3: "We will contact you to talk with you and help you be a valuable support for the entire project."
+  thanks: "Thank you in advance!"
+  statute: "statute"
+  regulations: "internal regulations and code of ethics"
+  application_form: "application form"

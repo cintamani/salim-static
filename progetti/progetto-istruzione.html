@@ -6,6 +6,8 @@ permalink: /progetti/progetto-istruzione
 description: Associazione Salim ODV - Progetto Istruzione - Sostegno all'istruzione per i bambini di Salim ODV
 keywords: progetti, istruzione, scuola, bambini, Salim ODV, associazione salim, africa, kenya, volontariato
 ---
+{% assign s = site.data.translations[site.active_lang].progetto_istruzione %}
+{% assign t = site.data.translations[site.active_lang].main %}
 
 <div class="m-2 m-md-3 m-lg-5 pb-5">
   <div class="bd-main order-1">
@@ -13,65 +15,52 @@ keywords: progetti, istruzione, scuola, bambini, Salim ODV, associazione salim, 
       <div class="container-fluid py-5">
         <div class="row row-cols-md-2 row-cols-1">
           <div class="col pb-md-0 pb-3">
-            <h1 class="display-1 ">Progetto Istruzione</h1>
+            <h1 class="display-1">{{ s.header.title }}</h1>
             <h2 class="display-7 fw-bold lh-base">
-              Aiutaci a creare un fondo stabile dedicato all'istruzione, dalle elementari all'università!
+              {{ s.header.subtitle }}
             </h2>
           </div>
           <div class="col p-0 px-lg-5">
-            <img src="/assets/images/salim_istruzione.png" alt="Progetto animali" class="card-img-top img-fluid">
+            <img src="/assets/images/salim_istruzione.png" alt="{{ s.header.title }}" class="card-img-top img-fluid">
           </div>
         </div>
       </div>
     </div>
     <p class="fs-1">
-      <strong> Creiamo insieme un futuro per i giovani sostenendoli ora! </strong>
+      <strong>{{ s.content.main_title }}</strong>
     </p>
     <p class="fs-4">
-      Con l’aiuto di Jessica e dei docenti locali, stiamo individuando i bambini e i ragazzi che hanno il <strong>potenziale</strong> per poter raggiungere grandi
-      risultati nella vita di studio e professionale. A questi bambini e ragazzi, vorremmo dare la possibilità di crescere e studiare non dovendo gravare
-      sulle famiglie già in difficoltà, consentendo al tuo dono di avere un impatto certo nella vita di qualcuno che non sprecherà l’occasione che gli viene offerta.
+      {{ s.content.p1 }}
     </p>
     <p class="fs-4">
-      Unisciti a noi e fai la differenza oggi, e investi nella nuova generazione di leader e professionisti!
-          </p>
-    <p class="fs-2">
-      <strong>Qualche informazione in più</strong>
-    </p>
-    <p class="fs-4">
-      Il Kenya, nominalmente, vanta un buon livello di alfabetizzazione generale: una stima del 2022 riposta che l’83% dei ragazzi sopra i 15 anni
-      sappiano leggere e scrivere. La realtà dei fatti, che Jessica tocca con mano quotidianamente, è che il livello di alfabetizzazione può variare notevolmente.
-    </p>
-    <p class="fs-4">
-      Molti bambini dei villaggi che raggiungiamo non riescono ad accedere alla scuola elementare: l'obbligo di acquistare divise e scarpe nere chiuse
-      rappresenta una spesa che molte famiglie non possono permettersi, causando ritardi nell'inserimento scolastico e, di conseguenza, un impatto negativo
-      sulle capacità di apprendimento dei piccoli.
-          </p>
-    <p class="fs-2">
-      <strong>Le scuole secondarie e l’università: un ostacolo economico insormontabile.</strong>
-    </p>
-    <p class="fs-4">
-      I costi aumentano drasticamente quando i ragazzi passano alla scuola secondaria. Se le scuole elementari richiedono una spesa media di 30-40 euro all'anno esclusi materiali e divise,
-      le secondarie possono costare fino a 700 euro, senza considerare i materiali didattici, le uniformi e i libri. Questo divario economico esclude molti giovani
-      dal continuare gli studi, lasciando che le loro ambizioni svaniscano.
-     </p>
-    <p class="fs-4">
-      Accedere all'università in Kenya è estremamente difficile: è necessario aver ottenuto il massimo dei voti in tutte le materie alla fine della scuola secondaria.
-      Anche per chi supera questa dura selezione, i costi di mantenimento fuori sede, tasse universitarie e materiali scolastici rappresentano un’ulteriore barriera.
-      Le università si concentrano nelle grandi città, come Nairobi, costringendo molti studenti a trasferirsi, con spese che pochissime famiglie possono permettersi.
-
+      {{ s.content.p2 }}
     </p>
     <p class="fs-2">
-      <strong>Il fondo stabile </strong>
+      <strong>{{ s.content.info_title }}</strong>
     </p>
     <p class="fs-4">
-      L’idea di costituire un fondo stabile dedicato al sostegno degli studenti più meritevoli va a rispondere alle necessità specifiche di giovani ad alto
-      potenziale inseriti in contesti svantaggiosi.
-      Insieme possiamo fare sì che il contesto non costituisca più un fattore determinante per lo sviluppo, personale, professionale ed economico di coloro
-      che vorrebbero farcela nella vita!
+      {{ s.content.info_p1 }}
     </p>
     <p class="fs-4">
-      Con un semplice <strong>contributo libero una tantum</strong>, ci aiuterai ad avviare questo progetto!
+      {{ s.content.info_p2 }}
+    </p>
+    <p class="fs-2">
+      <strong>{{ s.content.secondary_title }}</strong>
+    </p>
+    <p class="fs-4">
+      {{ s.content.secondary_p1 }}
+    </p>
+    <p class="fs-4">
+      {{ s.content.secondary_p2 }}
+    </p>
+    <p class="fs-2">
+      <strong>{{ s.content.fund_title }}</strong>
+    </p>
+    <p class="fs-4">
+      {{ s.content.fund_p1 }}
+    </p>
+    <p class="fs-4">
+      {{ s.content.fund_p2 }}
     </p>
     <div class="text-center mb-1 mt-4">
       <button
@@ -80,8 +69,7 @@ keywords: progetti, istruzione, scuola, bambini, Salim ODV, associazione salim, 
         data-bs-toggle="modal"
         data-bs-target="#DonateNowIstruzioneModal"
       >
-        {{include.additional}}
-        Dona Ora
+        {{ t.buttons.donate }}
       </button>
     </div>
   </div>

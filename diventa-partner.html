@@ -6,6 +6,7 @@ permalink: /diventa-partner
 description: Diventa partner dell'associazione Salim ODV e aiutaci a combattere la povertà
 keywords: diventa partner, aziende, collaborazioni, donazioni, detrazioni fiscali, comunicazione
 ---
+{% assign s = site.data.translations[site.active_lang].diventa_partner %}
 
 <div class="m-2 m-md-3 m-lg-5 pb-5">
   <div class="bd-main order-1">
@@ -13,43 +14,36 @@ keywords: diventa partner, aziende, collaborazioni, donazioni, detrazioni fiscal
       <div class="container-fluid py-5">
         <div class="row row-cols-md-2 row-cols-1">
           <div class="col pb-md-0 pb-3">
-            <h1 class="display-1 ">Diventa Partner</h1>
+            <h1 class="display-1 ">{{ s.header.title }}</h1>
             <h2 class="display-8 fw-bold lh-base">
-              L'opportunità di essere parte del cambiamento
+              {{ s.header.subtitle }}
             </h2>
           </div>
           <div class="col p-0 px-lg-5">
-            <img src="/assets/images/foto/agevolazioni.jpg" alt="Persone che preparano dichiarazioni fiscali" class="card-img-top img-fluid">
+            <img src="/assets/images/foto/agevolazioni.jpg" alt="{{ s.header.title }}" class="card-img-top img-fluid">
           </div>
         </div>
       </div>
     </div>
     <p class="fs-4">
-     Quello che trovi in queste pagine è solo l'inizio di quello che abbiamo in mente. Ci piace sognare in grande e ci piace ancor di più pensare che è possibile condividere questi
-      sogni con aziende che credano nel progetto e siano pronte a metterci la faccia, proprio come abbiamo fatto tutti noi.
+     {{ s.content.intro_p1 }}
     </p>
     <p class="fs-4">
-      Gli sviluppi possibili sono potenzialmente senza fine. Il limite lo troviamo quando lo spirito di collaborazione viene a mancare.
-    Se credi che tu e la tua azienda possiate offrire know-how, capcità, tempo per combattere contro la povertà, ti invitiamo a contattarci.
+      {{ s.content.intro_p2 }}
     </p>
     <p class="fs-4">
-      Siamo alla ricerca di aziende attive nei seguenti campi:
+      {{ s.content.looking_for }}
      </p>
-    <p class="fs-4"><strong>Comunicazione</strong>
+    {% for field in s.content.fields %}
+    <p class="fs-4"><strong>{{ field }}</strong>
     </p>
-    <p class="fs-4"><strong>Programmazione web e app</strong>
-     </p>
-    <p class="fs-4"><strong>Fotografia e video</strong>
-     </p>
-    <p class="fs-4"><strong>Consulenti legali in ambito internazionale</strong>
-    </p>
+    {% endfor %}
     <p class="fs-4">
-      Ricordiamo che le aziende possono beneficiare di detrazioni ancora più vantaggiose: le donazioni sono deducibili al <strong> 100%</strong>, fino ad un importo massimo pari al 10%
-      del reddito complessivo dichiarato. Se la deduzione supera il reddito imponibile, l’eccedenza può essere riportata ai successivi quattro periodi d'imposta
+      {{ s.content.tax_benefits }}
      </p>
 
     <p class="fs-4">
-      <strong>Grazie sin da ora!</strong>
+      <strong>{{ s.content.thanks }}</strong>
     </p>
   </div>
 </div>
