@@ -108,7 +108,12 @@
 
     {% if page.url == "/" %}
       <script src="/assets/js/navbar-hides.js"></script>
-      <script src="/assets/js/menu-highlights.js"></script>
+      <script>
+        jarallax(document.querySelectorAll('.jarallax'), {
+          speed: 0.2,
+          disableParallax: /iPad|iPhone|iPod|Android/
+        });
+      </script>
     {% endif %}
   </body>
 </html>
