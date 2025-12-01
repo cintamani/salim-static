@@ -67,7 +67,7 @@ kramdown:
   syntax_highlighter: rouge
 languages: ['it', 'en', 'es', 'fr', 'de']
 default_lang: 'it'
-exclude_from_localization: ["javascript", "images", "css", "public", "fonts", "assets", "js"]
+exclude_from_localization: ["javascript", "images", "css", "public", "fonts", "/assets", "js"]
 parallel_localization: true
 plugins:
   - jekyll-polyglot

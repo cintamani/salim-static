@@ -80,6 +80,13 @@ blog_cta:
     description: "Support the association and its projects with a donation. You can decide where to allocate it, just"
     contact_us: "contact us"
 
+# Language suggestion modal
+language_modal:
+  title: "Change language"
+  text: "Would you prefer to visit the site in English?"
+  accept: "Yes, go to English version"
+  decline: "No, thanks"
+
 # Common
 common:
   read_more: "Read more"

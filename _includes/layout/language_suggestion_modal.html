@@ -1,0 +1,190 @@
+{% assign t = site.data.translations[site.active_lang].main %}
+<div
+  id="languageSuggestionModal"
+  class="modal fade"
+  tabindex="-1"
+  aria-labelledby="languageSuggestionModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="languageSuggestionModalLabel">
+          <span id="langSuggestionTitle"> {{ t.language_modal.title }} </span>
+        </h5>
+
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+
+      <div class="modal-body text-center">
+        <p id="langSuggestionText" class="fs-5 mb-4">
+          {{ t.language_modal.text }}
+        </p>
+
+        <div class="d-flex justify-content-center gap-3">
+          <a
+            id="langSuggestionYes"
+            href="#"
+            class="btn btn-primary rounded-pill px-4"
+          >
+            <span id="langSuggestionYesText">
+              {{ t.language_modal.accept }}
+            </span>
+          </a>
+
+          <button
+            type="button"
+            class="btn btn-outline-secondary rounded-pill px-4"
+            data-bs-dismiss="modal"
+            id="langSuggestionNo"
+          >
+            <span id="langSuggestionNoText">
+              {{ t.language_modal.decline }}
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const STORAGE_KEY = 'salim_lang_suggestion_dismissed';
+  const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+
+  const currentLang = '{{ site.active_lang }}';
+  const defaultLang = '{{ site.default_lang }}';
+  const availableLangs = {{ site.languages | jsonify }};
+  const baseUrl = '{{ site.baseurl }}';
+  const currentPath = '{{ page.url }}';
+
+  // Modal text translations (loaded from translation files)
+  const modalTexts = {
+    {% for lang in site.languages %}'{{ lang }}': {
+      title: {{ site.data.translations[lang].main.language_modal.title | jsonify }},
+      text: {{ site.data.translations[lang].main.language_modal.text | jsonify }},
+      accept: {{ site.data.translations[lang].main.language_modal.accept | jsonify }},
+      decline: {{ site.data.translations[lang].main.language_modal.decline | jsonify }}
+    }{% unless forloop.last %},
+    {% endunless %}{% endfor %}
+  };
+
+  // Language detection mapping (browser language codes to site languages)
+  const langMapping = {
+    'it': 'it',
+    'it-IT': 'it',
+    'en': 'en',
+    'en-US': 'en',
+    'en-GB': 'en',
+    'en-AU': 'en',
+    'es': 'es',
+    'es-ES': 'es',
+    'es-MX': 'es',
+    'es-AR': 'es',
+    'fr': 'fr',
+    'fr-FR': 'fr',
+    'fr-CA': 'fr',
+    'fr-BE': 'fr',
+    'fr-CH': 'fr',
+    'de': 'de',
+    'de-DE': 'de',
+    'de-AT': 'de',
+    'de-CH': 'de'
+  };
+
+  function getDetectedLanguage() {
+    const browserLangs = navigator.languages || [navigator.language || navigator.userLanguage];
+
+    for (const browserLang of browserLangs) {
+      // Try exact match first
+      if (langMapping[browserLang]) {
+        return langMapping[browserLang];
+      }
+      // Try base language (e.g., 'en' from 'en-US')
+      const baseLang = browserLang.split('-')[0];
+      if (langMapping[baseLang]) {
+        return langMapping[baseLang];
+      }
+    }
+    return null;
+  }
+
+  function shouldShowModal(detectedLang) {
+    // Don't show if detected language matches current language
+    if (detectedLang === currentLang) {
+      return false;
+    }
+
+    // Don't show if detected language is not available
+    if (!availableLangs.includes(detectedLang)) {
+      return false;
+    }
+
+    // Check if dismissed within the last week
+    const dismissedData = localStorage.getItem(STORAGE_KEY);
+    if (dismissedData) {
+      try {
+        const { timestamp, lang } = JSON.parse(dismissedData);
+        const now = Date.now();
+        // If dismissed less than a week ago for this language, don't show
+        if (now - timestamp < ONE_WEEK_MS && lang === detectedLang) {
+          return false;
+        }
+      } catch (e) {
+        // Invalid data, clear it
+        localStorage.removeItem(STORAGE_KEY);
+      }
+    }
+
+    return true;
+  }
+
+  function getTargetUrl(targetLang) {
+    if (targetLang === defaultLang) {
+      return baseUrl + currentPath;
+    }
+    return baseUrl + '/' + targetLang + currentPath;
+  }
+
+  function showLanguageModal(detectedLang) {
+    const texts = modalTexts[detectedLang];
+    if (!texts) return;
+
+    // Update modal content with detected language's text
+    document.getElementById('langSuggestionTitle').textContent = texts.title;
+    document.getElementById('langSuggestionText').textContent = texts.text;
+    document.getElementById('langSuggestionYesText').textContent = texts.accept;
+    document.getElementById('langSuggestionNoText').textContent = texts.decline;
+    document.getElementById('langSuggestionYes').href = getTargetUrl(detectedLang);
+
+    const modal = new bootstrap.Modal(document.getElementById('languageSuggestionModal'));
+    modal.show();
+
+    // Save dismissal when modal is hidden
+    document.getElementById('languageSuggestionModal').addEventListener('hidden.bs.modal', function() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify({
+        timestamp: Date.now(),
+        lang: detectedLang
+      }));
+    }, { once: true });
+  }
+
+  // Run on DOM ready
+  document.addEventListener('DOMContentLoaded', function() {
+    const detectedLang = getDetectedLanguage();
+
+    if (detectedLang && shouldShowModal(detectedLang)) {
+      // Small delay to let page render first
+      setTimeout(function() {
+        showLanguageModal(detectedLang);
+      }, 1000);
+    }
+  });
+})();
+</script>

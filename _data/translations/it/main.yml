@@ -80,6 +80,13 @@ blog_cta:
     description: "Sostieni l'associzione e i suoi progetti con una donazione. Puoi decidere di destinarla dove meglio credi, basta"
     contact_us: "contattarci"
 
+# Language suggestion modal
+language_modal:
+  title: "Cambia lingua"
+  text: "Preferisci visitare il sito in italiano?"
+  accept: "Sì, vai alla versione italiana"
+  decline: "No, grazie"
+
 # Common
 common:
   read_more: "Leggi di più"
