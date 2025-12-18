@@ -53,7 +53,7 @@
   educazione: 6° elementare
   regione: Kilifi
   esigenze_mediche: no
-  
+
 - nome: "Ali"
   eta: 6
   descrizione: "Ali vive in una baracca di lamiera e terra insieme ad altri 5 fratelli e ai suoi genitori. La mamma zappa terreni per conto di altre persone e il papà prepara e vende ai lati della strada i Mandazi, tipici paninetti dolci fritti. La sua famiglia fa di tutto per garantirgli cibo e istruzione ma non arrivano a coprire il fabbisogno di tutta la famiglia."
@@ -63,17 +63,6 @@
   casa: 8 persone
   educazione: 2° asilo
   regione: Kwale
-  esigenze_mediche: no
-
-- nome: "Husna"
-  eta: 2
-  descrizione: "Questa dolce bambina vive insieme a sua sorella, sua madre e i suoi nonni, in una umile casa fatta di terra e lamiera."
-  foto:
-    src: "/assets/images/foto/sostegni/20-Husna.jpg"
-    alt: "bambina di 2 anni"
-  casa: 5 persone
-  educazione: è ancora piccola
-  regione: Lunguma
   esigenze_mediche: no
 
 - nome: "Penina"
@@ -86,7 +75,7 @@
   educazione: è ancora piccola
   regione: Lunguma
   esigenze_mediche: no
-  
+
 - nome: "Mwanalima"
   eta: 4
   descrizione: "La famiglia di Mwanalima è molto povera, vivono in una casa non terminata, senza avere di fatto nulla. La loro situaizone è aggravata dal fatto che la loro mamma ha problemi mentali non ben diagnosticati, e la bambina inizia a manifestare gli stessi problemi"
