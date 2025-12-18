@@ -8,7 +8,7 @@ what_are_cookies:
 
 cookies_used:
   title: "Cookies utilizadas por el sitio web de la Asociacion SALIM ODV y sus finalidades"
-  content: "El sitio web de la Asociacion SALIM ODV, con sede en Via delle Mole 16/C, 00041 Albano Laziale (RM), Italia (\"Asociacion\" o \"Responsable del Tratamiento\"), disponible en salimodv.org (\"Sitio\") utiliza cookies, que sirven para permitir el correcto funcionamiento de ciertas secciones (\"cookies tecnicas\"), para garantizar ciertas funciones de personalizacion (\"cookies funcionales\") y para mejorar la experiencia de navegacion (\"cookies analiticas\")."
+  content: "El sitio web de la Asociacion SALIM ODV, con sede en Via delle Mole 16/C, 00041 Albano Laziale (RM), Italia (\"Asociacion\" o \"Responsable del Tratamiento\"), disponible en <a href=\"https://salimodv.org\">salimodv.org</a> (\"Sitio\") utiliza cookies, que sirven para permitir el correcto funcionamiento de ciertas secciones (\"cookies tecnicas\"), para garantizar ciertas funciones de personalizacion (\"cookies funcionales\") y para mejorar la experiencia de navegacion (\"cookies analiticas\")."
   banner_info: "La primera vez que visite el sitio, se le pedira que acepte (o no acepte) las cookies mediante un banner. Puede negarse a aceptar todas o algunas cookies, o puede cambiar la configuracion de su computadora en cualquier momento para saber cuando recibe cookies o para desactivar la funcion de aceptacion automatica de cookies."
   categories_intro: "El Sitio utiliza las siguientes categorias de cookies:"
 
