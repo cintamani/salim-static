@@ -1,0 +1,80 @@
+title: "Cookie-Richtlinie"
+meta_title: "Verein Salim ODV - Cookie-Richtlinie"
+meta_description: "Verein Salim ODV - Cookie-Richtlinie"
+
+what_are_cookies:
+  title: "Was sind Cookies"
+  content: "Cookies sind kleine Textdateien, die Websites, die von Benutzern besucht werden, an ihre Gerate senden, wo sie gespeichert werden, um bei nachfolgenden Besuchen an dieselben Websites zuruckgesendet zu werden."
+
+cookies_used:
+  title: "Cookies, die von der Website des Vereins SALIM ODV verwendet werden, und ihre Zwecke"
+  content: "Die Website des Vereins SALIM ODV mit Sitz in Via delle Mole 16/C, 00041 Albano Laziale (RM), Italien (\"Verein\" oder \"Verantwortlicher\"), erreichbar unter salimodv.org (\"Website\"), verwendet Cookies, die dazu dienen, das ordnungsgemasse Funktionieren bestimmter Bereiche zu ermoglichen (\"technische Cookies\"), bestimmte Personalisierungsfunktionen zu gewahrleisten (\"funktionale Cookies\") und das Surferlebnis zu verbessern (\"Analyse-Cookies\")."
+  banner_info: "Wenn Sie die Website zum ersten Mal besuchen, werden Sie uber ein Banner aufgefordert, Cookies zu akzeptieren (oder nicht zu akzeptieren). Sie konnen alle oder einige Cookies ablehnen oder Ihre Computereinstellungen jederzeit andern, um zu erfahren, wann Sie Cookies erhalten, oder um die automatische Cookie-Akzeptierungsfunktion zu deaktivieren."
+  categories_intro: "Die Website verwendet die folgenden Cookie-Kategorien:"
+
+cookie_types:
+  technical:
+    title: "Technische und funktionale Cookies (oder Navigations-Cookies, immer aktiv)"
+    content: "Sie tragen zum Funktionieren der Website bei, z. B. um die Navigation zwischen Seiten zu ermoglichen; die Rechtsgrundlage fur die dem Einsatz dieser Cookies zugrunde liegende Verarbeitung ist das Interesse des Verantwortlichen, seinen Benutzern effiziente und gut funktionierende Dienste bereitzustellen; die Aufbewahrungsfrist dieser Cookies lauft vom Datum des ersten Zugriffs auf die Website bis zu ihrer Deaktivierung."
+  analytics:
+    title: "Analyse-Cookies"
+    content: "Sie ermoglichen den Erwerb statistischer Informationen in aggregierter und anonymer Form in Bezug auf Surfmethoden; die Rechtsgrundlage fur die dem Einsatz dieser Cookies zugrunde liegende Verarbeitung ist das Interesse des Verantwortlichen, seinen Benutzern effiziente und gut funktionierende Dienste bereitzustellen; die Aufbewahrungsfrist dieser Cookies lauft vom Datum ihrer Aktivierung auf der Website bis zu ihrer Deaktivierung. Der Benutzer kann diese Cookies nach eigenem Ermessen uber das Banner oder die Tabelle in dieser Richtlinie akzeptieren und deaktivieren."
+
+our_cookies:
+  title: "Liste der von Salim ODV erstellten und verwalteten Cookies"
+  table:
+    cookie_name: "Cookie-Name"
+    purpose: "Zweck"
+    type: "Typ"
+    expiry: "Ablauf"
+  cookies:
+    consent:
+      name: "cookieConsent"
+      purpose: "Registriert die Kenntnisnahme des Cookie-Hinweises"
+      type: "Funktional"
+      expiry: "180 Tage"
+    marketing:
+      name: "marketingCookies"
+      purpose: "Registriert Ihre Praferenz fur Analyse-Cookies"
+      type: "Funktional"
+      expiry: "180 Tage"
+
+third_party_cookies:
+  title: "Cookies von Drittanbietern"
+  table:
+    cookie_name: "Cookie-Name"
+    provider: "Anbieter"
+    purpose: "Zweck"
+    type: "Typ"
+    policy_link: "Link zur Richtlinie"
+  cookies:
+    google:
+      name: "_ga, _gid, _gat"
+      provider: "Google Analytics"
+      purpose: "Statistische Analyse der Website-Nutzung"
+      type: "Analytisch"
+    stripe:
+      name: "__stripe_mid, __stripe_sid"
+      provider: "Stripe"
+      purpose: "Zahlungsverarbeitung und Betrugspravention"
+      type: "Funktional"
+
+google_analytics:
+  title: "Google Analytics"
+  content_1: "Um zu analysieren, wie die Website genutzt wird, wird Google Analytics verwendet, ein Webanalysedienst von Google Inc. (\"Google\"), der Cookies verwendet, die auf Ihrem Computer gespeichert werden, um uns statistische Analysen zu ermoglichen. Die gesammelten Daten liegen in aggregierter Form vor und ermoglichen es nicht, Sie in irgendeiner Weise zu identifizieren."
+  privacy_link_text: "Um die Datenschutzrichtlinie von Google bezuglich des Google Analytics-Dienstes einzusehen, besuchen Sie"
+  policy_link_text: "Um mehr uber die Datenschutzrichtlinien von Google zu erfahren, besuchen Sie"
+  content_2: "Google Analytics-Cookies konnen gemas dem von Google angegebenen Verfahren abgelehnt werden. Wenn Sie die Website also weiterhin nutzen, ohne Google Analytics-Cookies abzulehnen, stimmen Sie der Verarbeitung Ihrer Daten durch Google zu, beschrankt auf die oben genannten Methoden und Zwecke."
+
+disable_cookies:
+  title: "So deaktivieren Sie Cookies"
+  intro: "Nachfolgend finden Sie Links, die erklaren, wie Sie Cookies fur die gangigsten Browser deaktivieren konnen (fur andere Browser, die Sie moglicherweise verwenden, empfehlen wir, diese Option in der Software-Hilfe zu suchen, die normalerweise uber die F1-Taste verfugbar ist):"
+  ie: "Klicken Sie auf die Schaltflache Extras und dann auf Internetoptionen. Klicken Sie auf die Registerkarte Datenschutz und verschieben Sie in den Einstellungen den Schieberegler nach oben, um alle Cookies zu blockieren"
+  chrome: "Klicken Sie auf das Menu in der Browser-Symbolleiste. Wahlen Sie Einstellungen. Klicken Sie auf Erweiterte Einstellungen anzeigen. Klicken Sie im Abschnitt \"Datenschutz\" auf die Schaltflache Inhaltseinstellungen. Wahlen Sie \"Websites daran hindern, Daten festzulegen\"."
+  firefox: "Klicken Sie auf die Menuschaltflache und wahlen Sie Optionen. Wahlen Sie das Panel Datenschutz. Unter Chronikeinstellungen: Wahlen Sie benutzerdefinierte Einstellungen verwenden. Um Cookies zu aktivieren, aktivieren Sie das Kontrollkastchen Cookies von Websites akzeptieren; um sie zu deaktivieren, deaktivieren Sie die Option."
+  safari: "Klicken Sie in der Menuleiste auf \"Safari\" und dann auf \"Einstellungen\". Klicken Sie nun auf \"Datenschutz\" und dann auf \"Details\", um die Website auszuwahlen, und wahlen Sie dann \"Entfernen\"."
+
+more_info: "Fur weitere Informationen daruber, wie der Verein Ihre Daten verarbeitet, lesen Sie bitte die"
+privacy_policy_link: "Datenschutzerklarung"
+
+last_update: "Letzte Aktualisierung: August 2024"
