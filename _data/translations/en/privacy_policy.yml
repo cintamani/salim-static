@@ -1,0 +1,81 @@
+title: "Privacy Policy"
+meta_title: "Salim ODV Association - Privacy Policy"
+meta_description: "Salim ODV Association - Privacy Policy"
+
+intro: "This privacy notice, provided pursuant to Article 13 of Regulation (EU) 2016/679 (hereinafter \"GDPR\" or \"Regulation\"), describes how personal data of users who visit the website (hereinafter, \"Site\") of the SALIM ODV Association, headquartered at Via delle Mole 16/C, 00041 Albano Laziale (RM), Italy (referred to in this notice as \"we\" or \"Association\" or \"Data Controller\"), accessible online at: salimodv.org"
+
+intro_disclaimer: "This privacy notice does not apply to other websites, pages or online services accessible through hyperlinks that may be published on the sites but refer to external resources outside the Committee's domain."
+
+data_controller:
+  title: "Data Controller"
+  content: "SALIM ODV, headquartered at Via delle Mole 16/C, 00041 Albano Laziale (RM), Italy."
+
+data_types:
+  title: "Types of Data Processed"
+  intro: "The Data Controller will process the following categories of data:"
+
+  navigation:
+    title: "a. Navigation Data"
+    content: "While browsing the Site, we acquire certain personal data whose transmission is implicit in the use of Internet communication protocols, such as IP addresses, URI/URL (Uniform Resource Identifier/Locator) addresses of requested resources, the time of the request and other parameters related to the user's operating system and computer environment."
+    purposes_intro: "Such data, necessary for the use of web services, is also processed for the purpose of:"
+    purpose_1: "obtaining statistical information on the use of services (most visited pages, number of visitors by time slot or day, geographical areas of origin, etc.);"
+    purpose_2: "monitoring the proper functioning of the services offered."
+    retention: "Navigation data may be retained for a maximum of 90 days (except for any need to investigate crimes by judicial authorities)."
+
+  user_data:
+    title: "b. Data Provided by the User"
+    content: "When the user sends messages to the Association at the contact details indicated in the contact sections, or when filling out and submitting forms on the Site, the Association acquires and processes the user's contact data necessary to respond, as well as personal data included in communications."
+    additional: "Specific notices may also be made available in relation to specific initiatives (e.g., for volunteering activities, participation in events, etc.)."
+
+  donation_data:
+    title: "c. Donation Data"
+    content: "When you make a donation to the Association through various forms of support and/or participate in specific projects, the Association acquires and processes the data necessary to issue a receipt (name and surname, gender, age or date of birth, nationality, tax identification number or VAT number, address, payment data, etc.), considering the tax deductibility of donations in cash or in kind."
+
+  cookies:
+    title: "d. Cookies and Other Tracking Systems"
+    content: "For data processing through cookies, please refer to the"
+    link_text: "Cookie Policy"
+
+  social_media:
+    title: "e. Information on Personal Data Processing Through Social Media Platforms"
+    content: "The Association also processes personal data provided by users (for example, name, username, profile photo, depending on account settings) through social media pages dedicated to the Association (Facebook, Instagram, etc.), in pursuit of its institutional purposes, exclusively to manage interactions with users (comments, public posts, etc.) and to protect the Association in case of abuse, in compliance with current regulations. Providing data is optional; however, without it, we may not be able to interact with you or provide feedback. For the processing of personal data carried out by the managers of such Social Media platforms, please refer to the information provided by them through their respective privacy policies."
+
+legal_basis:
+  title: "Legal Basis for Processing and Data Retention Period"
+  item_a: "The processing of your personal data is necessary to give you access to our Site and its features, as well as to respond to your requests (e.g., participation in initiatives or specific projects; requests for information; subscription to our newsletter; etc.). The legal basis for this processing is the execution of requests by the user. The data retention period for this processing equals the time necessary to fulfill the request."
+  item_b: "The processing of your personal data is also necessary to accept your donations through various forms of support and to manage all related phases, including administrative and accounting. The legal basis for this processing is the execution of a contract and/or pre-contractual measures requested for it. The retention period of your data equals the time necessary to allow you to make donations and to comply with contractual and legal obligations."
+  item_c: "We may also process data collected through the Site to prevent or control unlawful conduct or to protect and enforce rights. For example, we may use your data to prevent violation of our intellectual property rights (e.g., trademark counterfeiting) or theft (including, for example, credit card cloning) or other offenses, in accordance with applicable law. The legal basis for this processing is the legitimate interest of the Data Controller. The retention period of your data equals the time reasonably necessary to enforce our rights from the moment we become aware of the offense or its potential commission."
+
+data_provision:
+  title: "Nature of Personal Data Provision"
+  content: "The provision of data for the purposes indicated in points a), b) and c) of the previous paragraph is strictly functional to their pursuit and is therefore mandatory. Any refusal on your part to such processing would therefore result in the objective impossibility for the Data Controller to give you access to the Site, to respond to your requests or to accept your donation and fulfill the related obligations provided by law."
+
+data_location:
+  title: "Where Your Data Is Processed"
+  content_1: "Data will be processed and stored at the headquarters of the Association and its suppliers within the European Union, as well as communicated to volunteers active in Kenya, where the Association operates to bring the financial support received from donations and other forms of support."
+  content_2: "Furthermore, data will be communicated to suppliers who are also based in countries outside the European Union. Such data transfers are authorized alternatively on the basis of: (i) an adequacy decision of the third country to which the data is transferred, adopted by the European Commission pursuant to Article 45 of the GDPR; or (ii) the appropriate or suitable safeguards provided for in Articles 46, 47 and 49 of the GDPR (such as standard contractual clauses approved by the European Commission, binding corporate rules, contractual or agreed guarantees provided by the controllers involved, or derogations from the transfer prohibition applicable in specific situations)."
+
+data_sharing:
+  title: "Who We Share Your Data With"
+  intro: "Within the scope of the aforementioned purposes, data may be communicated to:"
+  item_1: "our collaborators and volunteers, within the scope of assigned duties and based on specific authorization for data processing, consistent with the purpose of the processing;"
+  item_2: "all those natural and/or legal persons entitled to receive personal data of data subjects as Data Processors pursuant to Article 28 of the GDPR (e.g., consulting company responsible for the management and maintenance of the website, external consultants, etc.) or independent data controllers, when communication is necessary or functional for the execution of pre-contractual measures and/or the contract, in the manner and for the purposes illustrated above (e.g., payment institutions, insurance companies)."
+  public_entities: "Furthermore, your data may be communicated to public entities also following inspections or audits (e.g., Tax Administration, Tax Police, Judicial Authorities, etc.)."
+  legal_entities: "Finally, they may be communicated to entities that can access your data by virtue of provisions of law or secondary or EU regulations (e.g., Data Protection Authority)."
+
+your_rights:
+  title: "Your Rights"
+  content_1: "You can contact the Association to request access to your personal data, rectification, deletion or restriction of processing, to object to processing and request data portability; you can also withdraw consent at any time (this will not affect the lawfulness of processing based on consent given before withdrawal), following the instructions indicated in the message you receive or by contacting the Data Controller at the addresses indicated below."
+  content_2: "When exercising the right of access, you have the right to know whether your data is being processed, what the purpose of the processing is, what categories of data are processed, who are the recipients or categories of recipients to whom your data is communicated (and, if they reside in a third country, on the basis of what guarantees), the retention period of your data (or the criteria for determining the retention period), whether automated processing is taking place (for example through profiling) and what the logic of such processing is, the origin of the data (if not initially collected by the Committee)."
+  content_3: "Pursuant to Articles 15-22, GDPR, by writing to <a href=\"mailto:segreteria@salimodv.org\">segreteria@salimodv.org</a> you can request the complete and updated list of data processors, as well as exercise all the rights listed above, request information about the persons authorized to process your data."
+  content_4: "You also have the right to lodge a complaint with the supervisory authority (Data Protection Authority - <a href=\"https://www.garanteprivacy.it\" target=\"_blank\">www.garanteprivacy.it</a>) to enforce your rights."
+
+changes:
+  title: "Changes to This Privacy Notice"
+  content: "Our privacy notice may be subject to changes from time to time, which we will notify you of. We will also publish an updated version on our website. Please check our website periodically for updates."
+
+minors:
+  title: "Minors"
+  content: "Browsing our Site is allowed for all users over fourteen years of age, provided that for specific processing (e.g., registration as a member), reference is made to the relevant privacy notices provided separately."
+
+last_update: "Last update: August 2024"

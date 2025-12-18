@@ -1,0 +1,80 @@
+title: "Politica dei Cookie"
+meta_title: "Associazione Salim ODV - Politica dei Cookie"
+meta_description: "Associazione Salim ODV - Politica dei Cookie"
+
+what_are_cookies:
+  title: "Cosa sono i cookie"
+  content: "I cookie sono piccoli file di testo che i siti visitati dagli utenti inviano ai loro terminali, dove vengono memorizzati per essere poi ritrasmessi agli stessi siti in occasione delle visite successive."
+
+cookies_used:
+  title: "Cookie utilizzati dal sito dell'Associazione SALIM ODV e loro finalità"
+  content: "Il sito dell'Associazione SALIM ODV, con sede in via delle Mole 16/C, 00041 Albano Laziale (RM) (\"Associazione\" o \"Titolare\"), reperibile al seguente link <a href=\"https://salimodv.org\">salimodv.org</a>, (\"Sito\") utilizza cookie, che hanno la funzione di consentire il corretto funzionamento di alcune sezioni (\"cookie tecnici\"), per garantire talune funzionalità di personalizzazione (\"cookie funzionali\") e migliorare l'esperienza di navigazione (\"cookie analitici\")."
+  banner_info: "La prima volta che visiterai il sito, ti verrà chiesto di accettare (o non accettare) i cookie mediante un banner. Potrai rifiutarti di accettare tutti o alcuni cookie o potrai modificare, anche in seguito, le impostazioni del tuo computer in modo da sapere quando ricevi cookie o da poter disattivare la funzione di accettazione automatica dei cookie."
+  categories_intro: "Il Sito utilizza le seguenti categorie di cookie:"
+
+cookie_types:
+  technical:
+    title: "Cookie tecnici e funzionali (o di navigazione, sempre attivi)"
+    content: "Contribuiscono al funzionamento del Sito, ad esempio per consentire di navigare tra le pagine; la base giuridica del trattamento sottostante all'uso di questi cookie è l'interesse del Titolare di fornire servizi efficienti e ben funzionanti ai propri utenti; il periodo di conservazione di questi cookie decorre dalla data di primo accesso al sito fino a quando sono disabilitati."
+  analytics:
+    title: "Cookie analitici"
+    content: "Consentono di acquisire informazioni statistiche in forma aggregata ed anonima, in relazione alle modalità di navigazione; la base giuridica del trattamento sottostante all'uso di questi cookie è l'interesse del Titolare di fornire servizi efficienti e ben funzionanti ai propri utenti; il periodo di conservazione di questi cookie decorre dalla data in cui sono abilitati al sito fino a quando sono disabilitati. L'utente può accettare e disabilitare – a proprio piacimento – questi cookie utilizzando il banner o la tabella presente in questa policy."
+
+our_cookies:
+  title: "Elenco dei cookie creati e gestiti da Salim ODV"
+  table:
+    cookie_name: "Nome Cookie"
+    purpose: "Scopo"
+    type: "Tipo"
+    expiry: "Scadenza"
+  cookies:
+    consent:
+      name: "cookieConsent"
+      purpose: "Registra la presa visione dell'informativa sui cookie"
+      type: "Funzionale"
+      expiry: "180 giorni"
+    marketing:
+      name: "marketingCookies"
+      purpose: "Registra la tua preferenza sui cookie analitici"
+      type: "Funzionale"
+      expiry: "180 giorni"
+
+third_party_cookies:
+  title: "Cookie gestiti da terzi"
+  table:
+    cookie_name: "Nome Cookie"
+    provider: "Fornitore"
+    purpose: "Scopo"
+    type: "Tipo"
+    policy_link: "Link alla policy"
+  cookies:
+    google:
+      name: "_ga, _gid, _gat"
+      provider: "Google Analytics"
+      purpose: "Analisi statistica dell'utilizzo del sito"
+      type: "Analitico"
+    stripe:
+      name: "__stripe_mid, __stripe_sid"
+      provider: "Stripe"
+      purpose: "Elaborazione pagamenti e prevenzione frodi"
+      type: "Funzionale"
+
+google_analytics:
+  title: "Google Analytics"
+  content_1: "Al fine di analizzare le modalità di utilizzo del Sito, viene utilizzato Google Analytics, un servizio di analisi web fornito da Google Inc. (\"Google\") che utilizza dei cookie che vengono depositati sul tuo computer per consentirci analisi statistiche. I dati raccolti sono in forma aggregata e non consentono in alcun modo di identificarti."
+  privacy_link_text: "Per consultare l'informativa privacy di Google relativa al servizio Google Analytics, visita il sito internet"
+  policy_link_text: "Per conoscere le norme sulla privacy di Google, visita il sito internet"
+  content_2: "I cookie di Google Analytics possono essere rifiutati secondo la procedura indicata da Google. Pertanto, se continui ad utilizzare il Sito senza rifiutare i cookie di Google Analytics, acconsenti al trattamento dei tuoi dati da parte di Google, limitatamente alle modalità e finalità sopraindicate."
+
+disable_cookies:
+  title: "Come disattivare i cookie"
+  intro: "Di seguito troverai i link che spiegano come disabilitare i cookie per i browser più diffusi (per altri browser eventualmente utilizzati suggeriamo di cercare questa opzione nell'help del software normalmente disponibile attraverso il tasto F1):"
+  ie: "Fare clic sul pulsante Strumenti e quindi su Opzioni Internet. Fare clic sulla scheda Privacy e in Impostazioni spostare il dispositivo di scorrimento verso l'alto per bloccare tutti i cookie"
+  chrome: "Fai clic sul menu nella barra degli strumenti del browser. Seleziona Impostazioni. Fai clic su Mostra impostazioni avanzate. Nella sezione \"Privacy\", fai clic sul pulsante Impostazioni contenuti. Seleziona \"Impedisci ai siti di impostare dati\"."
+  firefox: "Fare clic sul pulsante dei menu e selezionare Opzioni. Selezionare il pannello Privacy. Alla voce Impostazioni cronologia: selezionare utilizza impostazioni personalizzate. Per attivare i cookie, contrassegnare la voce Accetta i cookie dai siti; per disattivarli togliere il contrassegno dalla voce."
+  safari: "Fare click nella barra dei menu su \"Safari\", poi su \"Preferenze\". Ora fai click su \"Privacy\", poi su \"Dettagli\" per selezionare il sito, quindi seleziona \"Rimuovi\"."
+
+more_info: "Per maggiori informazioni su come l'Associazione tratta i tuoi dati consulta la"
+privacy_policy_link: "privacy policy"
+
+last_update: "Ultimo aggiornamento: agosto 2024"

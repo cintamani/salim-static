@@ -1,0 +1,81 @@
+title: "Datenschutzerklarung"
+meta_title: "Verein Salim ODV - Datenschutzerklarung"
+meta_description: "Verein Salim ODV - Datenschutzerklarung"
+
+intro: "Diese Datenschutzerklarung, bereitgestellt gemas Artikel 13 der Verordnung (EU) 2016/679 (im Folgenden \"DSGVO\" oder \"Verordnung\"), beschreibt, wie personenbezogene Daten von Nutzern verarbeitet werden, die die Website (im Folgenden \"Website\") des Vereins SALIM ODV besuchen, mit Sitz in Via delle Mole 16/C, 00041 Albano Laziale (RM), Italien (in dieser Erklarung als \"wir\" oder \"Verein\" oder \"Verantwortlicher\" bezeichnet), online erreichbar unter: salimodv.org"
+
+intro_disclaimer: "Diese Datenschutzerklarung gilt nicht fur andere Websites, Seiten oder Online-Dienste, die uber Hyperlinks erreichbar sind, die moglicherweise auf den Websites veroffentlicht werden, aber auf externe Ressourcen ausserhalb der Domain des Komitees verweisen."
+
+data_controller:
+  title: "Verantwortlicher"
+  content: "SALIM ODV, mit Sitz in Via delle Mole 16/C, 00041 Albano Laziale (RM), Italien."
+
+data_types:
+  title: "Arten der verarbeiteten Daten"
+  intro: "Der Verantwortliche wird die folgenden Datenkategorien verarbeiten:"
+
+  navigation:
+    title: "a. Navigationsdaten"
+    content: "Beim Surfen auf der Website erfassen wir bestimmte personenbezogene Daten, deren Ubertragung bei der Verwendung von Internet-Kommunikationsprotokollen implizit ist, wie IP-Adressen, URI/URL-Adressen (Uniform Resource Identifier/Locator) der angeforderten Ressourcen, der Zeitpunkt der Anfrage und andere Parameter im Zusammenhang mit dem Betriebssystem und der Computerumgebung des Benutzers."
+    purposes_intro: "Solche Daten, die fur die Nutzung von Webdiensten erforderlich sind, werden auch zu folgenden Zwecken verarbeitet:"
+    purpose_1: "Erhalt statistischer Informationen uber die Nutzung der Dienste (meistbesuchte Seiten, Anzahl der Besucher nach Zeitfenster oder Tag, geografische Herkunftsgebiete usw.);"
+    purpose_2: "Uberwachung des ordnungsgemassen Funktionierens der angebotenen Dienste."
+    retention: "Navigationsdaten konnen maximal 90 Tage aufbewahrt werden (ausser bei etwaiger Notwendigkeit zur Untersuchung von Straftaten durch Justizbehorden)."
+
+  user_data:
+    title: "b. Vom Benutzer bereitgestellte Daten"
+    content: "Wenn der Benutzer Nachrichten an den Verein uber die in den Kontaktbereichen angegebenen Kontaktdaten sendet oder Formulare auf der Website ausfullt und absendet, erfasst und verarbeitet der Verein die Kontaktdaten des Benutzers, die zur Beantwortung erforderlich sind, sowie personenbezogene Daten, die in den Mitteilungen enthalten sind."
+    additional: "Spezifische Hinweise konnen auch in Bezug auf spezifische Initiativen bereitgestellt werden (z. B. fur Freiwilligenaktivitaten, Teilnahme an Veranstaltungen usw.)."
+
+  donation_data:
+    title: "c. Spendendaten"
+    content: "Wenn Sie eine Spende an den Verein durch verschiedene Formen der Unterstutzung leisten und/oder an bestimmten Projekten teilnehmen, erfasst und verarbeitet der Verein die fur die Ausstellung einer Quittung erforderlichen Daten (Name und Nachname, Geschlecht, Alter oder Geburtsdatum, Staatsangehorigkeit, Steuernummer oder Umsatzsteuer-Identifikationsnummer, Adresse, Zahlungsdaten usw.), unter Berucksichtigung der steuerlichen Absetzbarkeit von Geld- oder Sachspenden."
+
+  cookies:
+    title: "d. Cookies und andere Tracking-Systeme"
+    content: "Fur die Datenverarbeitung durch Cookies verweisen wir auf die"
+    link_text: "Cookie-Richtlinie"
+
+  social_media:
+    title: "e. Informationen zur Verarbeitung personenbezogener Daten uber Social-Media-Plattformen"
+    content: "Der Verein verarbeitet auch personenbezogene Daten, die von Benutzern bereitgestellt werden (z. B. Name, Benutzername, Profilfoto, je nach Kontoeinstellungen) uber Social-Media-Seiten, die dem Verein gewidmet sind (Facebook, Instagram usw.), im Rahmen seiner institutionellen Zwecke, ausschliesslich um Interaktionen mit Benutzern zu verwalten (Kommentare, offentliche Beitrage usw.) und den Verein im Falle von Missbrauch zu schutzen, in Ubereinstimmung mit den geltenden Vorschriften. Die Bereitstellung von Daten ist freiwillig; ohne sie sind wir jedoch moglicherweise nicht in der Lage, mit Ihnen zu interagieren oder Ihnen Feedback zu geben. Fur die Verarbeitung personenbezogener Daten durch die Betreiber solcher Social-Media-Plattformen verweisen wir auf die von ihnen uber ihre jeweiligen Datenschutzrichtlinien bereitgestellten Informationen."
+
+legal_basis:
+  title: "Rechtsgrundlage der Verarbeitung und Datenaufbewahrungsfrist"
+  item_a: "Die Verarbeitung Ihrer personenbezogenen Daten ist erforderlich, um Ihnen Zugang zu unserer Website und ihren Funktionen zu gewahren sowie auf Ihre Anfragen zu antworten (z. B. Teilnahme an Initiativen oder bestimmten Projekten; Informationsanfragen; Anmeldung zu unserem Newsletter usw.). Die Rechtsgrundlage fur diese Verarbeitung ist die Erfullung von Anfragen durch den Benutzer. Die Datenaufbewahrungsfrist fur diese Verarbeitung entspricht der Zeit, die zur Erfullung der Anfrage erforderlich ist."
+  item_b: "Die Verarbeitung Ihrer personenbezogenen Daten ist auch erforderlich, um Ihre Spenden durch verschiedene Formen der Unterstutzung anzunehmen und alle damit verbundenen Phasen zu verwalten, einschliesslich administrativer und buchhalterischer. Die Rechtsgrundlage fur diese Verarbeitung ist die Erfullung eines Vertrags und/oder vorvertraglicher Massnahmen, die dafur angefordert wurden. Die Aufbewahrungsfrist Ihrer Daten entspricht der Zeit, die erforderlich ist, um Ihnen Spenden zu ermoglichen und vertragliche und gesetzliche Verpflichtungen zu erfullen."
+  item_c: "Wir konnen auch uber die Website gesammelte Daten verarbeiten, um rechtswidriges Verhalten zu verhindern oder zu kontrollieren oder um Rechte zu schutzen und durchzusetzen. Beispielsweise konnen wir Ihre Daten verwenden, um die Verletzung unserer geistigen Eigentumsrechte (z. B. Markenfalschung) oder Diebstahl (einschliesslich z. B. Kreditkartenklonung) oder andere Straftaten zu verhindern, in Ubereinstimmung mit geltendem Recht. Die Rechtsgrundlage fur diese Verarbeitung ist das berechtigte Interesse des Verantwortlichen. Die Aufbewahrungsfrist Ihrer Daten entspricht der vernunftigerweise erforderlichen Zeit, um unsere Rechte ab dem Zeitpunkt durchzusetzen, an dem wir von der Straftat oder ihrer moglichen Begehung Kenntnis erlangen."
+
+data_provision:
+  title: "Art der Bereitstellung personenbezogener Daten"
+  content: "Die Bereitstellung von Daten fur die in den Punkten a), b) und c) des vorherigen Absatzes genannten Zwecke ist streng funktional fur deren Erreichung und daher obligatorisch. Jede Weigerung Ihrerseits zu einer solchen Verarbeitung wurde daher die objektive Unmoglichkeit fur den Verantwortlichen bedeuten, Ihnen Zugang zur Website zu gewahren, auf Ihre Anfragen zu antworten oder Ihre Spende anzunehmen und die damit verbundenen gesetzlichen Verpflichtungen zu erfullen."
+
+data_location:
+  title: "Wo Ihre Daten verarbeitet werden"
+  content_1: "Daten werden am Sitz des Vereins und seiner Lieferanten innerhalb der Europaischen Union verarbeitet und gespeichert sowie an aktive Freiwillige in Kenia ubermittelt, wo der Verein tatig ist, um die aus Spenden und anderen Formen der Unterstutzung erhaltene finanzielle Hilfe zu uberbringen."
+  content_2: "Daruber hinaus werden Daten an Lieferanten ubermittelt, die auch in Landern ausserhalb der Europaischen Union ansassig sind. Solche Datenubertragungen sind alternativ auf der Grundlage von: (i) einem Angemessenheitsbeschluss des Drittlandes, in das die Daten ubertragen werden, der von der Europaischen Kommission gemas Artikel 45 der DSGVO erlassen wurde; oder (ii) den angemessenen oder geeigneten Garantien gemas den Artikeln 46, 47 und 49 der DSGVO (wie von der Europaischen Kommission genehmigte Standardvertragsklauseln, verbindliche Unternehmensregeln, vertragliche oder vereinbarte Garantien der beteiligten Verantwortlichen oder Ausnahmen vom Ubertragungsverbot, die in bestimmten Situationen gelten) genehmigt."
+
+data_sharing:
+  title: "Mit wem wir Ihre Daten teilen"
+  intro: "Im Rahmen der oben genannten Zwecke konnen Daten ubermittelt werden an:"
+  item_1: "unsere Mitarbeiter und Freiwilligen, im Rahmen der zugewiesenen Aufgaben und auf der Grundlage einer spezifischen Genehmigung zur Datenverarbeitung, in Ubereinstimmung mit dem Zweck der Verarbeitung;"
+  item_2: "alle naturlichen und/oder juristischen Personen, die berechtigt sind, personenbezogene Daten von betroffenen Personen als Auftragsverarbeiter gemas Artikel 28 der DSGVO zu erhalten (z. B. Beratungsunternehmen, das fur die Verwaltung und Wartung der Website verantwortlich ist, externe Berater usw.) oder unabhangige Verantwortliche, wenn die Mitteilung fur die Durchfuhrung vorvertraglicher Massnahmen und/oder des Vertrags erforderlich oder funktional ist, in der Art und fur die oben dargestellten Zwecke (z. B. Zahlungsinstitute, Versicherungsgesellschaften)."
+  public_entities: "Daruber hinaus konnen Ihre Daten auch an offentliche Stellen nach Inspektionen oder Prufungen ubermittelt werden (z. B. Finanzverwaltung, Steuerpolizei, Justizbehorden usw.)."
+  legal_entities: "Schliesslich konnen sie an Stellen ubermittelt werden, die kraft gesetzlicher Bestimmungen oder sekundarer oder EU-Vorschriften Zugang zu Ihren Daten haben (z. B. Datenschutzbehorde)."
+
+your_rights:
+  title: "Ihre Rechte"
+  content_1: "Sie konnen den Verein kontaktieren, um Zugang zu Ihren personenbezogenen Daten, Berichtigung, Loschung oder Einschrankung der Verarbeitung zu beantragen, um der Verarbeitung zu widersprechen und Datenubertragbarkeit zu beantragen; Sie konnen auch die Einwilligung jederzeit widerrufen (dies beruhrt nicht die Rechtmassigkeit der Verarbeitung auf der Grundlage der vor dem Widerruf erteilten Einwilligung), indem Sie den Anweisungen in der erhaltenen Nachricht folgen oder den Verantwortlichen unter den unten angegebenen Adressen kontaktieren."
+  content_2: "Bei Ausubung des Auskunftsrechts haben Sie das Recht zu erfahren, ob Ihre Daten verarbeitet werden, was der Zweck der Verarbeitung ist, welche Datenkategorien verarbeitet werden, wer die Empfanger oder Kategorien von Empfangern sind, an die Ihre Daten ubermittelt werden (und, wenn sie in einem Drittland ansassig sind, auf der Grundlage welcher Garantien), die Aufbewahrungsfrist Ihrer Daten (oder die Kriterien zur Bestimmung der Aufbewahrungsfrist), ob eine automatisierte Verarbeitung stattfindet (z. B. durch Profiling) und was die Logik einer solchen Verarbeitung ist, die Herkunft der Daten (falls nicht ursprunglich vom Komitee erhoben)."
+  content_3: "Gemas den Artikeln 15-22 der DSGVO konnen Sie durch Schreiben an <a href=\"mailto:segreteria@salimodv.org\">segreteria@salimodv.org</a> die vollstandige und aktualisierte Liste der Auftragsverarbeiter anfordern sowie alle oben aufgefuhrten Rechte ausuben und Informationen uber die zur Verarbeitung Ihrer Daten befugten Personen anfordern."
+  content_4: "Sie haben auch das Recht, eine Beschwerde bei der Aufsichtsbehorde (Datenschutzbehorde - <a href=\"https://www.garanteprivacy.it\" target=\"_blank\">www.garanteprivacy.it</a>) einzureichen, um Ihre Rechte durchzusetzen."
+
+changes:
+  title: "Anderungen dieser Datenschutzerklarung"
+  content: "Unsere Datenschutzerklarung kann von Zeit zu Zeit Anderungen unterliegen, uber die wir Sie informieren werden. Wir werden auch eine aktualisierte Version auf unserer Website veroffentlichen. Bitte uberprufen Sie unsere Website regelmasig auf Aktualisierungen."
+
+minors:
+  title: "Minderjahrige"
+  content: "Das Surfen auf unserer Website ist allen Benutzern uber vierzehn Jahren gestattet, vorausgesetzt, dass fur spezifische Verarbeitungen (z. B. Registrierung als Mitglied) auf die entsprechenden separat bereitgestellten Datenschutzhinweise verwiesen wird."
+
+last_update: "Letzte Aktualisierung: August 2024"

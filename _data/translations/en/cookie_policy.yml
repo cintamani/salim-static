@@ -1,0 +1,80 @@
+title: "Cookie Policy"
+meta_title: "Salim ODV Association - Cookie Policy"
+meta_description: "Salim ODV Association - Cookie Policy"
+
+what_are_cookies:
+  title: "What are cookies"
+  content: "Cookies are small text files that websites visited by users send to their devices, where they are stored to be retransmitted to the same websites on subsequent visits."
+
+cookies_used:
+  title: "Cookies used by the SALIM ODV Association website and their purposes"
+  content: "The website of the SALIM ODV Association, headquartered at Via delle Mole 16/C, 00041 Albano Laziale (RM), Italy (\"Association\" or \"Data Controller\"), available at <a href=\"https://salimodv.org\">salimodv.org</a> (\"Site\") uses cookies, which serve to enable the proper functioning of certain sections (\"technical cookies\"), to ensure certain personalization features (\"functional cookies\") and to improve the browsing experience (\"analytics cookies\")."
+  banner_info: "The first time you visit the site, you will be asked to accept (or not accept) cookies via a banner. You may refuse to accept all or some cookies, or you may change your computer settings at any time to know when you receive cookies or to disable the automatic cookie acceptance feature."
+  categories_intro: "The Site uses the following categories of cookies:"
+
+cookie_types:
+  technical:
+    title: "Technical and functional cookies (or navigation cookies, always active)"
+    content: "They contribute to the functioning of the Site, for example to allow navigation between pages; the legal basis for the processing underlying the use of these cookies is the Data Controller's interest in providing efficient and well-functioning services to its users; the retention period of these cookies runs from the date of first access to the site until they are disabled."
+  analytics:
+    title: "Analytics cookies"
+    content: "They allow the acquisition of statistical information in aggregate and anonymous form, relating to browsing methods; the legal basis for the processing underlying the use of these cookies is the Data Controller's interest in providing efficient and well-functioning services to its users; the retention period of these cookies runs from the date they are enabled on the site until they are disabled. The user can accept and disable - at their discretion - these cookies using the banner or the table in this policy."
+
+our_cookies:
+  title: "List of cookies created and managed by Salim ODV"
+  table:
+    cookie_name: "Cookie Name"
+    purpose: "Purpose"
+    type: "Type"
+    expiry: "Expiry"
+  cookies:
+    consent:
+      name: "cookieConsent"
+      purpose: "Records acknowledgment of the cookie notice"
+      type: "Functional"
+      expiry: "180 days"
+    marketing:
+      name: "marketingCookies"
+      purpose: "Records your preference for analytics cookies"
+      type: "Functional"
+      expiry: "180 days"
+
+third_party_cookies:
+  title: "Third-party cookies"
+  table:
+    cookie_name: "Cookie Name"
+    provider: "Provider"
+    purpose: "Purpose"
+    type: "Type"
+    policy_link: "Policy Link"
+  cookies:
+    google:
+      name: "_ga, _gid, _gat"
+      provider: "Google Analytics"
+      purpose: "Statistical analysis of site usage"
+      type: "Analytics"
+    stripe:
+      name: "__stripe_mid, __stripe_sid"
+      provider: "Stripe"
+      purpose: "Payment processing and fraud prevention"
+      type: "Functional"
+
+google_analytics:
+  title: "Google Analytics"
+  content_1: "In order to analyze how the Site is used, Google Analytics is used, a web analytics service provided by Google Inc. (\"Google\") that uses cookies that are stored on your computer to allow us to perform statistical analysis. The data collected is in aggregate form and does not allow you to be identified in any way."
+  privacy_link_text: "To consult Google's privacy policy regarding the Google Analytics service, visit"
+  policy_link_text: "To learn about Google's privacy policies, visit"
+  content_2: "Google Analytics cookies can be refused according to the procedure indicated by Google. Therefore, if you continue to use the Site without refusing Google Analytics cookies, you consent to the processing of your data by Google, limited to the methods and purposes indicated above."
+
+disable_cookies:
+  title: "How to disable cookies"
+  intro: "Below you will find links explaining how to disable cookies for the most popular browsers (for other browsers you may use, we suggest looking for this option in the software help normally available through the F1 key):"
+  ie: "Click the Tools button and then Internet Options. Click the Privacy tab and in Settings move the slider up to block all cookies"
+  chrome: "Click the menu in the browser toolbar. Select Settings. Click Show advanced settings. In the \"Privacy\" section, click the Content settings button. Select \"Block sites from setting any data\"."
+  firefox: "Click the menu button and select Options. Select the Privacy panel. Under History settings: select use custom settings. To enable cookies, check Accept cookies from sites; to disable them, uncheck the option."
+  safari: "Click on \"Safari\" in the menu bar, then on \"Preferences\". Now click on \"Privacy\", then on \"Details\" to select the site, then select \"Remove\"."
+
+more_info: "For more information on how the Association processes your data, please refer to the"
+privacy_policy_link: "privacy policy"
+
+last_update: "Last update: August 2024"

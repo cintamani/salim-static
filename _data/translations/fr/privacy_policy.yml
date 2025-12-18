@@ -1,0 +1,81 @@
+title: "Politique de Confidentialite"
+meta_title: "Association Salim ODV - Politique de Confidentialite"
+meta_description: "Association Salim ODV - Politique de Confidentialite"
+
+intro: "La presente notice d'information, fournie conformement a l'article 13 du Reglement (UE) 2016/679 (ci-apres \"RGPD\" ou \"Reglement\"), decrit comment les donnees personnelles des utilisateurs qui visitent le site web (ci-apres, \"Site\") de l'Association SALIM ODV, dont le siege est situe Via delle Mole 16/C, 00041 Albano Laziale (RM), Italie (denommee dans cette notice \"nous\" ou \"Association\" ou \"Responsable du traitement\"), accessible en ligne a l'adresse : salimodv.org"
+
+intro_disclaimer: "La presente notice d'information ne s'applique pas aux autres sites web, pages ou services en ligne accessibles par des liens hypertextes eventuellement publies sur les sites mais se referant a des ressources externes au domaine du Comite."
+
+data_controller:
+  title: "Responsable du traitement"
+  content: "SALIM ODV, dont le siege est situe Via delle Mole 16/C, 00041 Albano Laziale (RM), Italie."
+
+data_types:
+  title: "Types de donnees traitees"
+  intro: "Le Responsable du traitement traitera les categories de donnees suivantes :"
+
+  navigation:
+    title: "a. Donnees de navigation"
+    content: "Lors de la navigation sur le Site, nous acquerons certaines donnees personnelles dont la transmission est implicite dans l'utilisation des protocoles de communication Internet, telles que les adresses IP, les adresses URI/URL (Uniform Resource Identifier/Locator) des ressources demandees, l'heure de la demande et d'autres parametres lies au systeme d'exploitation et a l'environnement informatique de l'utilisateur."
+    purposes_intro: "Ces donnees, necessaires a l'utilisation des services web, sont egalement traitees aux fins de :"
+    purpose_1: "obtenir des informations statistiques sur l'utilisation des services (pages les plus visitees, nombre de visiteurs par tranche horaire ou par jour, zones geographiques d'origine, etc.) ;"
+    purpose_2: "controler le bon fonctionnement des services offerts."
+    retention: "Les donnees de navigation peuvent etre conservees pendant un maximum de 90 jours (sauf en cas de necessite d'enquete sur des infractions par les autorites judiciaires)."
+
+  user_data:
+    title: "b. Donnees fournies par l'utilisateur"
+    content: "Lorsque l'utilisateur envoie des messages a l'Association aux coordonnees indiquees dans les sections de contact, ou lors du remplissage et de l'envoi de formulaires sur le Site, l'Association acquiert et traite les coordonnees de l'utilisateur necessaires pour repondre, ainsi que les donnees personnelles incluses dans les communications."
+    additional: "Des notices specifiques pourront egalement etre mises a disposition en relation avec des initiatives specifiques (par exemple, pour des activites de benevolat, participation a des evenements, etc.)."
+
+  donation_data:
+    title: "c. Donnees relatives aux dons"
+    content: "Lorsque vous faites un don a l'Association par diverses formes de soutien et/ou participez a des projets specifiques, l'Association acquiert et traite les donnees necessaires a l'emission d'un recu (nom et prenom, sexe, age ou date de naissance, nationalite, numero d'identification fiscale ou numero de TVA, adresse, donnees de paiement, etc.), compte tenu de la deductibilite fiscale des dons en especes ou en nature."
+
+  cookies:
+    title: "d. Cookies et autres systemes de suivi"
+    content: "Pour le traitement des donnees par les cookies, veuillez consulter la"
+    link_text: "Politique des Cookies"
+
+  social_media:
+    title: "e. Informations sur le traitement des donnees personnelles via les plateformes de reseaux sociaux"
+    content: "L'Association traite egalement les donnees personnelles fournies par les utilisateurs (par exemple, nom, nom d'utilisateur, photo de profil, selon les parametres du compte) via les pages de reseaux sociaux dediees a l'Association (Facebook, Instagram, etc.), dans la poursuite de ses finalites institutionnelles, exclusivement pour gerer les interactions avec les utilisateurs (commentaires, publications publiques, etc.) et pour proteger l'Association en cas d'abus, conformement a la reglementation en vigueur. La fourniture de donnees est facultative ; cependant, sans elles, nous pourrions ne pas etre en mesure d'interagir avec vous ou de vous fournir des commentaires. Pour le traitement des donnees personnelles effectue par les gestionnaires de ces plateformes de reseaux sociaux, veuillez vous referer aux informations fournies par eux via leurs politiques de confidentialite respectives."
+
+legal_basis:
+  title: "Base juridique du traitement et duree de conservation des donnees"
+  item_a: "Le traitement de vos donnees personnelles est necessaire pour vous donner acces a notre Site et a ses fonctionnalites, ainsi que pour repondre a vos demandes (par exemple, participation a des initiatives ou projets specifiques ; demandes d'informations ; inscription a notre newsletter ; etc.). La base juridique de ce traitement est l'execution des demandes par l'utilisateur. La duree de conservation des donnees pour ce traitement est egale au temps necessaire pour traiter la demande."
+  item_b: "Le traitement de vos donnees personnelles est egalement necessaire pour accepter vos dons par diverses formes de soutien et pour gerer toutes les phases connexes, y compris administratives et comptables. La base juridique de ce traitement est l'execution d'un contrat et/ou de mesures precontractuelles demandees pour celui-ci. La duree de conservation de vos donnees est egale au temps necessaire pour vous permettre de faire des dons et pour respecter les obligations contractuelles et legales."
+  item_c: "Nous pouvons egalement traiter les donnees collectees via le Site pour prevenir ou controler des comportements illicites ou pour proteger et faire valoir des droits. Par exemple, nous pouvons utiliser vos donnees pour prevenir la violation de nos droits de propriete intellectuelle (par exemple, contrefacon de marque) ou le vol (y compris, par exemple, le clonage de carte de credit) ou d'autres infractions, conformement a la loi applicable. La base juridique de ce traitement est l'interet legitime du Responsable du traitement. La duree de conservation de vos donnees est egale au temps raisonnablement necessaire pour faire valoir nos droits a partir du moment ou nous prenons connaissance de l'infraction ou de sa commission potentielle."
+
+data_provision:
+  title: "Nature de la fourniture de donnees personnelles"
+  content: "La fourniture de donnees aux fins indiquees aux points a), b) et c) du paragraphe precedent est strictement fonctionnelle a leur poursuite et est donc obligatoire. Tout refus de votre part a un tel traitement entrainerait donc l'impossibilite objective pour le Responsable du traitement de vous donner acces au Site, de repondre a vos demandes ou d'accepter votre don et de remplir les obligations legales connexes."
+
+data_location:
+  title: "Ou vos donnees sont traitees"
+  content_1: "Les donnees seront traitees et stockees au siege de l'Association et de ses fournisseurs au sein de l'Union europeenne, ainsi que communiquees aux benevoles actifs au Kenya, ou l'Association opere pour apporter le soutien financier recu des dons et autres formes de soutien."
+  content_2: "En outre, les donnees seront communiquees a des fournisseurs qui ont egalement leur siege dans des pays en dehors de l'Union europeenne. Ces transferts de donnees sont autorises alternativement sur la base : (i) d'une decision d'adequation du pays tiers vers lequel les donnees sont transferees, adoptee par la Commission europeenne conformement a l'article 45 du RGPD ; ou (ii) des garanties appropriees ou adequates prevues aux articles 46, 47 et 49 du RGPD (telles que les clauses contractuelles types approuvees par la Commission europeenne, les regles d'entreprise contraignantes, les garanties contractuelles ou convenues fournies par les responsables concernes, ou les derogations a l'interdiction de transfert applicables dans des situations specifiques)."
+
+data_sharing:
+  title: "Avec qui nous partageons vos donnees"
+  intro: "Dans le cadre des finalites susmentionnees, les donnees peuvent etre communiquees a :"
+  item_1: "nos collaborateurs et benevoles, dans le cadre des taches assignees et sur la base d'une autorisation specifique pour le traitement des donnees, en coherence avec la finalite du traitement ;"
+  item_2: "toutes les personnes physiques et/ou morales habilitees a recevoir les donnees personnelles des personnes concernees en tant que Sous-traitants conformement a l'article 28 du RGPD (par exemple, societe de conseil chargee de la gestion et de la maintenance du site web, consultants externes, etc.) ou responsables independants du traitement, lorsque la communication est necessaire ou fonctionnelle a l'execution de mesures precontractuelles et/ou du contrat, de la maniere et aux fins illustrees ci-dessus (par exemple, etablissements de paiement, compagnies d'assurance)."
+  public_entities: "En outre, vos donnees peuvent etre communiquees a des entites publiques egalement a la suite d'inspections ou d'audits (par exemple, Administration fiscale, Police fiscale, Autorites judiciaires, etc.)."
+  legal_entities: "Enfin, elles peuvent etre communiquees a des entites qui peuvent acceder a vos donnees en vertu de dispositions legales ou de reglementations secondaires ou europeennes (par exemple, Autorite de protection des donnees)."
+
+your_rights:
+  title: "Vos droits"
+  content_1: "Vous pouvez contacter l'Association pour demander l'acces a vos donnees personnelles, la rectification, l'effacement ou la limitation du traitement, pour vous opposer au traitement et demander la portabilite des donnees ; vous pouvez egalement retirer votre consentement a tout moment (cela n'affectera pas la liceite du traitement fonde sur le consentement donne avant le retrait), en suivant les instructions indiquees dans le message que vous recevez ou en contactant le Responsable du traitement aux adresses indiquees ci-dessous."
+  content_2: "Lors de l'exercice du droit d'acces, vous avez le droit de savoir si vos donnees sont traitees, quelle est la finalite du traitement, quelles categories de donnees sont traitees, qui sont les destinataires ou categories de destinataires auxquels vos donnees sont communiquees (et, s'ils resident dans un pays tiers, sur la base de quelles garanties), la duree de conservation de vos donnees (ou les criteres pour determiner la duree de conservation), si un traitement automatise a lieu (par exemple par profilage) et quelle est la logique d'un tel traitement, l'origine des donnees (si elles n'ont pas ete collectees initialement par le Comite)."
+  content_3: "Conformement aux articles 15-22 du RGPD, en ecrivant a <a href=\"mailto:segreteria@salimodv.org\">segreteria@salimodv.org</a>, vous pouvez demander la liste complete et mise a jour des sous-traitants, ainsi qu'exercer tous les droits enumeres ci-dessus, demander des informations sur les personnes autorisees a traiter vos donnees."
+  content_4: "Vous avez egalement le droit de deposer une plainte aupres de l'autorite de controle (Autorite de protection des donnees - <a href=\"https://www.garanteprivacy.it\" target=\"_blank\">www.garanteprivacy.it</a>) pour faire valoir vos droits."
+
+changes:
+  title: "Modifications de cette politique de confidentialite"
+  content: "Notre politique de confidentialite peut etre sujette a des modifications de temps en temps, dont nous vous informerons. Nous publierons egalement une version mise a jour sur notre site web. Veuillez consulter notre site web periodiquement pour les mises a jour."
+
+minors:
+  title: "Mineurs"
+  content: "La navigation sur notre Site est autorisee pour tous les utilisateurs de plus de quatorze ans, etant entendu que pour des traitements specifiques (par exemple, inscription en tant que membre), il est fait reference aux notices de confidentialite pertinentes fournies separement."
+
+last_update: "Derniere mise a jour : aout 2024"
