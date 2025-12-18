@@ -65,17 +65,6 @@
   regione: Kwale
   esigenze_mediche: non
 
-- nome: "Husna"
-  eta: 2
-  descrizione: "Cette douce fille vit avec sa sœur, sa mère et ses grands-parents, dans une humble maison en terre et tôle."
-  foto:
-    src: "/assets/images/foto/sostegni/20-Husna.jpg"
-    alt: "Fille de 2 ans"
-  casa: 5 personnes
-  educazione: encore trop jeune
-  regione: Lunguma
-  esigenze_mediche: non
-
 - nome: "Penina"
   eta: 2
   descrizione: "La grande famille de Penina se maintient exclusivement grâce au travail occasionnel du père qui vit au jour le jour en conduisant un taxi-moto qu'il loue chaque fois que l'occasion de prendre quelqu'un se présente."

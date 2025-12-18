@@ -65,16 +65,6 @@
   regione: Kwale
   esigenze_mediche: no
 
-- nome: "Husna"
-  eta: 2
-  descrizione: "This sweet girl lives together with her sister, her mother, and her grandparents, in a humble house made of mud and tin."
-  foto:
-    src: "/assets/images/foto/sostegni/20-Husna.jpg"
-    alt: "2-year-old girl"
-  casa: 5 people
-  educazione: still too young
-  regione: Lunguma
-  esigenze_mediche: no
 
 - nome: "Penina"
   eta: 2

@@ -65,17 +65,6 @@
   regione: Kwale
   esigenze_mediche: nein
 
-- nome: "Husna"
-  eta: 2
-  descrizione: "Dieses süße Mädchen lebt zusammen mit ihrer Schwester, ihrer Mutter und ihren Großeltern in einem bescheidenen Haus aus Lehm und Blech."
-  foto:
-    src: "/assets/images/foto/sostegni/20-Husna.jpg"
-    alt: "2-jähriges Mädchen"
-  casa: 5 Personen
-  educazione: noch zu jung
-  regione: Lunguma
-  esigenze_mediche: nein
-
 - nome: "Penina"
   eta: 2
   descrizione: "Peninas große Familie erhält sich ausschließlich durch die Gelegenheitsarbeit des Vaters, der von Tag zu Tag lebt, indem er ein Motorradtaxi fährt, das er jedes Mal mietet, wenn sich die Gelegenheit bietet, jemanden mitzunehmen."
