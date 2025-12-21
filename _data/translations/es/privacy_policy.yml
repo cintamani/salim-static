@@ -1,10 +1,10 @@
-title: "Politica de Privacidad"
-meta_title: "Asociacion Salim ODV - Politica de Privacidad"
-meta_description: "Asociacion Salim ODV - Politica de Privacidad"
+title: "Política de Privacidad"
+meta_title: "Asociación Salim ODV - Política de Privacidad"
+meta_description: "Asociación Salim ODV - Política de Privacidad"
 
-intro: "Este aviso de privacidad, proporcionado de conformidad con el Articulo 13 del Reglamento (UE) 2016/679 (en adelante \"RGPD\" o \"Reglamento\"), describe como se procesan los datos personales de los usuarios que visitan el sitio web (en adelante, \"Sitio\") de la Asociacion SALIM ODV, con sede en Via delle Mole 16/C, 00041 Albano Laziale (RM), Italia (a la que se hace referencia en este aviso como \"nosotros\" o \"Asociacion\" o \"Responsable del Tratamiento\"), accesible en linea en: salimodv.org"
+intro: "Este aviso de privacidad, proporcionado de conformidad con el Artículo 13 del Reglamento (UE) 2016/679 (en adelante \"RGPD\" o \"Reglamento\"), describe cómo se procesan los datos personales de los usuarios que visitan el sitio web (en adelante, \"Sitio\") de la Asociación SALIM ODV, con sede en Via delle Mole 16/C, 00041 Albano Laziale (RM), Italia (a la que se hace referencia en este aviso como \"nosotros\" o \"Asociación\" o \"Responsable del Tratamiento\"), accesible en línea en: salimodv.org"
 
-intro_disclaimer: "Este aviso de privacidad no se aplica a otros sitios web, paginas o servicios en linea accesibles a traves de hiperenlaces que puedan publicarse en los sitios pero que se refieran a recursos externos fuera del dominio del Comite."
+intro_disclaimer: "Este aviso de privacidad no se aplica a otros sitios web, páginas o servicios en línea accesibles a través de hiperenlaces que puedan publicarse en los sitios pero que se refieran a recursos externos fuera del dominio del Comité."
 
 data_controller:
   title: "Responsable del Tratamiento"
@@ -12,70 +12,70 @@ data_controller:
 
 data_types:
   title: "Tipos de Datos Tratados"
-  intro: "El Responsable del Tratamiento procesara las siguientes categorias de datos:"
+  intro: "El Responsable del Tratamiento procesará las siguientes categorías de datos:"
 
   navigation:
-    title: "a. Datos de Navegacion"
-    content: "Durante la navegacion por el Sitio, adquirimos ciertos datos personales cuya transmision es implicita en el uso de los protocolos de comunicacion de Internet, como direcciones IP, direcciones URI/URL (Identificador/Localizador Uniforme de Recursos) de los recursos solicitados, la hora de la solicitud y otros parametros relacionados con el sistema operativo y el entorno informatico del usuario."
-    purposes_intro: "Dichos datos, necesarios para el uso de los servicios web, tambien se procesan con el fin de:"
-    purpose_1: "obtener informacion estadistica sobre el uso de los servicios (paginas mas visitadas, numero de visitantes por franja horaria o dia, areas geograficas de origen, etc.);"
+    title: "a. Datos de Navegación"
+    content: "Durante la navegación por el Sitio, adquirimos ciertos datos personales cuya transmisión es implícita en el uso de los protocolos de comunicación de Internet, como direcciones IP, direcciones URI/URL (Identificador/Localizador Uniforme de Recursos) de los recursos solicitados, la hora de la solicitud y otros parámetros relacionados con el sistema operativo y el entorno informático del usuario."
+    purposes_intro: "Dichos datos, necesarios para el uso de los servicios web, también se procesan con el fin de:"
+    purpose_1: "obtener información estadística sobre el uso de los servicios (páginas más visitadas, número de visitantes por franja horaria o día, áreas geográficas de origen, etc.);"
     purpose_2: "controlar el correcto funcionamiento de los servicios ofrecidos."
-    retention: "Los datos de navegacion pueden conservarse durante un maximo de 90 dias (salvo cualquier necesidad de investigar delitos por parte de las autoridades judiciales)."
+    retention: "Los datos de navegación pueden conservarse durante un máximo de 90 días (salvo cualquier necesidad de investigar delitos por parte de las autoridades judiciales)."
 
   user_data:
     title: "b. Datos Proporcionados por el Usuario"
-    content: "Cuando el usuario envia mensajes a la Asociacion a los datos de contacto indicados en las secciones de contacto, o al completar y enviar formularios en el Sitio, la Asociacion adquiere y procesa los datos de contacto del usuario necesarios para responder, asi como los datos personales incluidos en las comunicaciones."
-    additional: "Tambien podran ponerse a disposicion avisos especificos en relacion con iniciativas especificas (por ejemplo, para actividades de voluntariado, participacion en eventos, etc.)."
+    content: "Cuando el usuario envía mensajes a la Asociación a través de los datos de contacto indicados en las secciones de contacto, o al completar y enviar formularios en el Sitio, la Asociación adquiere y procesa los datos de contacto del usuario necesarios para responder, así como los datos personales incluidos en las comunicaciones."
+    additional: "También podrán ponerse a disposición avisos específicos en relación con iniciativas específicas (por ejemplo, para actividades de voluntariado, participación en eventos, etc.)."
 
   donation_data:
     title: "c. Datos de Donaciones"
-    content: "Cuando realiza una donacion a la Asociacion a traves de diversas formas de apoyo y/o participa en proyectos especificos, la Asociacion adquiere y procesa los datos necesarios para emitir un recibo (nombre y apellidos, genero, edad o fecha de nacimiento, nacionalidad, numero de identificacion fiscal o numero de IVA, direccion, datos de pago, etc.), teniendo en cuenta la deducibilidad fiscal de las donaciones en efectivo o en especie."
+    content: "Cuando realiza una donación a la Asociación a través de diversas formas de apoyo y/o participa en proyectos específicos, la Asociación adquiere y procesa los datos necesarios para emitir un recibo (nombre y apellidos, género, edad o fecha de nacimiento, nacionalidad, número de identificación fiscal o número de IVA, dirección, datos de pago, etc.), teniendo en cuenta la deducibilidad fiscal de las donaciones en efectivo o en especie."
 
   cookies:
     title: "d. Cookies y Otros Sistemas de Seguimiento"
-    content: "Para el procesamiento de datos a traves de cookies, consulte la"
-    link_text: "Politica de Cookies"
+    content: "Para el procesamiento de datos a través de cookies, consulte la"
+    link_text: "Política de Cookies"
 
   social_media:
-    title: "e. Informacion sobre el Tratamiento de Datos Personales a traves de Plataformas de Redes Sociales"
-    content: "La Asociacion tambien procesa datos personales proporcionados por los usuarios (por ejemplo, nombre, nombre de usuario, foto de perfil, segun la configuracion de la cuenta) a traves de paginas de redes sociales dedicadas a la Asociacion (Facebook, Instagram, etc.), en busqueda de sus fines institucionales, exclusivamente para gestionar las interacciones con los usuarios (comentarios, publicaciones publicas, etc.) y para proteger a la Asociacion en caso de abuso, de conformidad con las regulaciones vigentes. Proporcionar datos es opcional; sin embargo, sin ellos, es posible que no podamos interactuar con usted ni proporcionarle comentarios. Para el procesamiento de datos personales realizado por los administradores de dichas plataformas de Redes Sociales, consulte la informacion proporcionada por ellos a traves de sus respectivas politicas de privacidad."
+    title: "e. Información sobre el Tratamiento de Datos Personales a través de Plataformas de Redes Sociales"
+    content: "La Asociación también procesa datos personales proporcionados por los usuarios (por ejemplo, nombre, nombre de usuario, foto de perfil, según la configuración de la cuenta) a través de páginas de redes sociales dedicadas a la Asociación (Facebook, Instagram, etc.), en búsqueda de sus fines institucionales, exclusivamente para gestionar las interacciones con los usuarios (comentarios, publicaciones públicas, etc.) y para proteger a la Asociación en caso de abuso, de conformidad con las regulaciones vigentes. Proporcionar datos es opcional; sin embargo, sin ellos, es posible que no podamos interactuar con usted ni proporcionarle comentarios. Para el procesamiento de datos personales realizado por los administradores de dichas plataformas de Redes Sociales, consulte la información proporcionada por ellos a través de sus respectivas políticas de privacidad."
 
 legal_basis:
-  title: "Base Legal del Tratamiento y Periodo de Conservacion de Datos"
-  item_a: "El tratamiento de sus datos personales es necesario para darle acceso a nuestro Sitio y sus funciones, asi como para responder a sus solicitudes (por ejemplo, participacion en iniciativas o proyectos especificos; solicitudes de informacion; suscripcion a nuestro boletin; etc.). La base legal de este tratamiento es la ejecucion de solicitudes por parte del usuario. El periodo de conservacion de datos para este tratamiento es igual al tiempo necesario para cumplir con la solicitud."
-  item_b: "El tratamiento de sus datos personales tambien es necesario para aceptar sus donaciones a traves de diversas formas de apoyo y para gestionar todas las fases relacionadas, incluidas las administrativas y contables. La base legal de este tratamiento es la ejecucion de un contrato y/o medidas precontractuales solicitadas para el mismo. El periodo de conservacion de sus datos es igual al tiempo necesario para permitirle realizar donaciones y cumplir con las obligaciones contractuales y legales."
-  item_c: "Tambien podemos procesar datos recopilados a traves del Sitio para prevenir o controlar conductas ilicitas o para proteger y hacer valer derechos. Por ejemplo, podemos usar sus datos para prevenir la violacion de nuestros derechos de propiedad intelectual (por ejemplo, falsificacion de marcas) o robo (incluyendo, por ejemplo, clonacion de tarjetas de credito) u otros delitos, de acuerdo con la ley aplicable. La base legal de este tratamiento es el interes legitimo del Responsable del Tratamiento. El periodo de conservacion de sus datos es igual al tiempo razonablemente necesario para hacer valer nuestros derechos desde el momento en que tenemos conocimiento del delito o su posible comision."
+  title: "Base Legal del Tratamiento y Período de Conservación de Datos"
+  item_a: "El tratamiento de sus datos personales es necesario para darle acceso a nuestro Sitio y sus funciones, así como para responder a sus solicitudes (por ejemplo, participación en iniciativas o proyectos específicos; solicitudes de información; suscripción a nuestro boletín; etc.). La base legal de este tratamiento es la ejecución de solicitudes por parte del usuario. El período de conservación de datos para este tratamiento es igual al tiempo necesario para cumplir con la solicitud."
+  item_b: "El tratamiento de sus datos personales también es necesario para aceptar sus donaciones a través de diversas formas de apoyo y para gestionar todas las fases relacionadas, incluidas las administrativas y contables. La base legal de este tratamiento es la ejecución de un contrato y/o medidas precontractuales solicitadas para el mismo. El período de conservación de sus datos es igual al tiempo necesario para permitirle realizar donaciones y cumplir con las obligaciones contractuales y legales."
+  item_c: "También podemos procesar datos recopilados a través del Sitio para prevenir o controlar conductas ilícitas o para proteger y hacer valer derechos. Por ejemplo, podemos usar sus datos para prevenir la violación de nuestros derechos de propiedad intelectual (por ejemplo, falsificación de marcas) o robo (incluyendo, por ejemplo, clonación de tarjetas de crédito) u otros delitos, de acuerdo con la ley aplicable. La base legal de este tratamiento es el interés legítimo del Responsable del Tratamiento. El período de conservación de sus datos es igual al tiempo razonablemente necesario para hacer valer nuestros derechos desde el momento en que tenemos conocimiento del delito o su posible comisión."
 
 data_provision:
   title: "Naturaleza del Suministro de Datos Personales"
-  content: "El suministro de datos para los fines indicados en los puntos a), b) y c) del parrafo anterior es estrictamente funcional para su consecucion y, por tanto, es obligatorio. Cualquier negativa por su parte a dicho tratamiento resultaria, por tanto, en la imposibilidad objetiva para el Responsable del Tratamiento de darle acceso al Sitio, responder a sus solicitudes o aceptar su donacion y cumplir con las obligaciones legales relacionadas."
+  content: "El suministro de datos para los fines indicados en los puntos a), b) y c) del párrafo anterior es estrictamente funcional para su consecución y, por tanto, es obligatorio. Cualquier negativa por su parte a dicho tratamiento resultaría, por tanto, en la imposibilidad objetiva para el Responsable del Tratamiento de darle acceso al Sitio, responder a sus solicitudes o aceptar su donación y cumplir con las obligaciones legales relacionadas."
 
 data_location:
-  title: "Donde se Procesan sus Datos"
-  content_1: "Los datos seran procesados y almacenados en la sede de la Asociacion y sus proveedores dentro de la Union Europea, asi como comunicados a los voluntarios activos en Kenia, donde la Asociacion opera para llevar el apoyo financiero recibido de donaciones y otras formas de apoyo."
-  content_2: "Ademas, los datos seran comunicados a proveedores que tambien tienen sede en paises fuera de la Union Europea. Dichas transferencias de datos estan autorizadas alternativamente sobre la base de: (i) una decision de adecuacion del tercer pais al que se transfieren los datos, adoptada por la Comision Europea de conformidad con el Articulo 45 del RGPD; o (ii) las garantias apropiadas u oportunas previstas en los Articulos 46, 47 y 49 del RGPD (como las clausulas contractuales tipo aprobadas por la Comision Europea, las normas corporativas vinculantes, las garantias contractuales o acordadas proporcionadas por los responsables involucrados, o las excepciones a la prohibicion de transferencia aplicables en situaciones especificas)."
+  title: "Dónde se Procesan sus Datos"
+  content_1: "Los datos serán procesados y almacenados en la sede de la Asociación y sus proveedores dentro de la Unión Europea, así como comunicados a los voluntarios activos en Kenia, donde la Asociación opera para llevar el apoyo financiero recibido de donaciones y otras formas de apoyo."
+  content_2: "Además, los datos serán comunicados a proveedores que también tienen sede en países fuera de la Unión Europea. Dichas transferencias de datos están autorizadas alternativamente sobre la base de: (i) una decisión de adecuación del tercer país al que se transfieren los datos, adoptada por la Comisión Europea de conformidad con el Artículo 45 del RGPD; o (ii) las garantías apropiadas u oportunas previstas en los Artículos 46, 47 y 49 del RGPD (como las cláusulas contractuales tipo aprobadas por la Comisión Europea, las normas corporativas vinculantes, las garantías contractuales o acordadas proporcionadas por los responsables involucrados, o las excepciones a la prohibición de transferencia aplicables en situaciones específicas)."
 
 data_sharing:
-  title: "Con Quien Compartimos sus Datos"
+  title: "Con Quién Compartimos sus Datos"
   intro: "Dentro del alcance de los fines mencionados, los datos pueden comunicarse a:"
-  item_1: "nuestros colaboradores y voluntarios, dentro del alcance de las funciones asignadas y en base a una autorizacion especifica para el procesamiento de datos, coherente con el proposito del procesamiento;"
-  item_2: "todas aquellas personas fisicas y/o juridicas con derecho a recibir datos personales de los interesados como Encargados del Tratamiento de conformidad con el Articulo 28 del RGPD (por ejemplo, empresa de consultoria responsable de la gestion y mantenimiento del sitio web, consultores externos, etc.) o responsables independientes del tratamiento, cuando la comunicacion sea necesaria o funcional para la ejecucion de medidas precontractuales y/o del contrato, de la manera y para los fines ilustrados anteriormente (por ejemplo, instituciones de pago, companias de seguros)."
-  public_entities: "Ademas, sus datos pueden comunicarse a entidades publicas tambien como resultado de inspecciones o auditorias (por ejemplo, Administracion Tributaria, Policia Fiscal, Autoridades Judiciales, etc.)."
-  legal_entities: "Finalmente, pueden comunicarse a entidades que pueden acceder a sus datos en virtud de disposiciones legales o regulaciones secundarias o de la UE (por ejemplo, Autoridad de Proteccion de Datos)."
+  item_1: "nuestros colaboradores y voluntarios, dentro del alcance de las funciones asignadas y en base a una autorización específica para el procesamiento de datos, coherente con el propósito del procesamiento;"
+  item_2: "todas aquellas personas físicas y/o jurídicas con derecho a recibir datos personales de los interesados como Encargados del Tratamiento de conformidad con el Artículo 28 del RGPD (por ejemplo, empresa de consultoría responsable de la gestión y mantenimiento del sitio web, consultores externos, etc.) o responsables independientes del tratamiento, cuando la comunicación sea necesaria o funcional para la ejecución de medidas precontractuales y/o del contrato, de la manera y para los fines ilustrados anteriormente (por ejemplo, instituciones de pago, compañías de seguros)."
+  public_entities: "Además, sus datos pueden comunicarse a entidades públicas también como resultado de inspecciones o auditorías (por ejemplo, Administración Tributaria, Policía Fiscal, Autoridades Judiciales, etc.)."
+  legal_entities: "Finalmente, pueden comunicarse a entidades que pueden acceder a sus datos en virtud de disposiciones legales o regulaciones secundarias o de la UE (por ejemplo, Autoridad de Protección de Datos)."
 
 your_rights:
   title: "Sus Derechos"
-  content_1: "Puede contactar a la Asociacion para solicitar acceso a sus datos personales, rectificacion, eliminacion o limitacion del tratamiento, para oponerse al tratamiento y solicitar la portabilidad de datos; tambien puede retirar el consentimiento en cualquier momento (esto no afectara la legalidad del tratamiento basado en el consentimiento otorgado antes de la retirada), siguiendo las instrucciones indicadas en el mensaje que reciba o contactando al Responsable del Tratamiento en las direcciones indicadas a continuacion."
-  content_2: "Al ejercer el derecho de acceso, tiene derecho a saber si sus datos estan siendo procesados, cual es el proposito del procesamiento, que categorias de datos se procesan, quienes son los destinatarios o categorias de destinatarios a quienes se comunican sus datos (y, si residen en un tercer pais, sobre la base de que garantias), el periodo de conservacion de sus datos (o los criterios para determinar el periodo de conservacion), si se esta llevando a cabo un procesamiento automatizado (por ejemplo, mediante perfilado) y cual es la logica de dicho procesamiento, el origen de los datos (si no fueron recopilados inicialmente por el Comite)."
-  content_3: "De conformidad con los Articulos 15-22 del RGPD, escribiendo a <a href=\"mailto:segreteria@salimodv.org\">segreteria@salimodv.org</a> puede solicitar la lista completa y actualizada de los encargados del tratamiento, asi como ejercer todos los derechos enumerados anteriormente, solicitar informacion sobre las personas autorizadas para procesar sus datos."
-  content_4: "Tambien tiene derecho a presentar una queja ante la autoridad de control (Autoridad de Proteccion de Datos - <a href=\"https://www.garanteprivacy.it\" target=\"_blank\">www.garanteprivacy.it</a>) para hacer valer sus derechos."
+  content_1: "Puede contactar a la Asociación para solicitar acceso a sus datos personales, rectificación, eliminación o limitación del tratamiento, para oponerse al tratamiento y solicitar la portabilidad de datos; también puede retirar el consentimiento en cualquier momento (esto no afectará la legalidad del tratamiento basado en el consentimiento otorgado antes de la retirada), siguiendo las instrucciones indicadas en el mensaje que reciba o contactando al Responsable del Tratamiento en las direcciones indicadas a continuación."
+  content_2: "Al ejercer el derecho de acceso, tiene derecho a saber si sus datos están siendo procesados, cuál es el propósito del procesamiento, qué categorías de datos se procesan, quiénes son los destinatarios o categorías de destinatarios a quienes se comunican sus datos (y, si residen en un tercer país, sobre la base de qué garantías), el período de conservación de sus datos (o los criterios para determinar el período de conservación), si se está llevando a cabo un procesamiento automatizado (por ejemplo, mediante perfilado) y cuál es la lógica de dicho procesamiento, el origen de los datos (si no fueron recopilados inicialmente por el Comité)."
+  content_3: "De conformidad con los Artículos 15-22 del RGPD, escribiendo a <a href=\"mailto:segreteria@salimodv.org\">segreteria@salimodv.org</a> puede solicitar la lista completa y actualizada de los encargados del tratamiento, así como ejercer todos los derechos enumerados anteriormente, solicitar información sobre las personas autorizadas para procesar sus datos."
+  content_4: "También tiene derecho a presentar una queja ante la autoridad de control (Autoridad de Protección de Datos - <a href=\"https://www.garanteprivacy.it\" target=\"_blank\">www.garanteprivacy.it</a>) para hacer valer sus derechos."
 
 changes:
   title: "Cambios en este Aviso de Privacidad"
-  content: "Nuestro aviso de privacidad puede estar sujeto a cambios de vez en cuando, de los cuales le notificaremos. Tambien publicaremos una version actualizada en nuestro sitio web. Por favor, consulte nuestro sitio web periodicamente para actualizaciones."
+  content: "Nuestro aviso de privacidad puede estar sujeto a cambios de vez en cuando, de los cuales le notificaremos. También publicaremos una versión actualizada en nuestro sitio web. Por favor, consulte nuestro sitio web periódicamente para actualizaciones."
 
 minors:
   title: "Menores"
-  content: "La navegacion en nuestro Sitio esta permitida para todos los usuarios mayores de catorce anos, siempre que para tratamientos especificos (por ejemplo, registro como miembro), se haga referencia a los avisos de privacidad relevantes proporcionados por separado."
+  content: "La navegación en nuestro Sitio está permitida para todos los usuarios mayores de catorce años, siempre que para tratamientos específicos (por ejemplo, registro como miembro), se haga referencia a los avisos de privacidad relevantes proporcionados por separado."
 
-last_update: "Ultima actualizacion: agosto 2024"
+last_update: "Última actualización: agosto 2024"
