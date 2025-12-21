@@ -1,0 +1,107 @@
+# Blog articles translations
+
+# Article: 25-gennaio-2025
+art_25_gennaio_2025:
+  meta:
+    title: "Associazione Salim ODV - Blog - Salim Odv partecipa a \"Conversescion\""
+    description: "Intervista con Salim Odv"
+  header:
+    title: "Salim Odv partecipa a \"Conversescion\""
+    date: "25 Gennaio 2025"
+  content:
+    intro_p1: "Sara (il presidente) e Carlo (il tesoriere) hanno avuto l'opportunità di intervenire nel programma radiofonico \"Conversescion\" di Ciao Como Radio e di presentare il lavoro dell'associazione."
+    intro_p2: "È stata una bellissima esperienza, e siamo pronti e carichi per ripetere l'esperienza in altre emittenti… stay tuned!"
+    intro_p3: "Qui l'intervista integrale"
+
+# Article: 14-febbraio-2025
+art_14_febbraio_2025:
+  meta:
+    title: "Associazione Salim ODV - Blog - Un 2024 da ricordare"
+    description: "Un 2024 da ricordare"
+  header:
+    title: "Un 2024 da ricordare"
+    date: "16 Febbraio 2025"
+    subtitle: "Ecco come i vostri contributi hanno fatto la differenza"
+  highlights:
+    title: "In evidenza"
+    children_families: "bambini e famiglie supportate"
+    essential_goods: "in beni di prima necessità"
+    enrolled_private: "bambini iscritti alle scuole private"
+    christmas_project: "investiti nel progetto natalizio"
+  intro:
+    p1: "L'inizio dell'anno è un buon momento per tirare le somme: vedere con chiarezza ciò che si è riusciti a realizzare dona prospettiva per visualizzare bene ciò che ancora si vuole realizzare e tracciare la strada verso gli obiettivi che ci si pone."
+    p2_1: "Nei cinque mesi da agosto a dicembre 2024, grazie a tutti voi, abbiamo lavorato instancabilmente per migliorare la vita dei bambini e delle famiglie in sette villaggi del Kenya."
+    p2_2: "La vostra generosità, unita all'operosità dei volontari e di tutti i soci, ha portato a dei risultati importantissimi che vogliamo condividere con voi in tutta trasparenza."
+    p2_3: "Riportiamo i dati in Euro e non in Scellini kenioti per facilità di lettura."
+  distribution:
+    title: "Distribuzione di cibo e prodotti essenziali"
+    description: "Abbiamo fornito un supporto vitale a un totale di 70 bambini e alle loro famiglie, per un totale di 12.217 €."
+    svg_title: "Distribuzione di beni essenziali 2024"
+    svg_total: "Totale investito: 12.217 €"
+    basic_foods: "Alimenti base"
+    flour: "Farina"
+    fish: "Pesce"
+    noodle_packs: "Confezioni di noodles"
+    vegetables_potatoes: "Verdure e patate"
+    milk: "Latte"
+    rice: "Riso"
+    legumes: "Legumi"
+    biscuit_packs: "Confezioni di biscotti"
+    also_distributed: "Sono stati anche distribuiti"
+    sanitary_pads: "Oltre 1.000 assorbenti"
+    clothing: "Vestiario"
+    shoes: "Scarpe"
+    underwear: "Intimo"
+    img_alt_1: "Immagine di sacchi di cibo su terra rossa. Un muro di mattoni nello sfondo."
+    img_alt_2: "Immagine di sacchi di cibo su terra rossa. Un muro di mattoni nello sfondo."
+  education:
+    title: "Rette scolastiche pubbliche e private"
+    p1: "Se c'è una cosa di cui siamo convinti è che l'istruzione possa fare la differenza nella vita di coloro che non hanno molto."
+    p2: "Nel 2024, 965 € sono stati destinati al pagamento delle rette scolastiche della scuola pubblica primaria e dei materiali necessari all'istruzione. Un sostenitore ha coperto i costi per la scuola secondaria pubblica di una ragazza per 303 €."
+    p3: "Attualmente i bambini iscritti per il 2025 alle scuole private sono 13 per un totale di 6990,50 €, di questi sono stati già versati 3290 € in una prima tranche a Gennaio."
+    total: "Totale"
+    legend_primary_public: "Scuola Primaria Pubblica (€ 965)"
+    legend_secondary_public: "Scuola Secondaria Pubblica (€ 303)"
+    legend_private_paid: "Scuole Private - già versato (€ 3.290)"
+    legend_private_pending: "Scuole Private - da versare (€ 3.700,50)"
+    img_alt: "Bambini al mattino pronti per la scuola a Kwale"
+  kilifi:
+    title: "Progetto Kilifi"
+    p1: "In settembre abbiamo condiviso con tutti voi l'opportunità di sostenere un gruppo di venti bambini orfani nel villaggio di Tezo (nella contea di Kilifi), conosciuti grazie a un contatto locale."
+    p2: "Molti di questi bambini non hanno alcun bene essenziale, e alcuni, privi non solo dei genitori, ma anche di parenti, sono affidati alla cura dei vicini."
+    p3: "Ad oggi siamo riusciti a trovare il sostegno per 3 bambini. Il bisogno è ancora grande. Cerchiamo ulteriori sostenitori fissi per garantire un futuro stabile agli altri orfani ancora senza supporto."
+  christmas:
+    title: "Progetto di Natale 2024"
+    intro: "Durante il periodo natalizio, la vostra generosità ci ha permesso di acquistare:"
+    mattresses: "Materassi"
+    pillows: "Cuscini"
+    gift_for_all: "Regalo x tutti"
+    school_set: "Set Scuola"
+    animals: "Animali"
+    total: "Totale"
+    img_alt: "Distribuzione del secondo pacchetto natalizio a uno dei bambini sostenuti a Kwale"
+    p_final: "Per difficoltà di approvvigionamento, i set \"regalo per tutti\" e gli animali verranno consegnati appena sarà possibile. Gli altri doni natalizi sono stati tutti consegnati regolarmente."
+  future:
+    title: "Ora che abbiamo fatto il punto, guardiamo AVANTI"
+    p1: "Siamo parte di un progetto che potenzialmente può crescere a dismisura, e ce lo auguriamo, per il bene di tutti i bambini che potranno beneficiare di tutto questo!"
+    p2_1: "Per questo"
+    p2_underline: "ti vogliamo nella squadra"
+    p2_2: ": se ti piace il nostro modo di lavorare, vuoi aiutarci in maniera pratica con il tuo sapere e con il tuo fare, con le tue idee, con la raccolta fondi, sei già parte del team! Considera allora di"
+    p2_link: "diventare socio"
+    p2_3: ": con una quota di 40 euro aiuterai ulteriormente l'associazione nel sostegno dell'opera tutta e potrai avere voce in capitolo nelle riunioni annuali dove vengono presentati i prossimi progetti. Costruiamo insieme Salim!"
+    p3: "E in questo 2025 vi chiediamo un ulteriore, piccolo impegno: parlate ai vostri amici e parenti di Salim, della vostra esperienza con noi, della trasparenza alla quale Jessica vi ha abituato e che stiamo continuando a sposare come visione dell'intero progetto. Abbiamo grandi mete in mente, ma abbiamo bisogno che Salim cresca per poterle raggiungere. Noi saremo al vostro fianco, fornendovi tutto il supporto di cui siamo capaci per aiutarvi a fare quei piccoli gesti che porteranno grandi frutti nelle vite di coloro che hanno meno."
+    p4_1: "Grazie di cuore, e avanti tutta, sempre insieme."
+    p4_2: "Buon 2025, che porti abbondanza di frutti!"
+
+# Blog listing page - article cards
+listing:
+  art_25_gennaio_2025:
+    date: "25 Gennaio 2025"
+    title: "Salim Odv partecipa a \"Conversescion\""
+    description: "Sara (il presidente) e Carlo (il tesoriere) hanno avuto l'opportunità di intervenire nel programma radiofonico \"Conversescion\" di Ciao Como Radio"
+    img_alt: "Microfono e attrezzatura per la registrazione in studio"
+  art_14_febbraio_2025:
+    date: "16 Febbraio 2025"
+    title: "Un 2024 da ricordare"
+    description: "Ecco come i vostri contributi hanno fatto la differenza nella vita dei bambini in Kenya."
+    img_alt: "Bambini pronti per la scuola al mattino a Kwale, Kenya"

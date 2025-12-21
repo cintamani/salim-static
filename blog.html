@@ -7,6 +7,7 @@ description: Articoli e aggiornamenti sull'attività dell'associazione Salim ODV
 keywords: blog, articoli, associazione, volontariato, Salim ODV, associazione salim
 ---
 {% assign s = site.data.translations[site.active_lang].blog %}
+{% assign a = site.data.translations[site.active_lang].blog_articles.listing %}
 
 <div class="container-lg">
   <div class="m-2 m-md-3 m-lg-5">
@@ -24,17 +25,16 @@ keywords: blog, articoli, associazione, volontariato, Salim ODV, associazione sa
       <div class="col">
         <article class="h-100 bg-verdino rounded-3 overflow-hidden">
           <img src="/assets/images/blog/music-equipment-mic-recording-studio.jpg"
-              alt="Microfono e attrezzatura per la registrazione in studio"
+              alt="{{ a.art_25_gennaio_2025.img_alt }}"
               class="w-100 img-fluid">
           <div class="p-4">
-            <p class="text-verdone mb-2">25 Gennaio 2025</p>
+            <p class="text-verdone mb-2">{{ a.art_25_gennaio_2025.date }}</p>
             <h2 class="fs-4 mb-3">
-              <a href="#" class="text-verdone text-decoration-none">
-                Salim Odv partecipa a "Conversescion"
+              <a href="/blog/25-gennaio-2025" class="text-verdone text-decoration-none">
+                {{ a.art_25_gennaio_2025.title }}
               </a>
             </h2>
-            <p class="text-verdone mb-4">Sara (il presidente) e Carlo (il tesoriere) hanno avuto l'opportunità di
-              intervenire nel programma radiofonico "Conversescion" di Ciao Como Radio</p>
+            <p class="text-verdone mb-4">{{ a.art_25_gennaio_2025.description }}</p>
             <a href="/blog/25-gennaio-2025" class="btn btn-secondary rounded-pill">
               {{ s.buttons.read_article }}
             </a>
@@ -44,16 +44,16 @@ keywords: blog, articoli, associazione, volontariato, Salim ODV, associazione sa
       <div class="col">
         <article class="h-100 custom-bg-colour text-white rounded-3 overflow-hidden">
           <img src="/assets/images/blog/bambini-scuola-blog-tagliata.jpg"
-              alt="Bambini pronti per la scuola al mattino a Kwale, Kenya"
+              alt="{{ a.art_14_febbraio_2025.img_alt }}"
               class="img-fluid">
           <div class="p-4">
-            <p class="text-verdino mb-2">16 Febbraio 2025</p>
+            <p class="text-verdino mb-2">{{ a.art_14_febbraio_2025.date }}</p>
             <h2 class="fs-4 mb-3">
               <a href="/blog/14-febbraio-2025" class="text-white text-decoration-none">
-                Un 2024 da ricordare
+                {{ a.art_14_febbraio_2025.title }}
               </a>
             </h2>
-            <p class="mb-4">Ecco come i vostri contributi hanno fatto la differenza nella vita dei bambini in Kenya.</p>
+            <p class="mb-4">{{ a.art_14_febbraio_2025.description }}</p>
             <a href="/blog/14-febbraio-2025" class="btn btn-outline-warning rounded-pill">
               {{ s.buttons.read_article }}
             </a>
