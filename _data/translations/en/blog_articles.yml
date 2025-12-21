@@ -1,0 +1,107 @@
+# Blog articles translations - English
+
+# Article: 25-gennaio-2025
+art_25_gennaio_2025:
+  meta:
+    title: "Salim ODV Association - Blog - Salim Odv participates in \"Conversescion\""
+    description: "Interview with Salim Odv"
+  header:
+    title: "Salim Odv participates in \"Conversescion\""
+    date: "January 25, 2025"
+  content:
+    intro_p1: "Sara (the president) and Carlo (the treasurer) had the opportunity to appear on the radio program \"Conversescion\" on Ciao Como Radio and present the work of the association."
+    intro_p2: "It was a wonderful experience, and we are ready and eager to repeat it on other broadcasters… stay tuned!"
+    intro_p3: "Here is the full interview"
+
+# Article: 14-febbraio-2025
+art_14_febbraio_2025:
+  meta:
+    title: "Salim ODV Association - Blog - A 2024 to Remember"
+    description: "A 2024 to Remember"
+  header:
+    title: "A 2024 to Remember"
+    date: "February 16, 2025"
+    subtitle: "Here's how your contributions made a difference"
+  highlights:
+    title: "Highlights"
+    children_families: "children and families supported"
+    essential_goods: "in essential goods"
+    enrolled_private: "children enrolled in private schools"
+    christmas_project: "invested in the Christmas project"
+  intro:
+    p1: "The beginning of the year is a good time to take stock: seeing clearly what has been achieved provides perspective to visualize what we still want to accomplish and chart the path toward our goals."
+    p2_1: "In the five months from August to December 2024, thanks to all of you, we worked tirelessly to improve the lives of children and families in seven villages in Kenya."
+    p2_2: "Your generosity, combined with the hard work of volunteers and all members, has led to very important results that we want to share with you in complete transparency."
+    p2_3: "We report the data in Euros rather than Kenyan Shillings for ease of reading."
+  distribution:
+    title: "Distribution of food and essential products"
+    description: "We provided vital support to a total of 70 children and their families, for a total of €12,217."
+    svg_title: "Distribution of essential goods 2024"
+    svg_total: "Total invested: €12,217"
+    basic_foods: "Basic foods"
+    flour: "Flour"
+    fish: "Fish"
+    noodle_packs: "Noodle packages"
+    vegetables_potatoes: "Vegetables and potatoes"
+    milk: "Milk"
+    rice: "Rice"
+    legumes: "Legumes"
+    biscuit_packs: "Biscuit packages"
+    also_distributed: "Also distributed"
+    sanitary_pads: "Over 1,000 sanitary pads"
+    clothing: "Clothing"
+    shoes: "Shoes"
+    underwear: "Underwear"
+    img_alt_1: "Image of food sacks on red earth. A brick wall in the background."
+    img_alt_2: "Image of food sacks on red earth. A brick wall in the background."
+  education:
+    title: "Public and private school fees"
+    p1: "If there's one thing we are convinced of, it's that education can make a difference in the lives of those who don't have much."
+    p2: "In 2024, €965 was allocated to paying public primary school fees and necessary educational materials. One supporter covered the costs for a girl's public secondary school for €303."
+    p3: "Currently, 13 children are enrolled for 2025 in private schools for a total of €6,990.50, of which €3,290 has already been paid in a first installment in January."
+    total: "Total"
+    legend_primary_public: "Public Primary School (€965)"
+    legend_secondary_public: "Public Secondary School (€303)"
+    legend_private_paid: "Private Schools - already paid (€3,290)"
+    legend_private_pending: "Private Schools - to be paid (€3,700.50)"
+    img_alt: "Children in the morning ready for school in Kwale"
+  kilifi:
+    title: "Kilifi Project"
+    p1: "In September, we shared with all of you the opportunity to support a group of twenty orphaned children in the village of Tezo (in Kilifi County), whom we met through a local contact."
+    p2: "Many of these children have no essential goods, and some, lacking not only parents but also relatives, are entrusted to the care of neighbors."
+    p3: "To date, we have managed to find support for 3 children. The need is still great. We are looking for more regular supporters to ensure a stable future for the other orphans still without support."
+  christmas:
+    title: "Christmas Project 2024"
+    intro: "During the Christmas season, your generosity allowed us to purchase:"
+    mattresses: "Mattresses"
+    pillows: "Pillows"
+    gift_for_all: "Gift for all"
+    school_set: "School Set"
+    animals: "Animals"
+    total: "Total"
+    img_alt: "Distribution of the second Christmas package to one of the supported children in Kwale"
+    p_final: "Due to supply difficulties, the \"gift for all\" sets and animals will be delivered as soon as possible. All other Christmas gifts were delivered on schedule."
+  future:
+    title: "Now that we've taken stock, let's look FORWARD"
+    p1: "We are part of a project that can potentially grow enormously, and we hope it will, for the benefit of all the children who can benefit from all of this!"
+    p2_1: "That's why"
+    p2_underline: "we want you on the team"
+    p2_2: ": if you like how we work, want to help us practically with your knowledge and actions, with your ideas, with fundraising, you're already part of the team! Consider then"
+    p2_link: "becoming a member"
+    p2_3: ": with a €40 fee you will further help the association in supporting all its work and you will have a say in the annual meetings where upcoming projects are presented. Let's build Salim together!"
+    p3: "And in 2025 we ask you for one more small commitment: talk to your friends and family about Salim, about your experience with us, about the transparency that Jessica has accustomed you to and that we continue to embrace as the vision of the entire project. We have great goals in mind, but we need Salim to grow to achieve them. We will be by your side, providing you with all the support we can to help you make those small gestures that will bring great fruits in the lives of those who have less."
+    p4_1: "Thank you from the bottom of our hearts, and full steam ahead, always together."
+    p4_2: "Happy 2025, may it bring an abundance of fruits!"
+
+# Blog listing page - article cards
+listing:
+  art_25_gennaio_2025:
+    date: "January 25, 2025"
+    title: "Salim Odv participates in \"Conversescion\""
+    description: "Sara (the president) and Carlo (the treasurer) had the opportunity to appear on the radio program \"Conversescion\" on Ciao Como Radio"
+    img_alt: "Microphone and recording equipment in a studio"
+  art_14_febbraio_2025:
+    date: "February 16, 2025"
+    title: "A 2024 to Remember"
+    description: "Here's how your contributions made a difference in the lives of children in Kenya."
+    img_alt: "Children ready for school in the morning in Kwale, Kenya"
