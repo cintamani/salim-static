@@ -24,7 +24,7 @@ data_types:
 
   user_data:
     title: "b. Datos Proporcionados por el Usuario"
-    content: "Cuando el usuario envía mensajes a la Asociación a los datos de contacto indicados en las secciones de contacto, o al completar y enviar formularios en el Sitio, la Asociación adquiere y procesa los datos de contacto del usuario necesarios para responder, así como los datos personales incluidos en las comunicaciones."
+    content: "Cuando el usuario envía mensajes a la Asociación a través de los datos de contacto indicados en las secciones de contacto, o al completar y enviar formularios en el Sitio, la Asociación adquiere y procesa los datos de contacto del usuario necesarios para responder, así como los datos personales incluidos en las comunicaciones."
     additional: "También podrán ponerse a disposición avisos específicos en relación con iniciativas específicas (por ejemplo, para actividades de voluntariado, participación en eventos, etc.)."
 
   donation_data:
