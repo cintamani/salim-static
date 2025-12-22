@@ -43,17 +43,6 @@
   regione: Kwale
   esigenze_mediche: no
 
-- nome: "Steven"
-  eta: aproximadamente 13
-  descrizione: "Steven perdió a ambos padres hace varios años, y su certificado de nacimiento se perdió. Tiene dos hermanos pero viven separados, cada uno con un pariente diferente. Él vive junto con otros 6 primos con una tía que se encarga de llevar a pastar cabras y vacas. Todos duermen en el suelo sobre pedazos de cartón."
-  foto:
-    src: "/assets/images/foto/sostegni/16-Steven.jpg"
-    alt: "niño de 13 años"
-  casa: 8 personas
-  educazione: 6° primaria
-  regione: Kilifi
-  esigenze_mediche: no
-
 - nome: "Ali"
   eta: 6
   descrizione: "Ali vive en una barraca de lámina y tierra junto con otros 5 hermanos y sus padres. La mamá trabaja la tierra para otras personas y el papá prepara y vende en los lados de la carretera los Mandazi, típicos panecillos dulces fritos. Su familia hace de todo para garantizarle comida y educación pero no llegan a cubrir las necesidades de toda la familia."

@@ -43,17 +43,6 @@
   regione: Kwale
   esigenze_mediche: nein
 
-- nome: "Steven"
-  eta: etwa 13
-  descrizione: "Steven hat beide Eltern vor mehreren Jahren verloren, und seine Geburtsurkunde ging verloren. Er hat zwei Brüder, aber sie leben getrennt, jeder bei einem anderen Verwandten. Er lebt zusammen mit 6 anderen Cousins bei einer Tante, die sich um das Hüten von Ziegen und Kühen kümmert. Sie schlafen alle auf dem Boden auf Kartonteilen."
-  foto:
-    src: "/assets/images/foto/sostegni/16-Steven.jpg"
-    alt: "13-jähriger Junge"
-  casa: 8 Personen
-  educazione: 6. Klasse
-  regione: Kilifi
-  esigenze_mediche: nein
-
 - nome: "Ali"
   eta: 6
   descrizione: "Ali lebt in einer Hütte aus Blech und Lehm zusammen mit 5 anderen Geschwistern und seinen Eltern. Die Mutter hackt Land für andere Menschen und der Vater bereitet Mandazi zu und verkauft sie am Straßenrand, typische frittierte süße Brötchen. Seine Familie tut alles, um ihm Essen und Bildung zu garantieren, aber sie können die Bedürfnisse der ganzen Familie nicht decken."
