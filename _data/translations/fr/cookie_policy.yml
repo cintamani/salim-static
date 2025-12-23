@@ -4,24 +4,24 @@ meta_description: "Association Salim ODV - Politique des Cookies"
 
 what_are_cookies:
   title: "Que sont les cookies"
-  content: "Les cookies sont de petits fichiers texte que les sites web visites par les utilisateurs envoient a leurs appareils, ou ils sont stockes pour etre retransmis aux memes sites lors de visites ulterieures."
+  content: "Les cookies sont de petits fichiers texte que les sites web visités par les utilisateurs envoient à leurs appareils, où ils sont stockés pour être retransmis aux mêmes sites lors de visites ultérieures."
 
 cookies_used:
-  title: "Cookies utilises par le site web de l'Association SALIM ODV et leurs finalites"
-  content: "Le site web de l'Association SALIM ODV, dont le siege est situe Via delle Mole 16/C, 00041 Albano Laziale (RM), Italie (\"Association\" ou \"Responsable du traitement\"), disponible sur <a href=\"https://salimodv.org\">salimodv.org</a> (\"Site\"), utilise des cookies qui servent a permettre le bon fonctionnement de certaines sections (\"cookies techniques\"), a assurer certaines fonctionnalites de personnalisation (\"cookies fonctionnels\") et a ameliorer l'experience de navigation (\"cookies analytiques\")."
-  banner_info: "La premiere fois que vous visiterez le site, il vous sera demande d'accepter (ou de ne pas accepter) les cookies via une banniere. Vous pouvez refuser d'accepter tout ou partie des cookies, ou vous pouvez modifier les parametres de votre ordinateur a tout moment pour savoir quand vous recevez des cookies ou pour desactiver la fonction d'acceptation automatique des cookies."
-  categories_intro: "Le Site utilise les categories de cookies suivantes :"
+  title: "Cookies utilisés par le site web de l'Association SALIM ODV et leurs finalités"
+  content: "Le site web de l'Association SALIM ODV, dont le siège est situé Via delle Mole 16/C, 00041 Albano Laziale (RM), Italie (\"Association\" ou \"Responsable du traitement\"), disponible sur <a href=\"https://salimodv.org\">salimodv.org</a> (\"Site\"), utilise des cookies qui servent à permettre le bon fonctionnement de certaines sections (\"cookies techniques\"), à assurer certaines fonctionnalités de personnalisation (\"cookies fonctionnels\") et à améliorer l'expérience de navigation (\"cookies analytiques\")."
+  banner_info: "La première fois que vous visiterez le site, il vous sera demandé d'accepter (ou de ne pas accepter) les cookies via une bannière. Vous pouvez refuser d'accepter tout ou partie des cookies, ou vous pouvez modifier les paramètres de votre ordinateur à tout moment pour savoir quand vous recevez des cookies ou pour désactiver la fonction d'acceptation automatique des cookies."
+  categories_intro: "Le Site utilise les catégories de cookies suivantes :"
 
 cookie_types:
   technical:
     title: "Cookies techniques et fonctionnels (ou cookies de navigation, toujours actifs)"
-    content: "Ils contribuent au fonctionnement du Site, par exemple pour permettre la navigation entre les pages ; la base juridique du traitement sous-jacent a l'utilisation de ces cookies est l'interet du Responsable du traitement a fournir des services efficaces et bien fonctionnants a ses utilisateurs ; la duree de conservation de ces cookies s'etend de la date du premier acces au site jusqu'a leur desactivation."
+    content: "Ils contribuent au fonctionnement du Site, par exemple pour permettre la navigation entre les pages ; la base juridique du traitement sous-jacent à l'utilisation de ces cookies est l'intérêt du Responsable du traitement à fournir des services efficaces et bien fonctionnants à ses utilisateurs ; la durée de conservation de ces cookies s'étend de la date du premier accès au site jusqu'à leur désactivation."
   analytics:
     title: "Cookies analytiques"
-    content: "Ils permettent d'acquerir des informations statistiques sous forme agregee et anonyme, relatives aux methodes de navigation ; la base juridique du traitement sous-jacent a l'utilisation de ces cookies est l'interet du Responsable du traitement a fournir des services efficaces et bien fonctionnants a ses utilisateurs ; la duree de conservation de ces cookies s'etend de la date de leur activation sur le site jusqu'a leur desactivation. L'utilisateur peut accepter et desactiver - a sa discretion - ces cookies en utilisant la banniere ou le tableau present dans cette politique."
+    content: "Ils permettent d'acquérir des informations statistiques sous forme agrégée et anonyme, relatives aux méthodes de navigation ; la base juridique du traitement sous-jacent à l'utilisation de ces cookies est l'intérêt du Responsable du traitement à fournir des services efficaces et bien fonctionnants à ses utilisateurs ; la durée de conservation de ces cookies s'étend de la date de leur activation sur le site jusqu'à leur désactivation. L'utilisateur peut accepter et désactiver - à sa discrétion - ces cookies en utilisant la bannière ou le tableau présent dans cette politique."
 
 our_cookies:
-  title: "Liste des cookies crees et geres par Salim ODV"
+  title: "Liste des cookies créés et gérés par Salim ODV"
   table:
     cookie_name: "Nom du Cookie"
     purpose: "Objectif"
@@ -35,7 +35,7 @@ our_cookies:
       expiry: "180 jours"
     marketing:
       name: "marketingCookies"
-      purpose: "Enregistre votre preference concernant les cookies analytiques"
+      purpose: "Enregistre votre préférence concernant les cookies analytiques"
       type: "Fonctionnel"
       expiry: "180 jours"
 
@@ -56,25 +56,25 @@ third_party_cookies:
     stripe:
       name: "__stripe_mid, __stripe_sid"
       provider: "Stripe"
-      purpose: "Traitement des paiements et prevention de la fraude"
+      purpose: "Traitement des paiements et prévention de la fraude"
       type: "Fonctionnel"
 
 google_analytics:
   title: "Google Analytics"
-  content_1: "Afin d'analyser comment le Site est utilise, Google Analytics est utilise, un service d'analyse web fourni par Google Inc. (\"Google\") qui utilise des cookies stockes sur votre ordinateur pour nous permettre d'effectuer des analyses statistiques. Les donnees collectees sont sous forme agregee et ne permettent en aucun cas de vous identifier."
-  privacy_link_text: "Pour consulter la politique de confidentialite de Google relative au service Google Analytics, visitez"
-  policy_link_text: "Pour connaitre les politiques de confidentialite de Google, visitez"
-  content_2: "Les cookies Google Analytics peuvent etre refuses selon la procedure indiquee par Google. Par consequent, si vous continuez a utiliser le Site sans refuser les cookies Google Analytics, vous consentez au traitement de vos donnees par Google, limite aux methodes et finalites indiquees ci-dessus."
+  content_1: "Afin d'analyser comment le Site est utilisé, Google Analytics est utilisé, un service d'analyse web fourni par Google Inc. (\"Google\") qui utilise des cookies stockés sur votre ordinateur pour nous permettre d'effectuer des analyses statistiques. Les données collectées sont sous forme agrégée et ne permettent en aucun cas de vous identifier."
+  privacy_link_text: "Pour consulter la politique de confidentialité de Google relative au service Google Analytics, visitez"
+  policy_link_text: "Pour connaître les politiques de confidentialité de Google, visitez"
+  content_2: "Les cookies Google Analytics peuvent être refusés selon la procédure indiquée par Google. Par conséquent, si vous continuez à utiliser le Site sans refuser les cookies Google Analytics, vous consentez au traitement de vos données par Google, limité aux méthodes et finalités indiquées ci-dessus."
 
 disable_cookies:
-  title: "Comment desactiver les cookies"
-  intro: "Vous trouverez ci-dessous des liens expliquant comment desactiver les cookies pour les navigateurs les plus courants (pour d'autres navigateurs que vous pourriez utiliser, nous vous suggerons de rechercher cette option dans l'aide du logiciel normalement disponible via la touche F1) :"
-  ie: "Cliquez sur le bouton Outils puis sur Options Internet. Cliquez sur l'onglet Confidentialite et dans Parametres, deplacez le curseur vers le haut pour bloquer tous les cookies"
-  chrome: "Cliquez sur le menu dans la barre d'outils du navigateur. Selectionnez Parametres. Cliquez sur Afficher les parametres avances. Dans la section \"Confidentialite\", cliquez sur le bouton Parametres de contenu. Selectionnez \"Empecher les sites de definir des donnees\"."
-  firefox: "Cliquez sur le bouton de menu et selectionnez Options. Selectionnez le panneau Vie privee. Sous Parametres de l'historique : selectionnez utiliser les parametres personnalises. Pour activer les cookies, cochez Accepter les cookies des sites ; pour les desactiver, decochez l'option."
-  safari: "Cliquez sur \"Safari\" dans la barre de menu, puis sur \"Preferences\". Cliquez maintenant sur \"Confidentialite\", puis sur \"Details\" pour selectionner le site, puis selectionnez \"Supprimer\"."
+  title: "Comment désactiver les cookies"
+  intro: "Vous trouverez ci-dessous des liens expliquant comment désactiver les cookies pour les navigateurs les plus courants (pour d'autres navigateurs que vous pourriez utiliser, nous vous suggérons de rechercher cette option dans l'aide du logiciel normalement disponible via la touche F1) :"
+  ie: "Cliquez sur le bouton Outils puis sur Options Internet. Cliquez sur l'onglet Confidentialité et dans Paramètres, déplacez le curseur vers le haut pour bloquer tous les cookies"
+  chrome: "Cliquez sur le menu dans la barre d'outils du navigateur. Sélectionnez Paramètres. Cliquez sur Afficher les paramètres avancés. Dans la section \"Confidentialité\", cliquez sur le bouton Paramètres de contenu. Sélectionnez \"Empêcher les sites de définir des données\"."
+  firefox: "Cliquez sur le bouton de menu et sélectionnez Options. Sélectionnez le panneau Vie privée. Sous Paramètres de l'historique : sélectionnez utiliser les paramètres personnalisés. Pour activer les cookies, cochez Accepter les cookies des sites ; pour les désactiver, décochez l'option."
+  safari: "Cliquez sur \"Safari\" dans la barre de menu, puis sur \"Préférences\". Cliquez maintenant sur \"Confidentialité\", puis sur \"Détails\" pour sélectionner le site, puis sélectionnez \"Supprimer\"."
 
-more_info: "Pour plus d'informations sur la facon dont l'Association traite vos donnees, veuillez consulter la"
-privacy_policy_link: "politique de confidentialite"
+more_info: "Pour plus d'informations sur la façon dont l'Association traite vos données, veuillez consulter la"
+privacy_policy_link: "politique de confidentialité"
 
-last_update: "Derniere mise a jour : aout 2024"
+last_update: "Dernière mise à jour : août 2024"
