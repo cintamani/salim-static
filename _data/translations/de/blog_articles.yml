@@ -93,6 +93,91 @@ art_14_febbraio_2025:
     p4_1: "Herzlichen Dank, und volle Kraft voraus, immer gemeinsam."
     p4_2: "Frohes 2025, möge es eine Fülle von Früchten bringen!"
 
+# Article: 31-marzo-2026
+art_31_marzo_2026:
+  meta:
+    title: "Verein Salim ODV - Blog - Ein 2025 voller Wachstum und konkreter Hilfe"
+    description: "Ein 2025 voller Wachstum und konkreter Hilfe"
+  header:
+    title: "Ein 2025 voller Wachstum und konkreter Hilfe"
+    date: "31. März 2026"
+    subtitle: "So haben wir Ihre Beiträge im ersten Jahr des Vollbetriebs des Vereins eingesetzt"
+  highlights:
+    title: "Highlights"
+    families: "unterstützte Familien"
+    essential_goods: "für lebensnotwendige Güter"
+    children_school: "Kinder schulisch unterstützt"
+    special_projects: "für besondere Projekte"
+  intro:
+    p1: "Das Jahr 2025 war für Salim ODV das <strong>erste Jahr im Vollbetrieb</strong>: Wir konnten kontinuierlich arbeiten, mit einem strukturierteren Interventionsplan und einer aufmerksameren Überwachung der Bedürfnisse der Familien und Kinder, mit denen wir in Kenia zusammenarbeiten."
+    p2: "Dank Ihres Vertrauens und der Großzügigkeit unserer Unterstützer haben wir insgesamt <strong>74 Familien</strong> unterstützt und Ressourcen sowie Dienstleistungen gerecht, gezielt und transparent verteilt."
+  essential_goods:
+    title: "Lebensnotwendige Güter — 30.575 €"
+    description: "Um den Familien Lebensunterhalt, Ernährung und Würde zu gewährleisten, haben wir Lebensmittel und grundlegende Produkte für den Alltag verteilt. Nur um einige Beispiele zu nennen:"
+    flour: "9.330 kg Mehl"
+    fruit_veg: "5.700 kg Obst und Gemüse"
+    fish: "2.730 kg Fisch"
+    pasta_rice: "3.070 kg Nudeln und Reis"
+    closing: "…und viele weitere Güter, die in den Dörfern verteilt wurden."
+    p2: "Diese Produkte waren entscheidend, um die Schwierigkeiten vieler Familien zu lindern und nahrhafte Mahlzeiten sowie eine kontinuierliche Ernährung zu gewährleisten."
+  clothing_hygiene:
+    title: "Kleidung und Hygieneprodukte — 12.205 €"
+    description: "Die Unterstützung beschränkte sich nicht nur auf Lebensmittel. Wir haben verteilt:"
+    clothes: "Neue und gebrauchte Kleidung, deren Anzahl wir nicht objektiv quantifizieren konnten"
+    pads: "2.600 Damenbinden, um einem konkreten und oft vernachlässigten Bedürfnis zu begegnen"
+    soap: "315 Seifensets für die persönliche Pflege und Wäsche, die für die tägliche Hygiene unerlässlich sind"
+    reason_intro: "Für diejenigen, die fragen, warum wir uns auch für die Verteilung neuer Kleidung entscheiden, gibt es im Wesentlichen zwei Gründe:"
+    reason_logistics: "<strong>Logistik</strong>: Güter per Container nach Afrika zu senden ist sehr kostspielig, und es ist nicht immer sicher, dass die Ware am Ziel ankommt; deshalb nutzen wir bei jeder Reise die Frachtkapazität unserer Freiwilligen per Flugzeug."
+    reason_local: "<strong>Unterstützung der lokalen Wirtschaft</strong>: Wir glauben, dass lokale Produzenten die Möglichkeit haben sollten, ihren Lebensunterhalt zu verdienen, und fördern den Einsatz lokaler Arbeitskräfte und Schneiderinnen."
+  education:
+    title: "Schulmaterialien und Schulgebühren — 8.837 €"
+    p1: "Wir glauben, dass <strong>Bildung ein Schlüsselinstrument für die Zukunft</strong> ist. Im Jahr 2025 haben wir <strong>14 Kinder</strong> unterstützt mit:"
+    fees: "Schulgebühren für die Privatschule"
+    materials: "Bücher, Hefte, Schreibwaren, Atlanten, Enzyklopädien und Wörterbücher"
+    closing: "Diese Materialien sind nicht nur Lernwerkzeuge: Sie sind die Schlüssel, um neue Perspektiven und Hoffnungen im Leben jedes Schülers zu eröffnen."
+  special_projects:
+    title: "Besondere Projekte — 2.830 €"
+    intro: "Besondere Aufmerksamkeit möchten wir den im Laufe des Jahres gestarteten <strong>besonderen Projekten</strong> widmen."
+  medical:
+    title: "Allgemeiner medizinischer Check-up"
+    p1: "Zu Weihnachten haben wir etwas <strong>völlig Neues</strong> im Vergleich zu den Vorjahren angeboten: einen vollständigen medizinischen Check-up für unsere Kinder, mit dem Ziel, <strong>ihre Gesundheit gründlich zu überprüfen</strong>."
+    p2: "Von den <strong>16 beteiligten Kindern</strong> benötigten <strong>10 weiterführende Untersuchungen und medizinische Behandlungen</strong>."
+    p3: "Darunter erhielt <strong>1 Kind die Möglichkeit, kostenlos an einem chirurgischen Eingriffsprogramm von Operation Smile teilzunehmen</strong>, das ihm ermöglichen wird, <strong>zum ersten Mal in seinem Leben richtig zu sprechen</strong>."
+    social_note: "Wer seine Geschichte besser kennenlernen möchte, findet weitere Details auf unseren Social-Media-Seiten."
+    p4: "Das Bewusstsein für die Fragilität ihrer Gesundheit — die von außen nicht immer sichtbar ist — hat uns dazu gebracht, <strong>den medizinischen Check-up in die festen Hilfsprojekte aufzunehmen</strong>."
+    p5: "Ab sofort können Sie einen <em>\"ausgesetzten Check-up\"</em> für ein Kind verschenken und aktiv an seinem Gesundheitsweg teilnehmen."
+  haller:
+    title: "Besuch im Haller Park"
+    p1: "Das andere große Weihnachtserlebnis war der <strong>Besuch im Haller Park</strong>, dem Tierpark von Mombasa."
+    p2: "Die meisten Kinder hatten <strong>noch nie ihr Dorf verlassen oder eine Großstadt gesehen</strong>. Dieser Bildungsausflug war nicht nur Unterhaltung:"
+    bullet1: "Er weckte die <strong>Neugier und Offenheit</strong> der Kinder"
+    bullet2: "Er ermöglichte ihnen, sich mit neuen Umgebungen auseinanderzusetzen"
+    bullet3: "Er förderte <strong>direktes Lernen durch Natur und Tiere</strong> und schuf bleibende Erinnerungen, die das Selbstwertgefühl und die sozialen Beziehungen stärken"
+    closing: "Diese Bildungserlebnisse sind entscheidend, um den Horizont der Kinder zu erweitern und ihnen zu helfen, Vertrauen in sich selbst und ihre Träume aufzubauen."
+  outlook:
+    title: "Ausblick und Projekte für 2026"
+  solidarity_gifts:
+    title: "Solidarische Geschenke — Spenden zum Teilen"
+    p1: "Angetrieben von der Idee, Salim ODV auf einem Dorfmarkt zu bewerben, haben wir ein handwerkliches Konzept entwickelt, das den Geist unserer Mission widerspiegelt. Die Resonanz auf diese Idee war so herzlich, dass wir beschlossen haben, <strong>sie zu einem festen Projekt weiterzuentwickeln</strong>:"
+    p2: "Solidarische Geschenke für Anlässe wie <strong>Hochzeiten, Firmungen, Abschlussfeiern, Jahresendgeschenke für Lehrer und Mitarbeiter</strong>..."
+    p3: "Es handelt sich um <strong>einzigartige, handgefertigte Vorschläge</strong>, die als <strong>etwas Greifbares gedacht sind, das Sie mit Freunden und lieben Menschen teilen können</strong>, während Sie die Geschichte von Salim erzählen und ein konkretes Projekt unterstützen."
+    p4: "Kontaktieren Sie uns, um gemeinsam Ihr individuelles Angebot zu gestalten, und in Kürze finden Sie einen eigenen Bereich auf unserer Website."
+  solidarity_trips:
+    title: "Solidarische Reisen"
+    p1: "Haben Sie schon einmal daran gedacht, eine Erfahrung in Kenia in direktem Kontakt mit der ländlichen Realität der Dörfer zu machen? Möchten Sie <strong>die Wirkung der Projekte von Salim hautnah erleben</strong>, die unterstützten Familien kennenlernen und wirklich verstehen, was es bedeutet, vor Ort zu arbeiten?"
+    p2: "Im Jahr 2026 möchten wir die Türen für diejenigen öffnen, die eine Erfahrung des <strong>Freiwilligendienstes und des Eintauchens in die kenianische Kultur</strong> machen möchten, begleitet von Menschen, die diese Orte zutiefst kennen."
+    p3: "<strong>Jessica und Salimu</strong> werden bereit sein, Sie zu empfangen und Sie auf einem authentischen Weg zu begleiten: zwischen Dörfern, aktiven Projekten und Momenten echten Austauschs, mit der Unterstützung einer langjährigen Erfahrung in der Gastfreundschaft und der Organisation verantwortungsvoller Safaris."
+    p4: "Keine einfache Reise, sondern eine Erfahrung, die Spuren hinterlässt — innerlich und äußerlich."
+  health_project:
+    title: "Projekt \"Ausgesetzte Gesundheit\""
+    p1: "Die Erfahrung der medizinischen Check-ups im Jahr 2025 hat uns die Augen für eine oft unsichtbare Realität geöffnet: <strong>die Fragilität der Gesundheit der Kinder</strong>, auch wenn sie äußerlich gesund erscheinen."
+    p2: "Aus diesem Grund haben wir beschlossen, das Projekt <strong>\"Ausgesetzte Gesundheit\"</strong>, das bereits mit den Weihnachts-Check-ups begonnen wurde, dauerhaft zu etablieren."
+    p3: "Ab sofort ist es möglich, <strong>einem Kind einen ausgesetzten medizinischen Check-up zu schenken</strong> und damit direkt und konkret zur Prävention, Früherkennung und Behandlung beizutragen."
+    p4: "Eine einfache Geste, die die Zukunft eines Kindes grundlegend verändern kann."
+  thanks:
+    title: "Herzlichen Dank"
+    p1: "All diese Ergebnisse sind <strong>nur dank Ihnen</strong> möglich: dank Ihres Vertrauens, Ihrer Unterstützung und Ihrer Nähe. Die Früchte unserer Arbeit in vollständiger <strong>Transparenz und Verantwortung</strong> zu teilen, ist ein grundlegender Wert für Salim ODV, denn wir glauben, dass jeder Spender wissen sollte, wie sein Beitrag ankommt und sich im Leben derer, die ihn empfangen, in Frucht verwandelt."
+
 # Blog listing page - article cards
 listing:
   art_25_gennaio_2025:
@@ -105,3 +190,8 @@ listing:
     title: "Ein unvergessliches 2024"
     description: "So haben Ihre Beiträge das Leben der Kinder in Kenia verändert."
     img_alt: "Kinder morgens schulbereit in Kwale, Kenia"
+  art_31_marzo_2026:
+    date: "31. März 2026"
+    title: "Ein 2025 voller Wachstum und konkreter Hilfe"
+    description: "So haben wir Ihre Beiträge im ersten Jahr des Vollbetriebs des Vereins eingesetzt."
+    img_alt: "Kinder und Familien, die vom Verein Salim ODV in Kenia unterstützt werden"

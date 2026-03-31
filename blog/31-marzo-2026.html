@@ -1,0 +1,220 @@
+---
+layout: default
+title: Associazione Salim ODV - Blog - Un 2025 di crescita e di aiuto concreto
+lang: it
+permalink: /blog/31-marzo-2026
+description: Un 2025 di crescita e di aiuto concreto
+keywords: blog, articoli, associazione, volontariato, Salim ODV, associazione salim, 2025, 2026, progetti, donazioni, bambini, famiglie, Kenya, cibo, istruzione, scuola, salute, check-up, trasparenza, volontari, soci
+---
+{% assign a = site.data.translations[site.active_lang].blog_articles.art_31_marzo_2026 %}
+
+<div class="container-lg">
+  <article id="2025-review" class="m-2 m-md-3 m-lg-5 pb-5">
+    <div class="mt-3 p-4 mb-4 mark rounded-3">
+      <div class="container-fluid py-5">
+        <div class="row row-cols-md-2 row-cols-1">
+          <div class="col pb-md-0 pb-3">
+            <h1 class="display-1 ">{{ a.header.title }}</h1>
+            <p class="article-meta">{{ a.header.date }}</p>
+            <h2 class="display-7 fw-bold lh-base">
+              {{ a.header.subtitle }}
+            </h2>
+          </div>
+          <div class="col p-0 px-md-5">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 550">
+              <!-- Title Box -->
+              <rect x="0" y="0" width="600" height="70" rx="10" fill="#c5d187"/>
+              <text x="300" y="45" font-size="32" font-weight="bold" fill="#382213" text-anchor="middle">{{ a.highlights.title }}</text>
+
+              <!-- Stats Grid -->
+              <!-- Top Left -->
+              <g transform="translate(0, 90)">
+                <rect x="0" y="0" width="280" height="220" rx="10" fill="#382213"/>
+                <text x="140" y="90" font-size="54" font-weight="bold" fill="#ffbf4a" text-anchor="middle">74</text>
+                <text x="140" y="160" font-size="24" fill="#c5d187" text-anchor="middle">{{ a.highlights.families }}</text>
+              </g>
+
+              <!-- Top Right -->
+              <g transform="translate(320, 90)">
+                <rect x="0" y="0" width="280" height="220" rx="10" fill="#382213"/>
+                <text x="140" y="90" font-size="54" font-weight="bold" fill="#ffbf4a" text-anchor="middle">30.575€</text>
+                <text x="140" y="160" font-size="24" fill="#c5d187" text-anchor="middle">{{ a.highlights.essential_goods }}</text>
+              </g>
+
+              <!-- Bottom Left -->
+              <g transform="translate(0, 330)">
+                <rect x="0" y="0" width="280" height="220" rx="10" fill="#382213"/>
+                <text x="140" y="90" font-size="54" font-weight="bold" fill="#ffbf4a" text-anchor="middle">14</text>
+                <text x="140" y="160" font-size="24" fill="#c5d187" text-anchor="middle">{{ a.highlights.children_school }}</text>
+              </g>
+
+              <!-- Bottom Right -->
+              <g transform="translate(320, 330)">
+                <rect x="0" y="0" width="280" height="220" rx="10" fill="#382213"/>
+                <text x="140" y="90" font-size="54" font-weight="bold" fill="#ffbf4a" text-anchor="middle">2.830€</text>
+                <text x="140" y="160" font-size="24" fill="#c5d187" text-anchor="middle">{{ a.highlights.special_projects }}</text>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section id="intro" class="mb-4">
+      <p class="fs-4">
+        {{ a.intro.p1 }}
+      </p>
+      <p class="fs-4">
+        {{ a.intro.p2 }}
+      </p>
+    </section>
+
+    <section id="beni-prima-necessita" class="mb-4">
+      <h3 class="display-6">{{ a.essential_goods.title }}</h3>
+      <p class="fs-4">
+        {{ a.essential_goods.description }}
+      </p>
+      <ul class="fs-4">
+        <li><strong>{{ a.essential_goods.flour }}</strong></li>
+        <li><strong>{{ a.essential_goods.fruit_veg }}</strong></li>
+        <li><strong>{{ a.essential_goods.fish }}</strong></li>
+        <li><strong>{{ a.essential_goods.pasta_rice }}</strong></li>
+      </ul>
+      <p class="fs-5 fst-italic">{{ a.essential_goods.closing }}</p>
+      <p class="fs-4">
+        {{ a.essential_goods.p2 }}
+      </p>
+    </section>
+
+    <section id="vestiti-igiene" class="mb-4">
+      <h3 class="display-6">{{ a.clothing_hygiene.title }}</h3>
+      <p class="fs-4">
+        {{ a.clothing_hygiene.description }}
+      </p>
+      <ul class="fs-4">
+        <li><strong>{{ a.clothing_hygiene.clothes }}</strong></li>
+        <li><strong>{{ a.clothing_hygiene.pads }}</strong></li>
+        <li><strong>{{ a.clothing_hygiene.soap }}</strong></li>
+      </ul>
+      <p class="fs-4">
+        {{ a.clothing_hygiene.reason_intro }}
+      </p>
+      <ul class="fs-4">
+        <li>{{ a.clothing_hygiene.reason_logistics }}</li>
+        <li>{{ a.clothing_hygiene.reason_local }}</li>
+      </ul>
+    </section>
+
+    <section id="istruzione" class="mb-4">
+      <h3 class="display-6">{{ a.education.title }}</h3>
+      <p class="fs-4">
+        {{ a.education.p1 }}
+      </p>
+      <ul class="fs-4">
+        <li>{{ a.education.fees }}</li>
+        <li>{{ a.education.materials }}</li>
+      </ul>
+      <p class="fs-4">
+        {{ a.education.closing }}
+      </p>
+    </section>
+
+    <section id="progetti-speciali" class="mb-4">
+      <h3 class="display-6">{{ a.special_projects.title }}</h3>
+      <p class="fs-4">
+        {{ a.special_projects.intro }}
+      </p>
+
+      <h4 class="display-7 mt-4">{{ a.medical.title }}</h4>
+      <p class="fs-4">
+        {{ a.medical.p1 }}
+      </p>
+      <p class="fs-4">
+        {{ a.medical.p2 }}
+      </p>
+      <p class="fs-4">
+        {{ a.medical.p3 }}
+      </p>
+      <p class="fs-5 fst-italic">
+        {{ a.medical.social_note }}
+      </p>
+      <p class="fs-4">
+        {{ a.medical.p4 }}
+      </p>
+      <p class="fs-4 fw-bold">
+        {{ a.medical.p5 }}
+      </p>
+
+      <h4 class="display-7 mt-4">{{ a.haller.title }}</h4>
+      <p class="fs-4">
+        {{ a.haller.p1 }}
+      </p>
+      <p class="fs-4">
+        {{ a.haller.p2 }}
+      </p>
+      <ul class="fs-4">
+        <li>{{ a.haller.bullet1 }}</li>
+        <li>{{ a.haller.bullet2 }}</li>
+        <li>{{ a.haller.bullet3 }}</li>
+      </ul>
+      <p class="fs-4">
+        {{ a.haller.closing }}
+      </p>
+    </section>
+
+    <section id="prospettive-2026" class="mb-4">
+      <h3 class="display-6">{{ a.outlook.title }}</h3>
+
+      <h4 class="display-7 mt-4">{{ a.solidarity_gifts.title }}</h4>
+      <p class="fs-4">
+        {{ a.solidarity_gifts.p1 }}
+      </p>
+      <p class="fs-4 fw-bold">
+        {{ a.solidarity_gifts.p2 }}
+      </p>
+      <p class="fs-4">
+        {{ a.solidarity_gifts.p3 }}
+      </p>
+      <p class="fs-4">
+        {{ a.solidarity_gifts.p4 }}
+      </p>
+
+      <h4 class="display-7 mt-4">{{ a.solidarity_trips.title }}</h4>
+      <p class="fs-4">
+        {{ a.solidarity_trips.p1 }}
+      </p>
+      <p class="fs-4">
+        {{ a.solidarity_trips.p2 }}
+      </p>
+      <p class="fs-4">
+        {{ a.solidarity_trips.p3 }}
+      </p>
+      <p class="fs-4 fst-italic">
+        {{ a.solidarity_trips.p4 }}
+      </p>
+
+      <h4 class="display-7 mt-4">{{ a.health_project.title }}</h4>
+      <p class="fs-4">
+        {{ a.health_project.p1 }}
+      </p>
+      <p class="fs-4">
+        {{ a.health_project.p2 }}
+      </p>
+      <p class="fs-4">
+        {{ a.health_project.p3 }}
+      </p>
+      <p class="fs-4 fw-bold">
+        {{ a.health_project.p4 }}
+      </p>
+    </section>
+
+    <section id="grazie" class="mb-4">
+      <h3 class="display-6">{{ a.thanks.title }}</h3>
+      <p class="fs-4">
+        {{ a.thanks.p1 }}
+      </p>
+
+      {% include blog-call-to-action-box.html %}
+    </section>
+  </article>
+</div>
