@@ -93,6 +93,91 @@ art_14_febbraio_2025:
     p4_1: "Thank you from the bottom of our hearts, and full steam ahead, always together."
     p4_2: "Happy 2025, may it bring an abundance of fruits!"
 
+# Article: 31-marzo-2026
+art_31_marzo_2026:
+  meta:
+    title: "Salim ODV Association - Blog - A 2025 of Growth and Concrete Help"
+    description: "A 2025 of Growth and Concrete Help"
+  header:
+    title: "A 2025 of Growth and Concrete Help"
+    date: "March 31, 2026"
+    subtitle: "Here's how we used your contributions in the association's first full year of operation"
+  highlights:
+    title: "Highlights"
+    families: "families supported"
+    essential_goods: "in essential goods"
+    children_school: "children supported in school"
+    special_projects: "in special projects"
+  intro:
+    p1: "2025 was Salim ODV's <strong>first full year of operation</strong>: we were able to work continuously, with a more structured intervention plan and closer monitoring of the needs of the families and children we work with in Kenya."
+    p2: "Thanks to your trust and the generosity of our supporters, we supported a total of <strong>74 families</strong> and distributed resources and services in a fair, targeted, and transparent manner."
+  essential_goods:
+    title: "Essential goods — €30,575"
+    description: "To ensure sustenance, nutrition, and dignity for the families, we distributed food and essential products for daily life. Just to give a few examples:"
+    flour: "9,330 kg of flour"
+    fruit_veg: "5,700 kg of fruit and vegetables"
+    fish: "2,730 kg of fish"
+    pasta_rice: "3,070 kg of pasta and rice"
+    closing: "…and many other goods distributed across the villages."
+    p2: "These products were essential in alleviating the hardships of many families, ensuring nutritious meals and food security."
+  clothing_hygiene:
+    title: "Clothing and hygiene products — €12,205"
+    description: "Our support didn't stop at food. We also distributed:"
+    clothes: "New and used clothing, which we were unable to objectively quantify in number"
+    pads: "2,600 sanitary pads, addressing a real and often overlooked need"
+    soap: "315 soap sets for personal care and laundry, essential for daily hygiene"
+    reason_intro: "For those wondering why we also choose to distribute new clothing, there are essentially two reasons:"
+    reason_logistics: "<strong>Logistics</strong>: shipping goods to Africa by container is very expensive and there is no guarantee the items will reach their destination; that's why we make the most of the cargo capacity available on our volunteers' flights."
+    reason_local: "<strong>Supporting the local economy</strong>: we believe that local producers should have the opportunity to sustain themselves, and we promote the use of local labor and seamstresses."
+  education:
+    title: "School materials and tuition fees — €8,837"
+    p1: "We believe that <strong>education is a key tool for the future</strong>. In 2025, we supported <strong>14 children</strong> with:"
+    fees: "Private school tuition fees"
+    materials: "Books, notebooks, stationery, atlases, encyclopedias, and dictionaries"
+    closing: "These materials are not just learning tools: they are the keys to opening new perspectives and hopes in every student's life."
+  special_projects:
+    title: "Special projects — €2,830"
+    intro: "We want to give special attention to the <strong>special projects</strong> launched during the year."
+  medical:
+    title: "General medical check-up"
+    p1: "For Christmas, we proposed something <strong>completely new</strong> compared to previous years: a full medical check-up for our children, with the goal of <strong>thoroughly assessing their health</strong>."
+    p2: "Of the <strong>16 children involved</strong>, <strong>10 needed further tests and medical treatment</strong>."
+    p3: "Among them, <strong>1 child was given the opportunity to access a free surgical program with Operation Smile</strong>, which will allow him to <strong>speak properly for the first time in his life</strong>."
+    social_note: "Those who would like to learn more about his story can find further details on our social media pages."
+    p4: "The realization of how precarious their health is — not always visible from the outside — led us to <strong>include the medical check-up among our permanent support projects</strong>."
+    p5: "From now on, you can give a <em>\"suspended check-up\"</em> for a child and become an active part of their health journey."
+  haller:
+    title: "Visit to Haller Park"
+    p1: "The other great Christmas experience was the <strong>visit to Haller Park</strong>, the animal park in Mombasa."
+    p2: "Most of the children <strong>had never left their village or seen a big city</strong>. This educational outing was not just fun:"
+    bullet1: "it stimulated the children's <strong>curiosity and open-mindedness</strong>"
+    bullet2: "it allowed them to experience new environments"
+    bullet3: "it fostered <strong>direct learning through nature and animals</strong>, creating lasting memories that support self-esteem and social relationships"
+    closing: "These educational experiences are essential for broadening children's horizons and helping them build confidence in themselves and their dreams."
+  outlook:
+    title: "Outlook and projects for 2026"
+  solidarity_gifts:
+    title: "Solidarity gifts — Giving to share"
+    p1: "Driven by the idea of promoting Salim ODV at a local village market, we launched a handcrafted concept that reflects the spirit of our mission. The response was so warm that we decided to <strong>develop it into a permanent project</strong>:"
+    p2: "Solidarity gifts for occasions such as <strong>weddings, confirmations, graduations, end-of-year gifts for teachers and employees</strong>..."
+    p3: "These are <strong>unique handmade creations</strong>, designed to be <strong>something tangible you can share with friends and loved ones</strong>, telling the story of Salim while supporting a concrete project."
+    p4: "Contact us to create your custom proposal together, and soon you'll find a dedicated section on our website."
+  solidarity_trips:
+    title: "Solidarity trips"
+    p1: "Have you ever thought about experiencing Kenya in direct contact with the rural realities of the villages? Would you like to <strong>see firsthand the impact of Salim's projects</strong>, meet the supported families, and truly understand what it means to work in the field?"
+    p2: "In 2026, we want to open our doors to those who wish to experience <strong>volunteering and immersion in Kenyan culture</strong>, accompanied by people who know these places deeply."
+    p3: "<strong>Jessica and Salimu</strong> will be ready to welcome you and guide you on an authentic journey: through villages, active projects, and moments of genuine sharing, with the support of extensive experience in hospitality and organizing responsible safaris."
+    p4: "Not just a trip, but an experience that leaves its mark — inside and out."
+  health_project:
+    title: "\"Suspended Health\" Project"
+    p1: "The experience of the 2025 medical check-ups opened our eyes to an often invisible reality: <strong>the fragility of children's health</strong>, even when they appear to be doing well."
+    p2: "For this reason, we decided to make the <strong>\"Suspended Health\"</strong> project permanent, which was already launched with the Christmas check-ups."
+    p3: "From now on, it is possible to <strong>give a suspended medical check-up</strong> to a child, contributing directly and concretely to prevention, early diagnosis, and treatment."
+    p4: "A simple gesture that can radically change a child's future."
+  thanks:
+    title: "Thank you from the heart"
+    p1: "All these results are possible <strong>only thanks to you</strong>: your trust, your support, and your closeness. Sharing the fruits of our work in complete <strong>transparency and accountability</strong> is a core value for Salim ODV, because we believe every donor should know how their contribution arrives and transforms into fruit in the lives of those who receive it."
+
 # Blog listing page - article cards
 listing:
   art_25_gennaio_2025:
@@ -105,3 +190,8 @@ listing:
     title: "A 2024 to Remember"
     description: "Here's how your contributions made a difference in the lives of children in Kenya."
     img_alt: "Children ready for school in the morning in Kwale, Kenya"
+  art_31_marzo_2026:
+    date: "March 31, 2026"
+    title: "A 2025 of Growth and Concrete Help"
+    description: "Here's how we used your contributions in the association's first full year of operation."
+    img_alt: "Children and families supported by the Salim ODV association in Kenya"

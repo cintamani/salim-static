@@ -93,6 +93,91 @@ art_14_febbraio_2025:
     p4_1: "Merci du fond du cœur, et en avant toute, toujours ensemble."
     p4_2: "Bonne année 2025, qu'elle apporte une abondance de fruits !"
 
+# Article: 31-marzo-2026
+art_31_marzo_2026:
+  meta:
+    title: "Association Salim ODV - Blog - Une année 2025 de croissance et d'aide concrète"
+    description: "Une année 2025 de croissance et d'aide concrète"
+  header:
+    title: "Une année 2025 de croissance et d'aide concrète"
+    date: "31 mars 2026"
+    subtitle: "Voici comment nous avons utilisé vos contributions au cours de la première année à plein régime de l'association"
+  highlights:
+    title: "Points forts"
+    families: "familles soutenues"
+    essential_goods: "en biens de première nécessité"
+    children_school: "enfants soutenus à l'école"
+    special_projects: "en projets spéciaux"
+  intro:
+    p1: "L'année 2025 a été pour Salim ODV la <strong>première année d'activité à plein régime</strong> : nous avons pu opérer en continu, avec un plan d'intervention plus structuré et un suivi plus attentif des besoins des familles et des enfants avec lesquels nous collaborons au Kenya."
+    p2: "Grâce à votre confiance et à la générosité de nos soutiens, nous avons accompagné un total de <strong>74 familles</strong> et distribué des ressources et des services de manière équitable, ciblée et transparente."
+  essential_goods:
+    title: "Biens de première nécessité — 30 575 €"
+    description: "Pour garantir subsistance, nutrition et dignité aux familles, nous avons distribué des denrées alimentaires et des produits essentiels pour la vie quotidienne. Pour donner quelques exemples :"
+    flour: "9 330 kg de farine"
+    fruit_veg: "5 700 kg de fruits et légumes"
+    fish: "2 730 kg de poisson"
+    pasta_rice: "3 070 kg de pâtes et de riz"
+    closing: "…et bien d'autres biens distribués dans les villages."
+    p2: "Ces produits ont été essentiels pour soulager les difficultés de nombreuses familles, en garantissant des repas nutritifs et une continuité alimentaire."
+  clothing_hygiene:
+    title: "Vêtements et produits d'hygiène — 12 205 €"
+    description: "Le soutien ne s'est pas limité à la nourriture. Nous avons distribué :"
+    clothes: "Des vêtements neufs et d'occasion, que nous n'avons pas pu quantifier objectivement en nombre"
+    pads: "2 600 serviettes hygiéniques, pour répondre à un besoin concret et souvent négligé"
+    soap: "315 kits de savons pour l'hygiène personnelle et le linge, essentiels pour l'hygiène quotidienne"
+    reason_intro: "Pour ceux qui se demanderaient pourquoi nous optons aussi pour la distribution de vêtements neufs, les raisons sont essentiellement deux :"
+    reason_logistics: "<strong>Logistique</strong> : envoyer des biens en Afrique par conteneur est très coûteux et il n'est pas toujours certain que la marchandise arrive à destination ; c'est pourquoi nous cherchons à exploiter la capacité de chargement aérien de nos bénévoles à chaque voyage."
+    reason_local: "<strong>Soutien à l'économie locale</strong> : nous croyons que ceux qui produisent localement doivent avoir la possibilité de subvenir à leurs besoins et nous favorisons l'emploi de main-d'œuvre et de couturières locales."
+  education:
+    title: "Matériel scolaire et frais de scolarité — 8 837 €"
+    p1: "Nous croyons que l'<strong>éducation est un outil clé pour l'avenir</strong>. En 2025, nous avons soutenu <strong>14 enfants</strong> avec :"
+    fees: "Frais de scolarité à l'école privée"
+    materials: "Livres, cahiers, fournitures scolaires, atlas, encyclopédies et dictionnaires"
+    closing: "Ces matériels ne sont pas de simples outils d'apprentissage : ce sont les clés pour ouvrir de nouvelles perspectives et de nouveaux espoirs dans la vie de chaque élève."
+  special_projects:
+    title: "Projets spéciaux — 2 830 €"
+    intro: "Nous souhaitons accorder une attention particulière aux <strong>projets spéciaux</strong> lancés au cours de l'année."
+  medical:
+    title: "Bilan de santé général"
+    p1: "Pour Noël, nous avons proposé quelque chose de <strong>complètement nouveau</strong> par rapport aux années précédentes : un bilan de santé complet pour nos enfants, avec l'objectif de <strong>vérifier leur santé de manière approfondie</strong>."
+    p2: "Sur les <strong>16 enfants concernés</strong>, <strong>10 ont eu besoin d'examens complémentaires et de soins médicaux</strong>."
+    p3: "Parmi eux, <strong>1 enfant a obtenu la possibilité d'accéder gratuitement à un programme d'intervention chirurgicale avec Operation Smile</strong>, ce qui lui permettra de <strong>parler correctement pour la première fois de sa vie</strong>."
+    social_note: "Ceux qui souhaitent mieux connaître son histoire peuvent trouver plus de détails sur nos pages de réseaux sociaux."
+    p4: "La prise de conscience de la précarité de leur santé — pas toujours visible de l'extérieur — nous a amenés à <strong>inclure le bilan de santé parmi les projets permanents</strong> d'assistance."
+    p5: "Dès aujourd'hui, vous pouvez offrir un <em>\"bilan de santé en attente\"</em> pour un enfant et devenir un acteur actif de son parcours de santé."
+  haller:
+    title: "Visite à l'Haller Park"
+    p1: "L'autre grande expérience de Noël a été la <strong>visite à l'Haller Park</strong>, le parc animalier de Mombasa."
+    p2: "La plupart des enfants <strong>n'avaient jamais quitté leur village ni vu une grande ville</strong>. Cette sortie éducative n'a pas été qu'un divertissement :"
+    bullet1: "elle a stimulé la <strong>curiosité et l'ouverture d'esprit</strong> des enfants"
+    bullet2: "elle leur a permis de se confronter à de nouveaux environnements"
+    bullet3: "elle a favorisé un <strong>apprentissage direct à travers la nature et les animaux</strong>, créant des souvenirs durables qui renforcent l'estime de soi et les relations sociales"
+    closing: "Ces expériences éducatives sont essentielles pour élargir les horizons des enfants et les aider à construire la confiance en eux-mêmes et en leurs rêves."
+  outlook:
+    title: "Perspectives et projets pour 2026"
+  solidarity_gifts:
+    title: "Cadeaux solidaires — Donner pour partager"
+    p1: "Poussés par l'idée de promouvoir Salim ODV lors d'un marché de village, nous avons lancé un concept artisanal qui reflète l'esprit de notre mission. L'accueil de cette idée a été si chaleureux que nous avons décidé de <strong>la développer en un projet permanent</strong> :"
+    p2: "Des cadeaux solidaires pour des occasions comme les <strong>mariages, confirmations, remises de diplômes, cadeaux de fin d'année aux enseignants et aux employés</strong>..."
+    p3: "Il s'agit de <strong>propositions uniques faites à la main</strong>, conçues pour être <strong>quelque chose de tangible que vous pouvez partager avec vos amis et vos proches</strong>, en racontant l'histoire de Salim tout en soutenant un projet concret."
+    p4: "Contactez-nous pour élaborer ensemble votre proposition sur mesure, et vous trouverez bientôt une section dédiée sur notre site."
+  solidarity_trips:
+    title: "Voyages solidaires"
+    p1: "Avez-vous déjà pensé à vivre une expérience au Kenya en contact direct avec les réalités rurales des villages ? Aimeriez-vous <strong>toucher du doigt l'impact des projets de Salim</strong>, rencontrer les familles soutenues et comprendre vraiment ce que signifie travailler sur le terrain ?"
+    p2: "En 2026, nous souhaitons ouvrir nos portes à ceux qui désirent vivre une expérience de <strong>bénévolat et d'immersion dans la culture kényane</strong>, accompagnés par ceux qui connaissent profondément ces lieux."
+    p3: "<strong>Jessica et Salimu</strong> seront prêts à vous accueillir et à vous guider dans un parcours authentique : entre villages, projets actifs et moments de partage réel, avec le soutien d'une longue expérience dans l'accueil et l'organisation de safaris responsables."
+    p4: "Ce n'est pas un simple voyage, mais une expérience qui laisse des traces — en vous et autour de vous."
+  health_project:
+    title: "Projet \"Santé en Attente\""
+    p1: "L'expérience des bilans de santé de 2025 nous a ouvert les yeux sur une réalité souvent invisible : <strong>la fragilité de la santé des enfants</strong>, même lorsqu'en apparence ils semblent aller bien."
+    p2: "C'est pourquoi nous avons décidé de pérenniser le projet <strong>\"Santé en Attente\"</strong>, déjà lancé avec les bilans de Noël."
+    p3: "Dès aujourd'hui, il est possible d'<strong>offrir un bilan de santé en attente</strong> à un enfant, en contribuant de manière directe et concrète à la prévention, au diagnostic précoce et aux soins."
+    p4: "Un geste simple qui peut changer radicalement l'avenir d'un enfant."
+  thanks:
+    title: "Merci du fond du cœur"
+    p1: "Tous ces résultats ne sont possibles que <strong>grâce à vous</strong> : à votre confiance, à votre soutien et à votre proximité. Partager les fruits de notre travail en toute <strong>transparence et responsabilité</strong> est une valeur fondamentale pour Salim ODV, car nous croyons que chaque donateur doit savoir comment sa contribution arrive et se transforme en fruit dans la vie de ceux qui la reçoivent."
+
 # Blog listing page - article cards
 listing:
   art_25_gennaio_2025:
@@ -105,3 +190,8 @@ listing:
     title: "Un 2024 à retenir"
     description: "Voici comment vos contributions ont fait la différence dans la vie des enfants au Kenya."
     img_alt: "Enfants prêts pour l'école le matin à Kwale, Kenya"
+  art_31_marzo_2026:
+    date: "31 mars 2026"
+    title: "Une année 2025 de croissance et d'aide concrète"
+    description: "Voici comment nous avons utilisé vos contributions au cours de la première année à plein régime de l'association."
+    img_alt: "Enfants et familles soutenus par l'association Salim ODV au Kenya"
