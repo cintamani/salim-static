@@ -1,0 +1,25 @@
+# Proyecto Check-up Médico page
+page:
+  title: "Asociación Salim ODV - Proyectos - Check-up Médico"
+  description: "Asociación Salim ODV - Proyecto Check-up Médico - Con 70€ puedes garantizar a un niño un chequeo médico completo"
+
+header:
+  title: "Check-up Médico"
+  subtitle: "Un gesto sencillo, pero capaz de cambiar una vida."
+
+content:
+  main_title: "La salud no es un derecho garantizado para todos."
+  p1: "En muchas zonas rurales de Kenia, la salud no es un derecho garantizado, sino un lujo. Para muchas familias, incluso una simple visita médica es económicamente inalcanzable. Esto significa que problemas de salud, incluso graves, a menudo permanecen ocultos hasta que es demasiado tarde."
+  p2: "Sin embargo, bastaría poco para marcar una gran diferencia."
+  donation_cta: "Con una donación única de 70 €, puedes garantizar a un niño un chequeo completo."
+  results_title: "Los resultados hablan por sí solos."
+  results_p1: "Con el proyecto <strong>Check-up médico</strong>, queremos ofrecer a los niños más vulnerables la posibilidad de ser examinados por profesionales sanitarios cualificados. Gracias a un control completo, que incluye hemograma, es posible evaluar el estado general de salud e identificar precozmente posibles problemas."
+  results_p2: "Hasta hoy, este proyecto ya nos ha permitido examinar a decenas de niños. En dos casos, los análisis revelaron situaciones graves que requerían una intervención inmediata: un niño afectado por <strong>anemia falciforme</strong> y otro con una seria <strong>malformación del paladar</strong>."
+  results_p3: "Ambos están ahora bajo seguimiento y en tratamiento, con la posibilidad concreta de una recuperación completa."
+  why_title: "Por qué es fundamental intervenir a tiempo."
+  why_p1: "Estos resultados nos recuerdan lo fundamental que es intervenir a tiempo. La salud de los niños, incluso cuando aparentemente parecen estar bien, puede ocultar fragilidades invisibles a una mirada externa."
+  action_title: "Tú puedes ser parte de todo esto."
+  action_p1: "Puedes transformar una simple visita médica en una <strong>esperanza concreta</strong> para un niño."
+  action_p2: "Si deseas profundizar, puedes encontrar los informes de las visitas y los análisis en nuestras páginas en redes sociales."
+  social_note: ""
+  closing: "Dona hoy. Regala salud. Dona futuro."

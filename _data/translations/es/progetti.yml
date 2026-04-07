@@ -10,3 +10,7 @@ animals:
 education:
   title: "EDUCACIÓN"
   description: "Creemos que la clave para el futuro de las nuevas generaciones es la educación: invierte en la vida de quienes nunca podrían estudiar pero tienen el potencial de cambiar el destino de su país."
+
+medical_checkup:
+  title: "CHEQUEO MÉDICO"
+  description: "Con una donación de 70 € puedes garantizar a un niño un chequeo médico completo. Un gesto sencillo que puede cambiar radicalmente el futuro de un niño."

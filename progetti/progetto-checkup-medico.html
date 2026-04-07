@@ -1,0 +1,99 @@
+---
+layout: default
+title: Associazione Salim ODV - Progetti - Check-up Medico
+lang: it
+permalink: /progetti/progetto-checkup-medico
+description: Associazione Salim ODV - Progetto Check-up Medico - Con 70€ puoi garantire a un bambino un check-up medico completo
+keywords: progetti, check-up medico, salute, bambini, Salim ODV, associazione salim, africa, kenya, volontariato, donazione, emocromo
+---
+{% assign s = site.data.translations[site.active_lang].progetto_checkup_medico %}
+{% assign t = site.data.translations[site.active_lang].main %}
+
+<div class="m-2 m-md-3 m-lg-5 pb-5">
+  <div class="bd-main order-1">
+    <div class="mt-3 p-4 mb-4 mark rounded-3">
+      <div class="container-fluid py-5">
+        <div class="row row-cols-md-2 row-cols-1">
+          <div class="col pb-md-0 pb-3">
+            <h1 class="display-1">{{ s.header.title }}</h1>
+            <h2 class="display-7 fw-bold lh-base">
+              {{ s.header.subtitle }}
+            </h2>
+          </div>
+          <div class="col p-0 px-lg-5">
+            <img src="/assets/images/foto/checkup-medico-2.jpg" alt="{{ s.header.title }}" class="card-img-top img-fluid rounded-3">
+          </div>
+        </div>
+      </div>
+    </div>
+    <p class="fs-1">
+      <strong>{{ s.content.main_title }}</strong>
+    </p>
+    <p class="fs-4">
+      {{ s.content.p1 }}
+    </p>
+    <p class="fs-4">
+      {{ s.content.p2 }}
+    </p>
+
+    <div class="p-4 my-4 rounded-3" style="background-color: #fff3cd;">
+      <p class="fs-2 text-center mb-0">
+        <strong>{{ s.content.donation_cta }}</strong>
+      </p>
+    </div>
+
+    <p class="fs-2">
+      <strong>{{ s.content.results_title }}</strong>
+    </p>
+    <p class="fs-4">
+      {{ s.content.results_p1 }}
+    </p>
+    <p class="fs-4">
+      {{ s.content.results_p2 }}
+    </p>
+    <p class="fs-4">
+      {{ s.content.results_p3 }}
+    </p>
+
+    <p class="fs-2">
+      <strong>{{ s.content.why_title }}</strong>
+    </p>
+    <p class="fs-4">
+      {{ s.content.why_p1 }}
+    </p>
+
+    <p class="fs-2">
+      <strong>{{ s.content.action_title }}</strong>
+    </p>
+    <p class="fs-4">
+      {{ s.content.action_p1 }}
+    </p>
+    <p class="fs-4">
+      {{ s.content.action_p2 }}
+    </p>
+    <p class="fs-5 fst-italic">
+      {{ s.content.social_note }}
+    </p>
+    <p class="fs-4 fw-bold text-center mt-4">
+      {{ s.content.closing }}
+    </p>
+
+    <div class="text-center mb-1 mt-4">
+      <button
+        type="button"
+        class="btn btn-warning btn-lg mx-auto w-auto rounded-pill"
+        data-bs-toggle="modal"
+        data-bs-target="#DonateNowCheckupModal"
+      >
+        {{ t.buttons.donate }}
+      </button>
+    </div>
+  </div>
+</div>
+
+{%
+  include donate_now_modal.html
+    handle="DonateNowCheckupModal"
+    causale="Check-up Medico"
+    stripe_payment_link="https://donate.stripe.com/dR66q1gxcbqo0ZabIT"
+%}

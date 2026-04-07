@@ -10,3 +10,7 @@ animals:
 education:
   title: "EDUCATION"
   description: "We believe that education is the key to the future of new generations: invest in the lives of those who could never study but have the potential to change their country's future."
+
+medical_checkup:
+  title: "MEDICAL CHECK-UP"
+  description: "With a donation of €70 you can guarantee a child a complete medical check-up. A simple gesture that can radically change a child's future."

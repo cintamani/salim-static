@@ -1,0 +1,25 @@
+# Projet Check-up Médical page
+page:
+  title: "Association Salim ODV - Projets - Check-up Médical"
+  description: "Association Salim ODV - Projet Check-up Médical - Avec 70 € vous pouvez garantir à un enfant un check-up médical complet"
+
+header:
+  title: "Check-up Médical"
+  subtitle: "Un geste simple, mais capable de changer une vie."
+
+content:
+  main_title: "La santé n'est pas un droit garanti pour tous."
+  p1: "Dans de nombreuses zones rurales du Kenya, la santé n'est pas un droit garanti, mais un luxe. Pour de nombreuses familles, même une simple visite médicale est économiquement inaccessible. Cela signifie que des problèmes de santé, même graves, restent souvent cachés jusqu'à ce qu'il soit trop tard."
+  p2: "Pourtant, il suffirait de peu pour faire une grande différence."
+  donation_cta: "Avec un don unique de 70 €, vous pouvez garantir à un enfant un check-up complet."
+  results_title: "Les résultats parlent d'eux-mêmes."
+  results_p1: "Avec le projet <strong>Check-up médical</strong>, nous voulons offrir aux enfants les plus vulnérables la possibilité d'être examinés par des professionnels de santé qualifiés. Grâce à un contrôle complet, incluant une numération formule sanguine, il est possible d'évaluer l'état général de santé et de détecter précocement d'éventuelles anomalies."
+  results_p2: "À ce jour, ce projet nous a déjà permis d'examiner des dizaines d'enfants. Dans deux cas, les analyses ont révélé des situations graves nécessitant une intervention immédiate : un enfant atteint de <strong>drépanocytose</strong> et un autre présentant une grave <strong>malformation du palais</strong>."
+  results_p3: "Tous deux sont désormais suivis et en traitement, avec une possibilité concrète de guérison complète."
+  why_title: "Pourquoi il est fondamental d'intervenir à temps."
+  why_p1: "Ces résultats nous rappellent à quel point il est fondamental d'intervenir à temps. La santé des enfants, même lorsqu'ils semblent en apparence aller bien, peut cacher des fragilités invisibles à un regard extérieur."
+  action_title: "Vous pouvez faire partie de tout cela."
+  action_p1: "Vous pouvez transformer une simple visite médicale en un <strong>espoir concret</strong> pour un enfant."
+  action_p2: "Si vous souhaitez en savoir plus, vous pouvez consulter les comptes rendus des visites et des analyses sur nos pages sur les réseaux sociaux."
+  social_note: ""
+  closing: "Donnez aujourd'hui. Offrez la santé. Donnez un avenir."

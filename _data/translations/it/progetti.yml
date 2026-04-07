@@ -10,3 +10,7 @@ animals:
 education:
   title: "ISTRUZIONE"
   description: "Crediamo che la chiave per il futuro delle nuove generazioni sia l'istruzione: investi nella vita di coloro che non potrebbero mai studiare ma hanno le potenzialità di cambiare le sorti del loro paese."
+
+medical_checkup:
+  title: "CHECK-UP MEDICO"
+  description: "Con una donazione di 70 € puoi garantire a un bambino un check-up medico completo. Un gesto semplice che può cambiare radicalmente il futuro di un bambino."

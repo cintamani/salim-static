@@ -1,7 +1,7 @@
 {% assign t = site.data.translations[site.active_lang].main %}
 {% assign p = site.data.translations[site.active_lang].progetti %}
 <div class="justify-content-center py-5">
-  <div class="mx-3 my-5 row row-cols-1 row-cols-sm-2 row-cols-md-3">
+  <div class="mx-3 my-5 row row-cols-1 row-cols-sm-2 row-cols-lg-4">
     <div class="col">
       <div class="card shadow-sm">
         <div class="card">
@@ -83,6 +83,35 @@
             class="btn btn-primary"
             href="/progetti/progetto-istruzione"
             disabled
+          >
+            {{ t.buttons.learn_more }}
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col mt-3 mt-lg-0">
+      <div class="card shadow-sm">
+        <div class="card">
+          <img
+            src="/assets/images/foto/checkup-medico-2.jpg"
+            alt="{{ p.medical_checkup.title }}"
+            class="card-img-top img-fluid"
+          >
+
+          <div class="card-img-overlay bg-black bg-opacity-25">
+            <h1 class="text-white display-5 fw-bold">{{ p.medical_checkup.title }}</h1>
+          </div>
+        </div>
+
+        <div class="card-body">
+          <p class="card-text">
+            {{ p.medical_checkup.description }}
+          </p>
+
+          <a
+            class="btn btn-primary"
+            href="/progetti/progetto-checkup-medico"
           >
             {{ t.buttons.learn_more }}
           </a>

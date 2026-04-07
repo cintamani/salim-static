@@ -17,3 +17,6 @@ projects:
   distance_support:
     title: "Fernpatenschaft"
     description: "Unterstützen Sie ein Kind und seine Familie mit einer monatlichen Spende"
+  medical_checkup:
+    title: "MEDIZINISCHER CHECK-UP"
+    description: "Mit einer Spende von 70 € können Sie einem Kind eine vollständige medizinische Untersuchung ermöglichen. Eine einfache Geste, die die Zukunft eines Kindes grundlegend verändern kann."

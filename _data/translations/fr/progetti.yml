@@ -17,3 +17,6 @@ projects:
   distance_support:
     title: "Parrainage à distance"
     description: "Soutenez un enfant et sa famille avec un don mensuel"
+  medical_checkup:
+    title: "BILAN DE SANTÉ"
+    description: "Avec un don de 70 €, vous pouvez offrir à un enfant un bilan de santé complet. Un geste simple qui peut changer radicalement l'avenir d'un enfant."

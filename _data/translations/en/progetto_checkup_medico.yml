@@ -1,0 +1,25 @@
+# Medical Check-up Project page
+page:
+  title: "Salim ODV Association - Projects - Medical Check-up"
+  description: "Salim ODV Association - Medical Check-up Project - With 70 euros you can guarantee a child a complete medical check-up"
+
+header:
+  title: "Medical Check-up"
+  subtitle: "A simple gesture, but one that can change a life."
+
+content:
+  main_title: "Health is not a guaranteed right for everyone."
+  p1: "In many rural areas of Kenya, health is not a guaranteed right, but a luxury. For many families, even a simple medical visit is economically out of reach. This means that health problems, even serious ones, often remain hidden until it is too late."
+  p2: "Yet, it would take very little to make a big difference."
+  donation_cta: "With a one-time donation of 70 euros, you can guarantee a child a complete check-up."
+  results_title: "The results speak for themselves."
+  results_p1: "With the <strong>Medical Check-up</strong> project, we want to offer the most vulnerable children the opportunity to be examined by qualified health professionals. Thanks to a complete check-up, including a blood count, it is possible to assess the general state of health and identify any issues early."
+  results_p2: "To date, this project has already allowed us to examine dozens of children. In two cases, the tests revealed serious conditions that required immediate intervention: a child affected by <strong>sickle cell anaemia</strong> and another with a serious <strong>palate malformation</strong>."
+  results_p3: "Both are now being followed up and treated, with a real possibility of a full recovery."
+  why_title: "Why it is essential to intervene in time."
+  why_p1: "These results remind us how essential it is to intervene in time. Children's health, even when they appear to be doing well, can hide vulnerabilities invisible to an outside observer."
+  action_title: "You can be part of all this."
+  action_p1: "You can turn a simple medical visit into a <strong>real hope</strong> for a child."
+  action_p2: "If you would like to learn more, you can find reports of the visits and tests on our social media pages."
+  social_note: ""
+  closing: "Donate today. Give health. Give a future."

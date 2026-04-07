@@ -1,0 +1,25 @@
+# Projekt Medizinischer Check-up Seite
+page:
+  title: "Verein Salim ODV - Projekte - Medizinischer Check-up"
+  description: "Verein Salim ODV - Projekt Medizinischer Check-up - Mit 70 € können Sie einem Kind einen vollständigen medizinischen Check-up ermöglichen"
+
+header:
+  title: "Medizinischer Check-up"
+  subtitle: "Eine einfache Geste, die ein Leben verändern kann."
+
+content:
+  main_title: "Gesundheit ist kein garantiertes Recht für alle."
+  p1: "In vielen ländlichen Gebieten Kenias ist Gesundheit kein garantiertes Recht, sondern ein Luxus. Für viele Familien ist selbst ein einfacher Arztbesuch finanziell unerreichbar. Das bedeutet, dass Gesundheitsprobleme, auch schwerwiegende, oft verborgen bleiben, bis es zu spät ist."
+  p2: "Und doch würde wenig genügen, um einen großen Unterschied zu machen."
+  donation_cta: "Mit einer einmaligen Spende von 70 € können Sie einem Kind einen vollständigen Check-up ermöglichen."
+  results_title: "Die Ergebnisse sprechen für sich."
+  results_p1: "Mit dem Projekt <strong>Medizinischer Check-up</strong> möchten wir den am stärksten gefährdeten Kindern die Möglichkeit bieten, von qualifizierten Gesundheitsfachkräften untersucht zu werden. Dank einer umfassenden Untersuchung einschließlich eines Blutbildes kann der allgemeine Gesundheitszustand beurteilt und mögliche Probleme frühzeitig erkannt werden."
+  results_p2: "Bis heute hat uns dieses Projekt bereits ermöglicht, Dutzende von Kindern zu untersuchen. In zwei Fällen haben die Analysen schwerwiegende Situationen aufgedeckt, die einen sofortigen Eingriff erforderten: ein Kind mit <strong>Sichelzellenanämie</strong> und ein weiteres mit einer schweren <strong>Gaumenmissbildung</strong>."
+  results_p3: "Beide werden nun betreut und behandelt, mit der konkreten Aussicht auf eine vollständige Genesung."
+  why_title: "Warum es entscheidend ist, rechtzeitig zu handeln."
+  why_p1: "Diese Ergebnisse erinnern uns daran, wie wichtig es ist, rechtzeitig einzugreifen. Die Gesundheit der Kinder kann, auch wenn sie äußerlich wohlauf erscheinen, unsichtbare Schwachstellen verbergen."
+  action_title: "Sie können Teil von all dem sein."
+  action_p1: "Sie können einen einfachen Arztbesuch in eine <strong>konkrete Hoffnung</strong> für ein Kind verwandeln."
+  action_p2: "Wenn Sie mehr erfahren möchten, finden Sie die Berichte der Untersuchungen und Analysen auf unseren Social-Media-Seiten."
+  social_note: ""
+  closing: "Spenden Sie heute. Schenken Sie Gesundheit. Schenken Sie Zukunft."
