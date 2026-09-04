@@ -13,14 +13,13 @@
       </div>
       <div class="modal-body">
         {% if include.disclaimer %}
-          <div class="p-3 mark rounded-3 mb-3">
+          <div class="p-3 mark rounded-3 mb-3 text-center">
             <h2 class="fs-3 text-center mx-auto my-0">
               {{include.disclaimer}}
             </h2>
           </div>
         {% endif %}
-        <h2 class="fs-4 mb-0">{{ t.donate_modal.bank_transfer }}</h2>
-        <h3 class="fs-5 mb-3 text-dark text-decoration-underline">{{ t.donate_modal.bank_transfer_description }}</h3>
+        <h2 class="fs-4 mb-0 text-center mb-2">{{ t.donate_modal.bank_transfer }}</h2>
         {% if include.causale %}
           <div class="fs-5">
             {{ t.donate_modal.causale }}: <em>{{ include.causale }}</em>
@@ -50,24 +49,6 @@
           </div>
         </div>
         <hr>
-        <h4 class="fs-5 {% unless include.causale %}mb-4{% endunless %}">{{ t.donate_modal.or_use_card }}</h4>
-        {% if include.causale %}
-          <h3 class="fs-5 mb-4 text-dark text-decoration-underline">
-            {{ include.card_price_disclaimer }}
-          </h3>
-        {% endif %}
-
-        <div class="d-flex">
-          <a
-            href="{% if include.stripe_payment_link %}{{include.stripe_payment_link}}{% else %}https://buy.stripe.com/8wMcOp2GmbqofU43cg{% endif %}"
-            class="btn btn-warning btn-md mx-auto w-auto rounded-pill"
-          >
-            <i class="bi bi-credit-card"></i>
-            {{ t.buttons.donate }}
-          </a>
-        </div>
-
-        <hr>
         <div class="text-center">
           <h2 class="fs-4 mb-0">5x1000</h2>
           <div class="fs-5">
@@ -75,6 +56,37 @@
             <a type="button" class="btn-copy-to-clipboard ms-1 text-black" aria-label="copy" data-clipboard-text="90101180587">
               <i data-bs-toggle="tooltip" data-bs-title="{{ t.buttons.copy }}" class="bi bi-clipboard"></i>
             </a>
+          </div>
+        </div>
+        <hr>
+        <div class="d-flex">
+          <div class="p-2 flex-fill">
+            <p class="h5">
+              <a href="mailto:info@salimodv.org">
+                <i class="align-top bi-envelope-heart me-1"></i>info@salimodv.org
+              </a>
+            </p>
+            <p class="h5">
+              <a href="https://www.facebook.com/people/Salim-ODV/61565249391287/" target="_blank">
+                <i class="align-top bi-facebook me-1"></i>Facebook
+              </a>
+            </p>
+            <p class="h5">
+              <a href="https://www.instagram.com/salimodv/" target="_blank">
+                <i class="align-top bi-instagram me-1"></i>Instagram
+              </a>
+            </p>
+          </div>
+          <div class="p-2 flex-fill">
+            <p class="h5">
+              <i class="bi bi-telephone"></i>
+              +39 06 2019 9236
+            </p>
+            <p class="h5">
+              <a href="https://wa.me/390620199236" target="_blank">
+                <img class="align-top me-1" src="/assets/images/Digital_Glyph_Green.png" alt="whatsapp" height="20px">+39 06 2019 9236
+              </a>
+            </p>
           </div>
         </div>
       </div>

@@ -58,8 +58,8 @@ donate_modal:
 # Distance support modal
 support_modal:
   title: "Faire un don"
-  description_1: "Réfléchissez attentivement au montant que vous êtes prêt à soutenir mensuellement. Ensuite, procédez au premier paiement via le bouton ci-dessous, en entrant le montant et le nom de l'enfant dans les champs appropriés."
-  description_2: "Une fois que nous aurons reçu votre premier soutien, notre équipe vous contactera rapidement pour vous fournir toutes les informations complémentaires."
+  description_1: "Réfléchissez attentivement au montant que vous êtes prêt à soutenir mensuellement."
+  description_2: "Contactez-nous avant ou après avoir effectué le paiement et nous vous fournirons toutes les informations complémentaires."
   child_name: "Nom de l'enfant à soutenir"
 
 # 5x1000 section
