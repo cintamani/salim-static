@@ -58,8 +58,8 @@ donate_modal:
 # Distance support modal
 support_modal:
   title: "Jetzt spenden"
-  description_1: "Überlegen Sie sorgfältig, welchen Betrag Sie bereit sind, monatlich zu unterstützen. Fahren Sie dann mit der ersten Zahlung über die Schaltfläche unten fort und geben Sie den Betrag und den Namen des Kindes in die entsprechenden Felder ein."
-  description_2: "Sobald wir Ihre erste Unterstützung erhalten haben, wird sich unser Team in Kürze mit Ihnen in Verbindung setzen, um Ihnen alle weiteren Informationen zu geben."
+  description_1: "Überlegen Sie sorgfältig, welchen Betrag Sie bereit sind, monatlich zu unterstützen."
+  description_2: "Kontaktieren Sie uns vor oder nach der Zahlung und wir geben Ihnen alle weiteren Informationen."
   child_name: "Name des zu unterstützenden Kindes"
 
 # 5x1000 section

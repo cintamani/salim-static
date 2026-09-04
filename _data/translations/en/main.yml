@@ -58,8 +58,8 @@ donate_modal:
 # Distance support modal
 support_modal:
   title: "Donate now"
-  description_1: "Carefully consider the amount you are willing to support monthly. Then proceed with the first payment through the button below, entering the amount and the child's name in the appropriate fields."
-  description_2: "Once we receive your first support, our staff will contact you shortly to provide you with all further information."
+  description_1: "Carefully consider the amount you are willing to support monthly."
+  description_2: "Contact us before or after making a payment and we will provide you with all further information."
   child_name: "Name of the child to support"
 
 # 5x1000 section

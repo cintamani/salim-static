@@ -53,11 +53,6 @@ third_party_cookies:
       provider: "Google Analytics"
       purpose: "Analisi statistica dell'utilizzo del sito"
       type: "Analitico"
-    stripe:
-      name: "__stripe_mid, __stripe_sid"
-      provider: "Stripe"
-      purpose: "Elaborazione pagamenti e prevenzione frodi"
-      type: "Funzionale"
 
 google_analytics:
   title: "Google Analytics"
